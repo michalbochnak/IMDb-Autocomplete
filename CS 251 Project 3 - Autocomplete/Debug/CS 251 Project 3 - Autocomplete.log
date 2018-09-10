@@ -1,0 +1,9 @@
+﻿  main.c
+  bst.c
+c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\bst.c(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\bst.c(241): warning C4018: '<': signed/unsigned mismatch
+c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\bst.c(270): warning C4018: '<': signed/unsigned mismatch
+c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\bst.c(276): warning C4047: '=': 'BSTKey' differs in levels of indirection from 'BSTKey *'
+  Generating Code...
+  CS 251 Project 3 - Autocomplete.vcxproj -> C:\Users\Michal\Documents\Visual Studio 2015\Projects\CS 251 Project 3 - Autocomplete\Debug\CS 251 Project 3 - Autocomplete.exe
+  CS 251 Project 3 - Autocomplete.vcxproj -> C:\Users\Michal\Documents\Visual Studio 2015\Projects\CS 251 Project 3 - Autocomplete\Debug\CS 251 Project 3 - Autocomplete.pdb (Full PDB)

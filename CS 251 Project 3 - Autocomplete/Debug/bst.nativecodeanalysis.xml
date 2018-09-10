@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+      <FILENAME>bst.c</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'tree'. </DESCRIPTION>
+    <FUNCTION>BSTCreate</FUNCTION>
+    <DECORATED>BSTCreate</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>29</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'tree' may be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>30</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'tree' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+      <FILENAME>bst.c</FILENAME>
+      <LINE>124</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>Buffer overrun while writing to 'keyPart':  the writable size is '((sizeof(char)*((strlen(phrase)))))+1' bytes, but '2' bytes might be written.</DESCRIPTION>
+    <FUNCTION>BSTSearchPhrase</FUNCTION>
+    <DECORATED>BSTSearchPhrase</DECORATED>
+    <FUNCLINE>112</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>116</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'keyPart' is a 0 byte array</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>119</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'cur!=(((void *)0))')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'i&lt;strlen(phrase)')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>122</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>35</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'i' may equal 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Exit this loop, ('i&lt;strlen(phrase)' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>124</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Invalid write to 'keyPart', (outside its writable range)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+      <FILENAME>bst.c</FILENAME>
+      <LINE>124</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'keyPart'. </DESCRIPTION>
+    <FUNCTION>BSTSearchPhrase</FUNCTION>
+    <DECORATED>BSTSearchPhrase</DECORATED>
+    <FUNCLINE>112</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>116</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'keyPart' may be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>119</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'cur!=(((void *)0))')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>124</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'keyPart' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+      <FILENAME>bst.c</FILENAME>
+      <LINE>169</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6387</DEFECTCODE>
+    <DESCRIPTION>'T-&gt;Key' could be '0':  this does not adhere to the specification for the function 'strcpy'. </DESCRIPTION>
+    <FUNCTION>BSTInsert</FUNCTION>
+    <DECORATED>BSTInsert</DECORATED>
+    <FUNCLINE>143</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>144</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>145</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>150</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this loop, (assume 'cur!=(((void *)0))' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>167</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>168</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>169</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'Key' is an In/Out argument to 'strcpy' (declared at c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h:119)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>169</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'T-&gt;Key' should not be NULL, because this is not consistent with the SAL annotation on 'strcpy'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+      <FILENAME>bst.c</FILENAME>
+      <LINE>168</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'T'. </DESCRIPTION>
+    <FUNCTION>BSTInsert</FUNCTION>
+    <DECORATED>BSTInsert</DECORATED>
+    <FUNCLINE>143</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>144</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>145</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>150</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>167</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'T' may be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>168</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'T' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+      <FILENAME>bst.c</FILENAME>
+      <LINE>242</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>Buffer overrun while writing to 'keyPart':  the writable size is '((sizeof(char)*((strlen(phrase)))))+1' bytes, but '2' bytes might be written.</DESCRIPTION>
+    <FUNCTION>BSTCountMatches</FUNCTION>
+    <DECORATED>BSTCountMatches</DECORATED>
+    <FUNCLINE>225</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>226</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>227</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>230</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>233</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>237</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'keyPart' is a 0 byte array</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>240</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>240</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'i&lt;strlen(phrase)')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>241</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>240</LINE>
+        <COLUMN>34</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'i' may equal 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>240</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Exit this loop, ('i&lt;strlen(phrase)' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>242</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Invalid write to 'keyPart', (outside its writable range)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+      <FILENAME>bst.c</FILENAME>
+      <LINE>242</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'keyPart'. </DESCRIPTION>
+    <FUNCTION>BSTCountMatches</FUNCTION>
+    <DECORATED>BSTCountMatches</DECORATED>
+    <FUNCLINE>225</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>226</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>227</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>230</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>233</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>237</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'keyPart' may be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>240</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>240</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>242</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'keyPart' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+      <FILENAME>bst.c</FILENAME>
+      <LINE>271</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>Buffer overrun while writing to 'keyPart':  the writable size is '((sizeof(char)*((strlen(phrase)))))+1' bytes, but '2' bytes might be written.</DESCRIPTION>
+    <FUNCTION>BSTInsertInArray</FUNCTION>
+    <DECORATED>BSTInsertInArray</DECORATED>
+    <FUNCLINE>254</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>255</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>258</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>262</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>266</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'keyPart' is a 0 byte array</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>269</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>269</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'i&lt;strlen(phrase)')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>270</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>269</LINE>
+        <COLUMN>35</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'i' may equal 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>269</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Exit this loop, ('i&lt;strlen(phrase)' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>271</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Invalid write to 'keyPart', (outside its writable range)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+      <FILENAME>bst.c</FILENAME>
+      <LINE>271</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'keyPart'. </DESCRIPTION>
+    <FUNCTION>BSTInsertInArray</FUNCTION>
+    <DECORATED>BSTInsertInArray</DECORATED>
+    <FUNCLINE>254</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>255</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>258</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>262</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>266</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'keyPart' may be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>269</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>269</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>271</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'keyPart' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+      <FILENAME>bst.c</FILENAME>
+      <LINE>276</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6387</DEFECTCODE>
+    <DESCRIPTION>'matched[*index].Key' could be '0':  this does not adhere to the specification for the function 'strcpy'. </DESCRIPTION>
+    <FUNCTION>BSTInsertInArray</FUNCTION>
+    <DECORATED>BSTInsertInArray</DECORATED>
+    <FUNCLINE>254</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>255</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>258</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume 'root==(((void *)0))' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>262</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>266</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>269</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>269</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>271</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>273</LINE>
+        <COLUMN>38</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this branch, (assume '&lt;branch condition&gt;')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>274</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>275</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>276</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'*index' is an In/Out argument to 'strcpy' (declared at c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h:119)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\michal\documents\visual studio 2015\projects\cs 251 project 3 - autocomplete\cs 251 project 3 - autocomplete\</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>276</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'matched[*index].Key' should not be NULL, because this is not consistent with the SAL annotation on 'strcpy'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

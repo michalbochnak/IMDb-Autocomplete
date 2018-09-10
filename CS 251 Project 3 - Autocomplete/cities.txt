@@ -1,0 +1,6317 @@
+	  14608512	Shanghai, China
+	  13076300	Buenos Aires, Argentina
+	  12691836	Mumbai, India
+	  12294193	Mexico City, Distrito Federal, Mexico
+	  11624219	Karachi, Pakistan
+	  11174257	Istanbul, Turkey
+	  10927986	Delhi, India
+	  10444527	Manila, Philippines
+	  10381222	Moscow, Russia
+	  10356500	Dhaka, Bangladesh
+	  10349312	Seoul, South Korea
+	  10021295	Spo Paulo, Brazil
+	   9000000	Lagos, Nigeria
+	   8540121	Jakarta, Indonesia
+	   8336599	Tokyo, Japan
+	   8263100	Zhumadian, China
+	   8175133	New York, New York, United States
+	   7871900	Taipei, Taiwan
+	   7785965	Kinshasa, Democratic Republic of the Congo
+	   7737002	Lima, Peru
+	   7734614	Cairo, Egypt
+	   7556900	London, United Kingdom
+	   7480601	Beijing, China
+	   7153309	Tehran, Iran
+	   7150000	Nanchong, China
+	   7102602	Bogot», Colombia
+	   7012738	Hong Kong, China
+	   6310888	Lahore, Pakistan
+	   6023699	Rio de Janeiro, Brazil
+	   5672513	Baghdad, Iraq
+	   5499000	Taiªan, China
+	   5104476	Bangkok, Thailand
+	   5104047	Bangalore, India
+	   5000000	Yueyang, China
+	   4837295	Santiago, Chile
+	   4800000	Kaifeng, China
+	   4631392	Kolkata, India
+	   4612191	Toronto, Ontario, Canada
+	   4477638	Yangon, Myanmar
+	   4394576	Sydney, New South Wales, Australia
+	   4328063	Chennai, India
+	   4205961	Riyadh, Saudi Arabia
+	   4184206	Wuhan, China
+	   4039745	Saint Petersburg, Russia
+	   3967028	Chongqing, China
+	   3950437	Chengdu, China
+	   3920222	Chittagong, Bangladesh
+	   3811516	Alexandria, Egypt
+	   3792621	Los Angeles, California, United States
+	   3766207	Tianjin, China
+	   3730206	Melbourne, Victoria, Australia
+	   3719710	Ahmadabad, India
+	   3678555	Pusan, South Korea
+	   3677115	Abidjan, Cote d'Ivoire
+	   3626068	Kano, Nigeria
+	   3597816	Hyderabad, India
+	   3590000	Puyang, China
+	   3574443	Yokohama-shi, Japan
+	   3565108	Ibadan, Nigeria
+	   3547809	Singapore, Singapore
+	   3517182	Ankara, Turkey
+	   3512192	Shenyang, China
+	   3467331	H? Chf Minh City, Vietnam
+	   3460000	Shiyan, China
+	   3433441	Cape Town, South Africa
+	   3426354	Berlin, Germany
+	   3268513	MontrTal, Quebec, Canada
+	   3255944	Madrid, Spain
+	   3229883	Harbin, China
+	   3225812	Xiªan, China
+	   3222000	Pyongyang, North Korea
+	   3200000	Lanzhou, China
+	   3152825	Guangzhou, China
+	   3144909	Casablanca, Morocco
+	   3120282	Durban, South Africa
+	   3087010	Nanjing, China
+	   3043532	Kabul, Afghanistan
+	   3000000	Shenzhen, China
+	   3000000	Caracas, Venezuela
+	   2935744	Pune, India
+	   2894504	Surat, India
+	   2867446	Jeddah, Saudi Arabia
+	   2823249	Kanpur, India
+	   2776168	Luanda, Angola
+	   2757729	Addis Ababa, Ethiopia
+	   2750547	Nairobi, Kenya
+	   2722475	Taiyuan, China
+	   2711840	Salvador, Brazil
+	   2711758	Jaipur, India
+	   2698652	Dar es Salaam, Tanzania
+	   2695598	Chicago, Illinois, United States
+	   2628000	Incheon, South Korea
+	   2612800	Yunfu, China
+	   2600000	Al Basrah, Iraq
+	   2592413	Osaka-shi, Japan
+	   2587183	Mogadishu, Somalia
+	   2566540	Taegu, South Korea
+	   2563241	Rome, Italy
+	   2537421	Changchun, China
+	   2514227	Kiev, Ukraine
+	   2506595	Faisalabad, Pakistan
+	   2500603	Izmir, Turkey
+	   2493400	Zhongshan, China
+	   2472011	Lucknow, India
+	   2443203	Al Jizah, Egypt
+	   2400000	Fortaleza, Brazil
+	   2392877	Cali, Colombia
+	   2374658	Surabaya, Indonesia
+	   2373224	Belo Horizonte, Brazil
+	   2352057	Dakar, Senegal
+	   2307177	Mashhad, Iran
+	   2228018	Nagpur, India
+	   2225000	Maracaibo, Venezuela
+	   2207929	Raigarh Fort, India
+	   2207718	Brasflia, Brazil
+	   2201941	Santo Domingo, Dominican Republic
+	   2191279	Nagoya-shi, Japan
+	   2163824	Havana, Cuba
+	   2138551	Paris, France
+	   2099451	Houston, Texas, United States
+	   2073938	Changsha, China
+	   2069266	Jinan, China
+	   2065597	Mosul, Iraq
+	   2035307	Dalian, China
+	   2026469	Johannesburg, South Africa
+	   2015483	Al Ba?rah, Iraq
+	   2014125	Zhengzhou, China
+	   2000900	Almaty, Kazakhstan
+	   1999979	Medellfn, Colombia
+	   1992474	Shijiazhuang, China
+	   1978028	Tashkent, Uzbekistan
+	   1977663	Algiers, Algeria
+	   1974647	Khartoum, Sudan
+	   1963264	Accra, Ghana
+	   1952029	Guayaquil, Ecuador
+	   1937451	Sanaa, Yemen
+	   1916100	Beirut, Lebanon
+	   1883027	Sapporo-shi, Japan
+	   1881977	Jilin, China
+	   1878129	Hangzhou, China
+	   1877155	Bucharest, Romania
+	   1871351	Nanchang, China
+	   1837969	Vancouver, British Columbia, Canada
+	   1837041	Indore, India
+	   1820888	Iztapalapa, Distrito Federal, Mexico
+	   1806226	Ecatepec, MTxico, Mexico
+	   1767200	Conakry, Guinea
+	   1754256	Maracay, Venezuela
+	   1750971	Medan, Indonesia
+	   1743101	Rawalpindi, Pakistan
+	   1742124	Minsk, Belarus
+	   1739117	Hamburg, Germany
+	   1718421	Curitiba, Brazil
+	   1702139	Warsaw, Poland
+	   1699719	Bandung, Indonesia
+	   1696128	Budapest, Hungary
+	   1695047	Soweto, South Africa
+	   1691468	Vienna, Austria
+	   1655753	Rabat, Morocco
+	   1642245	Qingdao, China
+	   1640589	Guadalajara, Jalisco, Mexico
+	   1621537	Barcelona, Spain
+	   1619438	Pretoria, South Africa
+	   1602264	Aleppo, Syria
+	   1599920	Patna, India
+	   1599914	Bhopal, India
+	   1598210	Manaus, Brazil
+	   1596949	Tangshan, China
+	   1590668	Xinyang, China
+	   1590256	Puebla de Zaragoza, Puebla, Mexico
+	   1582102	Kaduna, Nigeria
+	   1573544	Phnom Penh, Cambodia
+	   1569394	Damascus, Syria
+	   1547164	Esfahan, Iran
+	   1545368	Ludhiana, India
+	   1542813	Harare, Zimbabwe
+	   1528478	Kobe-shi, Japan
+	   1526006	Philadelphia, Pennsylvania, United States
+	   1520119	Bekasi, Indonesia
+	   1519711	Kaohsiung, Taiwan
+	   1512354	Ciudad Ju»rez, Chihuahua, Mexico
+	   1508225	Urumqi, China
+	   1482200	Asunci=n, Paraguay
+	   1478098	Recife, Brazil
+	   1475221	Taiden, South Korea
+	   1468609	Kumasi, Ghana
+	   1459640	Kyoto, Japan
+	   1453975	Kuala Lumpur, Malaysia
+	   1448075	Karaj, Iran
+	   1446704	Perth, Western Australia, Australia
+	   1445632	Phoenix, Arizona, United States
+	   1442271	Kathmandu, Nepal
+	   1441500	Palembang, Indonesia
+	   1437230	Multan, Pakistan
+	   1431270	Hanoi, Vietnam
+	   1430885	Kharkiv, Ukraine
+	   1430055	Agra, India
+	   1428214	C=rdoba, Argentina
+	   1424641	Tabriz, Iran
+	   1419007	Novosibirsk, Russia
+	   1416938	Kwangju, South Korea
+	   1412701	Bursa, Turkey
+	   1409476	Vadodara, India
+	   1407737	BelTm, Brazil
+	   1400646	Fushun, China
+	   1399814	Quito, Ecuador
+	   1392289	Fukuoka-shi, Japan
+	   1391433	Antananarivo, Madagascar
+	   1390581	Luoyang, China
+	   1388904	Hefei, China
+	   1386330	Hyderabad, Pakistan
+	   1385083	Valencia, Venezuela
+	   1384471	Gujranwala, Pakistan
+	   1380425	Barranquilla, Colombia
+	   1380000	Liuyang, China
+	   1376457	Tijuana, Baja California, Mexico
+	   1373770	Lubumbashi, Democratic Republic of the Congo
+	   1372741	Porto Alegre, Brazil
+	   1372124	Tangerang, Indonesia
+	   1364389	Santa Cruz de la Sierra, Bolivia
+	   1358318	Handan, China
+	   1353189	Kampala, Uganda
+	   1343091	Suzhou, China
+	   1342339	Khulna, Bangladesh
+	   1338082	Douala, Cameroon
+	   1333973	Shantou, China
+	   1327407	San Antonio, Texas, United States
+	   1324570	Gorakhpur, India
+	   1323624	Mecca, Saudi Arabia
+	   1321717	Makassar, Indonesia
+	   1307402	San Diego, California, United States
+	   1306785	Kawasaki, Japan
+	   1306661	Milano, Italy
+	   1301768	Baotou, China
+	   1300000	Medina, Saudi Arabia
+	   1299369	YaoundT, Cameroon
+	   1297281	Bamako, Mali
+	   1289497	Nasik, India
+	   1288084	Semarang, Indonesia
+	   1287573	Yekaterinburg, Russia
+	   1284609	Brazzaville, Republic of Congo
+	   1284606	Pimpri, India
+	   1284164	Nizhniy Novgorod, Russia
+	   1275857	Amman, Jordan
+	   1273715	Budta, Philippines
+	   1273651	Belgrade, Serbia
+	   1270737	Montevideo, Uruguay
+	   1267440	Lusaka, Zambia
+	   1262255	Kalyan, India
+	   1261517	Thane, India
+	   1260391	Mnnchen, Germany
+	   1253309	Stockholm, Sweden
+	   1251739	Raªs Bayrut, Lebanon
+	   1249942	Shiraz, Iran
+	   1248988	Adana, Turkey
+	   1242724	Suigen, South Korea
+	   1234742	Port-au-Prince, Haiti
+	   1232220	Ciudad Nezahualc=yotl, MTxico, Mexico
+	   1223184	Meerut, India
+	   1220229	Faridabad, India
+	   1218773	Peshawar, Pakistan
+	   1212504	Davao, Philippines
+	   1208099	Mandalay, Myanmar
+	   1200000	Santiago de los Caballeros, Dominican Republic
+	   1200000	Omdurman, Sudan
+	   1199275	Anshan, China
+	   1199193	Tongshan, China
+	   1199191	Ghaziabad, India
+	   1198129	Depok, Indonesia
+	   1197816	Dallas, Texas, United States
+	   1193350	Saitama, Japan
+	   1193161	Gustavo A. Madero, Distrito Federal, Mexico
+	   1193000	Dombivli, India
+	   1191613	Maputo, Mozambique
+	   1179720	Fuzhou, China
+	   1177362	Rajkot, India
+	   1173533	Rosario, Argentina
+	   1171633	Guiyang, China
+	   1171195	GoiGnia, Brazil
+	   1169577	Guarulhos, Brazil
+	   1165581	Prague, Czech Republic
+	   1164404	Benares, India
+	   1153615	Copenhagen, Denmark
+	   1152556	Sofia, Bulgaria
+	   1150989	Tripoli, Libya
+	   1148665	Port Harcourt, Nigeria
+	   1143841	Hiroshima-shi, Japan
+	   1137600	Dayan, China
+	   1137347	Dubai, United Arab Emirates
+	   1134730	Samara, Russia
+	   1129281	Omsk, Russia
+	   1125058	Benin City, Nigeria
+	   1122874	Monterrey, Nuevo Le=n, Mexico
+	   1121974	Malingao, Philippines
+	   1116513	Baku, Azerbaijan
+	   1114626	Le=n, Guanajuato, Mexico
+	   1112449	Maiduguri, Nigeria
+	   1108647	Wuxi, China
+	   1104738	Kazan, Russia
+	   1093485	Yerevan, Armenia
+	   1092450	Amritsar, India
+	   1086505	Ouagadougou, Burkina Faso
+	   1077730	Yono, Japan
+	   1074482	Rostov-na-Donu, Russia
+	   1074159	Adelaide, South Australia, Australia
+	   1073438	Allahabad, India
+	   1073069	Goyang, South Korea
+	   1065975	Gaziantep, Turkey
+	   1063178	Vishakhapatnam, India
+	   1062919	Chelyabinsk, Russia
+	   1052678	Datong, China
+	   1049498	Tbilisi, Georgia
+	   1047700	Changshu City, China
+	   1040725	Taichung, Taiwan
+	   1037562	Sendai-shi, Japan
+	   1034724	Teni, India
+	   1034081	Xianyang, China
+	   1033338	Ufa, Russia
+	   1032822	Dnipropetrovsk, Ukraine
+	   1031935	Seongnam, South Korea
+	   1031554	Campinas, Brazil
+	   1030168	Jabalpur, India
+	   1027672	Haora, India
+	   1027655	Huainan, China
+	   1024700	Donetsªk, Ukraine
+	   1024027	Dublin, Ireland
+	   1023674	Kunming, China
+	   1019942	Calgary, Alberta, Canada
+	   1019022	Brussels, Belgium
+	   1016441	Aurangabad, India
+	   1011417	Volgograd, Russia
+	   1002118	Nova Iguatu, Brazil
+	   1001985	Jieyang, China
+	   1001558	Odessa, Ukraine
+	   1000000	Zhu Cheng City, China
+	   1000000	Shivaji Nagar, India
+	   1000000	Masjid Jamie Baitul Muttaqien, Indonesia
+		997536	Kitakyushu, Japan
+		997281	Solapur, India
+		995652	Baoding, China
+		994938	Guatemala City, Guatemala
+		988972	Napoli, Italy
+		987717	Benxi, China
+		987516	Zapopan, Jalisco, Mexico
+		984333	Birmingham, United Kingdom
+		982419	Permª, Russia
+		975857	Srinagar, India
+		975153	Zaria, Nigeria
+		973087	Managua, Nicaragua
+		967677	Port Elizabeth, South Africa
+		964891	FFs, Morocco
+		963395	Kÿln, Germany
+		962865	Ulsan, South Korea
+		959823	Coimbatore, India
+		958504	Brisbane, Queensland, Australia
+		954991	Macei=, Brazil
+		952024	Cartagena, Colombia
+		949018	Changzhou, China
+		946697	Sultanah, Saudi Arabia
+		945942	San Jose, California, United States
+		939524	Monrovia, Liberia
+		938254	Mamuju, Indonesia
+		937700	Kingston, Jamaica
+		932800	Erbil, Iraq
+		927200	Krasnoyarsk, Russia
+		925000	Nay Pyi Taw, Myanmar
+		921476	Jodhpur, India
+		919729	Chiba-shi, Japan
+		917237	Spo Lufs, Brazil
+		914371	Chandigarh, India
+		909908	Madurai, India
+		903485	SalT, Morocco
+		903039	Huaibei, China
+		900414	Cochabamba, Bolivia
+		900000	Qom, Iran
+		900000	Abu Ghurayb, Iraq
+		900000	Abobo, Cote d'Ivoire
+		900000	Bishkek, Kyrgyzstan
+		899094	Guwahati, India
+		897560	Aba, Nigeria
+		889675	Pingdingshan, China
+		882458	Gwalior, India
+		882364	Qiqihar, China
+		879867	Klang, Malaysia
+		876884	Mendoza, Argentina
+		875530	Konya, Turkey
+		874761	Mbuji-Mayi, Democratic Republic of the Congo
+		874587	Vijayawada, India
+		874062	Pikine, Senegal
+		868313	Mysore, India
+		865672	Wenzhou, China
+		865263	Torino, Italy
+		863725	Saratov, Russia
+		850848	Tegucigalpa, Honduras
+		850731	Bucheon, South Korea
+		848752	Voronezh, Russia
+		846454	Ranchi, India
+		846185	Naucalpan de Ju»rez, MTxico, Mexico
+		844818	Ulaanbaatar, Mongolia
+		841145	Ahvaz, Iran
+		841130	Arequipa, Peru
+		840352	Padang, Indonesia
+		840214	Hubli, India
+		839296	Marrakech, Morocco
+		833571	Kampung Baru Subang, Malaysia
+		829718	Indianapolis, Indiana, United States
+		821784	Jacksonville, Florida, United States
+		818329	Duque de Caxias, Brazil
+		816824	Jos, Nigeria
+		814208	Valencia, Spain
+		814192	Ilorin, Nigeria
+		813264	Callao, Peru
+		812799	La Paz, Bolivia
+		812129	Ottawa, Ontario, Canada
+		809490	Barquisimeto, Venezuela
+		805235	San Francisco, California, United States
+		803788	Nanning, China
+		802639	Freetown, Sierra Leone
+		802489	Johor Bahru, Malaysia
+		800348	Bandarlampung, Indonesia
+		800000	Zagreb - Centar, Croatia
+		800000	Bogor, Indonesia
+		799668	Mombasa, Kenya
+		798634	Cebu City, Philippines
+		797000	Muscat, Oman
+		796217	Zaporizhzhya, Ukraine
+		794811	Marseille, France
+		792665	Az Zarqaª, Jordan
+		792189	¬ankaya, Turkey
+		790390	Austin, Texas, United States
+		787033	Columbus, Ohio, United States
+		786499	Boumerdas, Algeria
+		785178	Jalandhar, India
+		784153	Thiruvananthapuram, India
+		782339	Sakai, Japan
+		781129	Anyang, China
+		781023	San Miguel de Tucum»n, Argentina
+		778396	Salem, India
+		775484	Tiruchchirappalli, India
+		775404	Hums, Syria
+		774477	Hohhot, China
+		774235	Niamey, Niger
+		771235	Tainan, Taiwan
+		770000	Shangyu, China
+		768755	L=dz, Poland
+		768602	Ad Dammam, Saudi Arabia
+		767531	Xining, China
+		766706	Kahriz, Iran
+		763088	Kota, India
+		763043	Natal, Brazil
+		762243	Bhubaneshwar, India
+		759718	Qinhuangdao, China
+		759602	Hengyang, China
+		758188	Antalya, Turkey
+		755050	Krak=w, Poland
+		753207	Aligarh, India
+		752493	Turan, Vietnam
+		750845	Pietermaritzburg, South Africa
+		749700	LomT, Togo
+		747450	Trujillo, Peru
+		746716	Malang, Indonesia
+		746535	Ciudad Guayana, Venezuela
+		745435	Bareilly, India
+		745261	Kigali, Rwanda
+		744512	Teresina, Brazil
+		743601	Xinxiang, China
+		743372	Spo Bernardo do Campo, Brazil
+		743307	Hegang, China
+		742572	Riga, Latvia
+		741636	Amsterdam, Netherlands
+		741206	Fort Worth, Texas, United States
+		736072	Oyo, Nigeria
+		733675	Quetta, Pakistan
+		731424	Charlotte, North Carolina, United States
+		729151	Campo Grande, Brazil
+		729137	Athens, Greece
+		727700	Ashgabat, Turkmenistan
+		724921	Guadalupe, Nuevo Le=n, Mexico
+		724270	Bagcilar, Turkey
+		723170	As Sulaymaniyah, Iraq
+		721398	C+cuta, Colombia
+		721139	Moradabad, India
+		721081	N'Djamena, Chad
+		720119	Langfang, China
+		719867	Ningbo, China
+		719332	Yantai, China
+		717803	L'viv, Ukraine
+		717175	MTrida, Yucat»n, Mexico
+		715767	Tlalnepantla, MTxico, Mexico
+		714000	Jerusalem, Israel
+		713777	Detroit, Michigan, United States
+		712391	Edmonton, Alberta, Canada
+		711424	Tsiuentcheou, South Korea
+		709358	Zhuzhou, China
+		708267	Chihuahua, Chihuahua, Mexico
+		707035	Bhiwandi, India
+		706567	Alvaro Obreg=n, Distrito Federal, Mexico
+		703956	Pekanbaru, Indonesia
+		703206	Sevilla, Spain
+		702879	Tolªyatti, Russia
+		702621	Jaboatpo, Brazil
+		701561	Shizuoka-shi, Japan
+		700133	Rajshahi, Bangladesh
+		699514	Changzhi, China
+		699385	Bulawayo, Zimbabwe
+		698966	Zagreb, Croatia
+		698310	Agadir, Morocco
+		696731	Sarajevo, Bosnia and Herzegovina
+		694167	La Plata, Argentina
+		693210	Tunis, Tunisia
+		692602	Zhangjiakou, China
+		690584	Cotonou, Benin
+		689961	Zigong, China
+		689050	Fuxin, China
+		688862	Enugu, Nigeria
+		688356	Tangier, Morocco
+		688090	Huangshi, China
+		687890	Liaoyang, China
+		686237	Nerima, Japan
+		680423	Kumamoto-shi, Japan
+		679995	Raipur, India
+		677856	Osasco, Brazil
+		677704	San Luis Potosf, San Luis Potosf, Mexico
+		674317	Zaragoza, Spain
+		674189	Xiangtan, China
+		673318	Ipoh, Malaysia
+		672175	Palermo, Italy
+		669770	Zibo, China
+		668549	Mississauga, Ontario, Canada
+		666251	Nantong, China
+		665915	Mudanjiang, China
+		662373	Santo AndrT, Brazil
+		661400	Nouakchott, Mauritania
+		659084	Pointe-Noire, Republic of Congo
+		658179	Aguascalientes, Aguascalientes, Mexico
+		652380	Kryvyy Rih, Ukraine
+		652136	Acapulco de Ju»rez, Guerrero, Mexico
+		650883	Jopo Pessoa, Brazil
+		650728	Ansan, South Korea
+		650629	Benghazi, Libya
+		650000	Frankfurt am Main, Germany
+		649851	Krasnodar, Russia
+		649352	Guilin, China
+		649121	El Paso, Texas, United States
+		648801	Sagamihara, Japan
+		648034	Colombo, Sri Lanka
+		646889	Memphis, Tennessee, United States
+		646750	Lilongwe, Malawi
+		645984	Oran, Algeria
+		644763	Diyarbakir, Turkey
+		640680	Ul'yanovsk, Russia
+		640000	Kotli, Pakistan
+		639652	Okayama-shi, Japan
+		637790	Zhanjiang, China
+		636660	Yogyakarta, Indonesia
+		636000	North York, Ontario, Canada
+		635994	Chisinau, Moldova
+		634893	Wroclaw, Poland
+		634596	Tyundyu, South Korea
+		634367	Anyang, South Korea
+		632552	Zhenjiang, China
+		632063	Winnipeg, Manitoba, Canada
+		631973	Dandong, China
+		631038	Izhevsk, Russia
+		630008	Jaboatpo dos Guararapes, Brazil
+		628749	Shaoguan, China
+		628441	Yancheng, China
+		628063	Coyoac»n, Distrito Federal, Mexico
+		627348	Foshan, China
+		627123	Contagem, Brazil
+		625138	Bhilai, India
+		625040	Panshan, China
+		623891	Djibouti, Djibouti
+		621250	Saltillo, Coahuila, Mexico
+		621100	Kermanshah, Iran
+		620961	Baltimore, Maryland, United States
+		617871	Al ?udaydah, Yemen
+		617594	Boston, Massachusetts, United States
+		616338	Jamshedpur, India
+		615835	Haikou, China
+		615222	Ta¦izz, Yemen
+		613764	Spo JosT dos Campos, Brazil
+		612356	Taizhou, China
+		611785	QuerTtaro, QuerTtaro, Mexico
+		611739	Xingtai, China
+		610268	Glasgow, United Kingdom
+		609617	Borivli, India
+		608660	Seattle, Washington, United States
+		607545	Tlalpan, Distrito Federal, Mexico
+		606730	Yaroslavl', Russia
+		605344	Benoni, South Africa
+		605098	Hamamatsu, Japan
+		604696	Cochin, India
+		604269	Jinzhou, China
+		603837	Amravati, India
+		603492	Abu Dhabi, United Arab Emirates
+		602695	Haiphong, Vietnam
+		601951	Genova, Italy
+		601723	Washington, District of Columbia, United States
+		601600	Islamabad, Pakistan
+		601433	Kirkuk, Iraq
+		601214	Sangli, India
+		600158	Denver, Colorado, United States
+		600000	Shuangyashan, China
+		600000	Situbondo, Indonesia
+		599579	Barnaul, Russia
+		598199	Rotterdam, Netherlands
+		597130	Luancheng, China
+		597099	Mexicali, Baja California, Mexico
+		595811	Hermosillo, Sonora, Mexico
+		594833	Milwaukee, Wisconsin, United States
+		594590	Rasht, Iran
+		593100	Abeokuta, Nigeria
+		593085	Essen, Germany
+		592840	Kayseri, Turkey
+		592797	Morelia, Michoac»n, Mexico
+		591159	Yingkou, China
+		590400	Abuja, Nigeria
+		589831	Zhangzhou, China
+		589793	Stuttgart, Germany
+		588462	Dortmund, Germany
+		587022	Vladivostok, Russia
+		586695	Irkutsk, Russia
+		584877	Blantyre, Malawi
+		583958	New Kingston, Jamaica
+		583776	Portland, Oregon, United States
+		583756	Las Vegas, Nevada, United States
+		582469	Culiac»n, Sinaloa, Mexico
+		580000	Cuttack, India
+		580000	Oslo, Norway
+		579999	Oklahoma City, Oklahoma, United States
+		579399	Hachioji, Japan
+		579000	Khabarovsk, Russia
+		578337	Xiamen, China
+		578303	Khabarovsk Vtoroy, Russia
+		578156	Libreville, Gabon
+		577514	Kerman, Iran
+		577375	Chiclayo, Peru
+		577307	Orumiyeh, Iran
+		576799	Bahtelievler, Turkey
+		576648	Bengbu, China
+		576015	Bikaner, India
+		573265	Umraniye, Turkey
+		573057	Dnsseldorf, Germany
+		572837	Banjarmasin, Indonesia
+		572772	Shihezi, China
+		571820	Bucaramanga, Colombia
+		570407	Kuching, Malaysia
+		570352	Poznan, Poland
+		568313	Veracruz, Veracruz, Mexico
+		568305	M»laga, Spain
+		567481	BouakT, Cote d'Ivoire
+		563930	Asmara, Eritrea
+		563861	Sokoto, Nigeria
+		563536	UberlGndia, Brazil
+		561066	Onitsha, Nigeria
+		560743	Funabashi, Japan
+		559056	Hamhung, North Korea
+		558862	Sorocaba, Brazil
+		558457	Helsinki, Finland
+		557802	Warangal, India
+		555865	Santiago de Cuba, Cuba
+		555609	Siping, China
+		555352	Kagoshima-shi, Japan
+		555308	Surakarta, Indonesia
+		555230	Huaiyin, China
+		554978	Bhavnagar, India
+		553935	Mar del Plata, Argentina
+		552607	Bahawalpur, Pakistan
+		551980	Zahedan, Iran
+		551267	Ribeirpo Preto, Brazil
+		550602	Aden, Yemen
+		550204	Orenburg, Russia
+		550000	Pristina, Kosovo
+		550000	Sangwon, South Korea
+		549549	Jiamusi, China
+		549543	Antipolo, Philippines
+		546854	Neijiang, China
+		546501	Bremen, Germany
+		545852	Albuquerque, New Mexico, United States
+		545705	MeknFs, Morocco
+		543907	Matola, Mozambique
+		543733	Sharjah, United Arab Emirates
+		543342	Banqiao, Taiwan
+		543107	Dushanbe, Tajikistan
+		542603	Sargodha, Pakistan
+		542393	Bangui, Central African Republic
+		542366	Vilnius, Lithuania
+		542043	Canc+n, Quintana Roo, Mexico
+		539715	Yangzhou, China
+		539616	Novokuznetsk, Russia
+		539158	Kisangani, Democratic Republic of the Congo
+		538378	Port Said, Egypt
+		537842	Mercin, Turkey
+		536023	Warri, Nigeria
+		536000	Guli, China
+		535298	Tanggu, China
+		532419	Jiangmen, China
+		530852	Nashville, Tennessee, United States
+		530848	Taªif, Saudi Arabia
+		530604	Beira, Mozambique
+		530577	Guntur, India
+		528595	QuTbec City, Quebec, Canada
+		528256	Hamadan, Iran
+		527681	Cangzhou, China
+		527660	Gold Coast, Queensland, Australia
+		525990	San Salvador, El Salvador
+		524066	Torre=n, Coahuila, Mexico
+		522081	Dehra Dun, India
+		521934	Cuiab», Brazil
+		521348	CuauhtTmoc, Distrito Federal, Mexico
+		521034	Ciudad L=pez Mateos, MTxico, Mexico
+		520698	Petaling Jaya, Malaysia
+		520400	Macau, China
+		520235	Esenler, Turkey
+		520173	Ryazanª, Russia
+		520116	Tucson, Arizona, United States
+		519119	Tyumenª, Russia
+		518872	Durgapur, India
+		518788	Quilmes, Argentina
+		517911	Ajmer, India
+		517802	Lisbon, Portugal
+		517780	Changde, China
+		517540	Jiaozuo, China
+		516584	Ulhasnagar, India
+		516142	Kolhapur, India
+		515655	Lipetsk, Russia
+		515574	Shiliguri, India
+		515140	Hannover, Germany
+		514869	Eskisehir, Turkey
+		514102	Azadshahr, Iran
+		512686	Salta, Argentina
+		512602	Penza, Russia
+		511655	Tembisa, South Africa
+		510840	Mykolayiv, Ukraine
+		510770	Aparecida de GoiGnia, Brazil
+		510417	Puente Alto, Chile
+		509870	Naberezhnyye Chelny, Russia
+		507816	San Nicol»s de los Garza, Nuevo Le=n, Mexico
+		507524	Wuhu, China
+		505881	Toluca, MTxico, Mexico
+		505272	Niigata-shi, Japan
+		504971	Leipzig, Germany
+		504559	Hamilton, Ontario, Canada
+		504358	Duisburg, Germany
+		504271	Asansol, India
+		504084	Gÿteborg, Sweden
+		503647	Arak, Iran
+		502533	Astrakhanª, Russia
+		501199	Zhuhai, China
+		500000	Hoko, South Korea
+		499237	Nuremberg, Germany
+		498780	Shashi, China
+		498654	Reynosa, Tamaulipas, Mexico
+		497959	Makhachkala, Russia
+		497955	Newcastle, New South Wales, Australia
+		494665	Fresno, California, United States
+		493698	Cimahi, Indonesia
+		493646	Tlaquepaque, Jalisco, Mexico
+		492056	Jamnagar, India
+		490175	Aracaju, Brazil
+		489725	Port Sudan, Sudan
+		489505	Santa Fe de la Vera Cruz, Argentina
+		489466	San Pedro Sula, Honduras
+		488125	Suez, Egypt
+		486854	Dresden, Germany
+		485519	Tomsk, Russia
+		485167	Masina, Democratic Republic of the Congo
+		484873	Saharanpur, India
+		483615	Gulbarga, India
+		483129	Bhatpara, India
+		482576	An Najaf al Ashraf, Iraq
+		481911	Feira de Santana, Brazil
+		481654	Shah Alam, Malaysia
+		481626	Mariupol', Ukraine
+		481493	Himeji, Japan
+		481128	Tuxtla GutiTrrez, Chiapas, Mexico
+		480951	Homyelª, Belarus
+		479141	Vijongbu, South Korea
+		478676	East London, South Africa
+		477905	Yazd, Iran
+		477876	Hargeysa, Somalia
+		477396	Sialkot, Pakistan
+		477090	Kemerovo, Russia
+		476725	Yichang, China
+		476297	Hwaseong, South Korea
+		475179	Cuautitl»n Izcalli, MTxico, Mexico
+		475101	Yinchuan, China
+		474889	Skopje, Macedonia
+		474681	Vereeniging, South Africa
+		474292	Den Haag, Netherlands
+		473080	Mixco, Guatemala
+		472317	Lyon, France
+		471832	Londrina, Brazil
+		470804	Jiaojiang, China
+		470277	Matsudo, Japan
+		470193	Juiz de Fora, Brazil
+		468945	Liverpool, United Kingdom
+		468925	Nishinomiya, Japan
+		468825	Tula, Russia
+		468565	Kawaguchi, Japan
+		466488	Sacramento, California, United States
+		466292	Zunyi, China
+		466101	Jiaxing, China
+		466096	Belford Roxo, Brazil
+		465567	Jammu, India
+		465249	Liaoyuan, China
+		463546	Kananga, Democratic Republic of the Congo
+		463064	Bloemfontein, South Africa
+		462956	Xiangyang, China
+		462257	Long Beach, California, United States
+		461865	Gdansk, Poland
+		461796	Calabar, Nigeria
+		461513	Dadukou, China
+		461304	Joinville, Brazil
+		460602	?amah, Syria
+		459805	Antwerpen, Belgium
+		459787	Kansas City, Missouri, United States
+		458937	Kanazawa-shi, Japan
+		458240	Ichikawa, Japan
+		458000	Karabaglar, Turkey
+		457623	Zamboanga, Philippines
+		457383	Kirov, Russia
+		457346	Ujjain, India
+		457326	Kota Kinabalu, Malaysia
+		457140	Durango, Durango, Mexico
+		456456	Niter=i, Brazil
+		456356	Hengshui, China
+		455450	Tabuk, Saudi Arabia
+		455173	Pontianak, Indonesia
+		455123	Leeds, United Kingdom
+		455000	Nampªo, North Korea
+		454898	Bacolod City, Philippines
+		454849	Spo Jopo de Meriti, Brazil
+		454150	Mansilingan, Philippines
+		452000	Luhansªk, Ukraine
+		451893	Manado, Indonesia
+		451800	Karagandy, Kazakhstan
+		451800	Qaraghandy, Kazakhstan
+		450327	Jining, China
+		450097	Constantine, Algeria
+		449865	Utsunomiya-shi, Japan
+		449549	Sanliurfa, Turkey
+		449325	Chengde, China
+		449258	Xuchang, China
+		448907	Oita-shi, Japan
+		447459	Venustiano Carranza, Distrito Federal, Mexico
+		447048	San Juan, Argentina
+		447047	Sheffield, United Kingdom
+		446781	Cheboksary, Russia
+		445168	Boksburg, South Africa
+		445103	Cagayan de Oro, Philippines
+		443322	Matsuyama-shi, Japan
+		442173	Amagasaki, Japan
+		442156	Carrefour, Haiti
+		441876	Dasmariªas, Philippines
+		441805	Malatya, Turkey
+		440894	Nangi, India
+		440118	Pereira, Colombia
+		439922	Calicut, India
+		439041	Mesa, Arizona, United States
+		438861	Mawlamyine, Myanmar
+		437994	Virginia Beach, Virginia, United States
+		437620	Iquitos, Peru
+		437581	Kurashiki, Japan
+		436935	Sultangazi, Turkey
+		436899	Garoua, Cameroon
+		436870	Murcia, Spain
+		436801	Mwanza, Tanzania
+		435844	Tirunelveli, India
+		435791	Edinburgh, United Kingdom
+		435547	KoussTri, Cameroon
+		435362	Malegaon, India
+		435145	Heroica Matamoros, Tamaulipas, Mexico
+		434954	Kaliningrad, Russia
+		434450	Karbala, Iraq
+		433956	Ananindeua, Brazil
+		433866	Balikpapan, Indonesia
+		433806	Brampton, Ontario, Canada
+		433055	Toulouse, France
+		432456	Namangan, Uzbekistan
+		432149	Katsina, Nigeria
+		431944	Welkom, South Africa
+		431781	Santa Marta, Colombia
+		431052	Al Ma?allah al Kubr», Egypt
+		430713	Bristol, United Kingdom
+		429298	Jalgaon, India
+		428992	Yokosuka, Japan
+		428857	Akola, India
+		428720	Belgaum, India
+		428304	East Jerusalem, Palestinian Territory
+		427890	Luqiao, China
+		427236	Bryansk, Russia
+		427040	Maltepe, Turkey
+		425298	Azcapotzalco, Distrito Federal, Mexico
+		425148	Jalapa Enrfquez, Veracruz, Mexico
+		424795	Barcelona, Venezuela
+		424787	Chaozhou, China
+		423737	Bratislava, Slovakia
+		423692	Gaya, India
+		422784	Udaipur, India
+		422414	Likasi, Democratic Republic of the Congo
+		422407	Luxor, Egypt
+		421685	IbaguT, Colombia
+		421283	Shaoxing, China
+		420839	Ivanovo, Russia
+		420691	Erzurum, Turkey
+		420594	Akure, Nigeria
+		420585	Asyut, Egypt
+		420323	Jambi, Indonesia
+		420195	Al Mansurah, Egypt
+		420003	Atlanta, Georgia, United States
+		419146	Korba, India
+		418533	Bokaro, India
+		418140	San Juan, Puerto Rico
+		418000	Kolwezi, Democratic Republic of the Congo
+		417910	Auckland, New Zealand
+		417767	Sukkur, Pakistan
+		417387	Mangalore, India
+		417356	Luohe, China
+		416427	Colorado Springs, Colorado, United States
+		414032	Shymkent, Kazakhstan
+		413394	Yangquan, China
+		413351	Magnitogorsk, Russia
+		412927	Jhansi, India
+		412724	Florian=polis, Brazil
+		411422	Wandsbek, Germany
+		411403	Santos, Brazil
+		410972	Maturfn, Venezuela
+		410753	Ardabil, Iran
+		410204	Nagasaki-shi, Japan
+		410005	Chaoyang, China
+		410000	Gaza, Palestinian Territory
+		409431	Kursk, Russia
+		409112	Kitchener, Ontario, Canada
+		408958	Omaha, Nebraska, United States
+		408733	Al ¦Ayn, United Arab Emirates
+		408364	Cheju, South Korea
+		408168	Panam», Panama
+		407811	Szczecin, Poland
+		407208	BiOn H=a, Vietnam
+		406830	Villa Nueva, Guatemala
+		406802	Ribeirpo das Neves, Brazil
+		406331	Hirakata, Japan
+		405923	Denpasar, Indonesia
+		405253	Oujda, Morocco
+		404901	Tanda, Egypt
+		404838	Newcastle, South Africa
+		404458	Xochimilco, Distrito Federal, Mexico
+		404158	Nellore, India
+		404109	Hsinchu, Taiwan
+		403892	Raleigh, North Carolina, United States
+		403759	Jixi, China
+		403658	Zanzibar, Tanzania
+		402014	Taoyuan City, Taiwan
+		401509	Tonal», Jalisco, Mexico
+		401477	Kassala, Sudan
+		401270	Palma, Spain
+		400914	Kitwe, Zambia
+		400249	An Nasiriyah, Iraq
+		400212	Tver', Russia
+		400000	West Jerusalem, Israel
+		399969	Machida, Japan
+		399735	Yangjiang, China
+		399457	Miami, Florida, United States
+		398346	Khmelªnytsªkyy, Ukraine
+		397714	Gifu-shi, Japan
+		397521	Tiruppur, India
+		397515	Keelung, Taiwan
+		396815	Cleveland, Ohio, United States
+		395515	Manchester, United Kingdom
+		395025	Iztacalco, Distrito Federal, Mexico
+		394976	Surrey, British Columbia, Canada
+		394930	Vila Velha, Brazil
+		394732	Weifang, China
+		394624	Fujisawa, Japan
+		394518	Ndola, Zambia
+		394163	Quilon, India
+		394153	Serra, Brazil
+		394050	Samsun, Turkey
+		394024	Tallinn, Estonia
+		393835	Bamenda, Cameroon
+		393311	El Obeid, Sudan
+		392939	Bello, Colombia
+		392444	Xinpu, China
+		392288	Sandakan, Malaysia
+		391906	Tulsa, Oklahoma, United States
+		391336	Buraydah, Saudi Arabia
+		391190	Kandahar, Afghanistan
+		390724	Oakland, California, United States
+		390633	Diadema, Brazil
+		390219	Dongguan, China
+		389411	Comilla, Bangladesh
+		388920	Samut Prakan, Thailand
+		388526	Nampula, Mozambique
+		388028	Bissau, Guinea-Bissau
+		387681	Iloilo, Philippines
+		387553	Khamis Mushayt, Saudi Arabia
+		387417	Campos, Brazil
+		387158	Resistencia, Argentina
+		386120	Misratah, Libya
+		386069	Mau», Brazil
+		385755	Abomey-Calavi, Benin
+		385729	Bochum, Germany
+		384459	Toyonaka, Japan
+		384000	Betim, Brazil
+		383298	Fukuyama, Japan
+		382920	Delmas 73, Haiti
+		382578	Minneapolis, Minnesota, United States
+		382368	Wichita, Kansas, United States
+		382236	Pasto, Colombia
+		381900	Wellington, New Zealand
+		381847	Las Palmas de Gran Canaria, Spain
+		381270	Caxias do Sul, Brazil
+		381116	Nizhniy Tagil, Russia
+		380000	Bochum-Hordel, Germany
+		379555	Dezhou, China
+		379200	Sevastopolª, Ukraine
+		378821	Krugersdorp, South Africa
+		378705	Panihati, India
+		378374	Toyohashi, Japan
+		377061	Zhoukou, China
+		376845	Laval, Quebec, Canada
+		376657	Huancayo, Peru
+		376610	Makiyivka, Ukraine
+		376558	Putian, China
+		376045	Kahramanmaras, Turkey
+		375339	Shimminatocho, Japan
+		374801	Tirana, Albania
+		374699	Spo JosT do Rio Preto, Brazil
+		374643	Kaunas, Lithuania
+		373422	Xuanhua, China
+		372917	Seremban, Malaysia
+		372123	Pingxiang, China
+		371713	Van, Turkey
+		371657	Honolulu, Hawaii, United States
+		371517	Florence, Italy
+		371217	Bologna, Italy
+		370180	Abadan, Iran
+		370000	Fenghuang, China
+		370000	Puerto La Cruz, Venezuela
+		369559	Brno, Czech Republic
+		369200	Mahilyow, Belarus
+		367353	Nara-shi, Japan
+		367140	Ahmadnagar, India
+		366980	Dhule, India
+		366754	Olinda, Brazil
+		366570	Kenitra, Morocco
+		366452	Bydgoszcz, Poland
+		366229	Kuantan, Malaysia
+		365777	Xico, MTxico, Mexico
+		365438	Arlington, Texas, United States
+		365114	Tenan, South Korea
+		364684	Petare, Venezuela
+		364033	Larkana, Pakistan
+		363926	Christchurch, New Zealand
+		363064	Stavropolª, Russia
+		362401	Villahermosa, Tabasco, Mexico
+		362383	Toyota, Japan
+		362000	Manukau City, New Zealand
+		361969	Zhaoqing, China
+		361615	Atasehir, Turkey
+		361548	Bhagalpur, India
+		361303	Sheikhupura, Pakistan
+		361112	Carapicufba, Brazil
+		360797	Wuppertal, Germany
+		360579	Tamale, Ghana
+		360278	Ulan-Ude, Russia
+		360176	Nagano-shi, Japan
+		360106	Bobo-Dioulasso, Burkina Faso
+		360044	Lublin, Poland
+		360000	Shinagawa-ku, Japan
+		359111	Halifax, Nova Scotia, Canada
+		358661	Anqing, China
+		358153	Taraz, Kazakhstan
+		358108	Simferopolª, Ukraine
+		357828	San Jose del Monte, Philippines
+		357814	Manizales, Colombia
+		357545	Kwangmyong, South Korea
+		357471	Zanjan, Iran
+		357309	Iwaki, Japan
+		356974	Bacoor, Philippines
+		356612	Asahikawa, Japan
+		356242	Kimhae, South Korea
+		356051	Arkhangelªsk, Russia
+		356019	Berlin Pankow, Germany
+		355596	Ambon, Indonesia
+		355160	Samarinda, Indonesia
+		355017	Benito Juarez, Distrito Federal, Mexico
+		354860	Bilbao, Spain
+		354717	Mazatl»n, Sinaloa, Mexico
+		354692	Santiago del Estero, Argentina
+		354468	Takatsuki, Japan
+		354290	Thessalonfki, Greece
+		353534	Miguel Hidalgo, Distrito Federal, Mexico
+		352855	Neiva, Colombia
+		352361	Okazaki, Japan
+		352173	Bandar ¦Abbas, Iran
+		352115	Vinnytsya, Ukraine
+		352064	Apodaca, Nuevo Le=n, Mexico
+		351936	Anshun, China
+		351630	Suita, Japan
+		351001	Ixtapaluca, MTxico, Mexico
+		351000	Wakayama-shi, Japan
+		350468	Hualian, Taiwan
+		350000	Punasa, India
+		349706	Muzaffarnagar, India
+		349706	Masan, South Korea
+		349550	Nuevo Laredo, Tamaulipas, Mexico
+		349176	Sanandaj, Iran
+		348967	Latur, India
+		348936	Campina Grande, Brazil
+		347562	Camagney, Cuba
+		347483	Bakersfield, California, United States
+		346765	London, Ontario, Canada
+		346654	Chifeng, China
+		346082	Hungnam, North Korea
+		345604	Astana, Kazakhstan
+		345289	Belgorod, Russia
+		345068	Kusti, Sudan
+		345033	Qitaihe, China
+		344939	Doha, Qatar
+		344700	Turmero, Venezuela
+		344106	Tlahuac, Distrito Federal, Mexico
+		343829	New Orleans, Louisiana, United States
+		343769	Cuernavaca, Morelos, Mexico
+		343129	Kurgan, Russia
+		342900	Bhimbar, Pakistan
+		342700	Vitsyebsk, Belarus
+		342556	Soledad, Colombia
+		342306	Shiqi, China
+		342209	Piracicaba, Brazil
+		341994	Reisui, South Korea
+		341730	Znrich, Switzerland
+		341709	Kukatpalli, India
+		341210	Jhang Sadr, Pakistan
+		341136	Arusha, Tanzania
+		341049	Ambattur, India
+		340560	Koriyama, Japan
+		340494	Plovdiv, Bulgaria
+		340360	Chitungwiza, Zimbabwe
+		340221	Kashiwa, Japan
+		340181	Latakia, Syria
+		340020	Aksu, China
+		339554	Irapuato, Guanajuato, Mexico
+		339435	Tokorozawa, Japan
+		339239	Leicester, United Kingdom
+		339067	Corrientes, Argentina
+		338978	Kaluga, Russia
+		338936	Macap», Brazil
+		338620	Nice, France
+		338155	Kaesong, North Korea
+		338000	Ciudad Bolfvar, Venezuela
+		337931	Kawagoe, Japan
+		337579	Tungi, Bangladesh
+		336681	Bellary, India
+		336679	Itaquaquecetuba, Brazil
+		336265	Anaheim, California, United States
+		335709	Tampa, Florida, United States
+		335570	Kochi-shi, Japan
+		335024	Bauru, Brazil
+		335007	San JosT, Costa Rica
+		334757	Alicante, Spain
+		334223	Takamatsu-shi, Japan
+		333907	Tieling, China
+		333635	Qazvin, Iran
+		333200	Muzaffarpur, India
+		332965	Kamarhati, India
+		332714	Wad Medani, Sudan
+		332650	Jincheng, China
+		332379	Montes Claros, Brazil
+		331906	Bielefeld, Germany
+		331700	Bujumbura, Burundi
+		330606	Khorramshahr, Iran
+		330511	Mathura, India
+		329825	Khorramabad, Iran
+		329708	Soyapango, El Salvador
+		329224	Patiala, India
+		329207	Wonsan, North Korea
+		329078	Berlin Mitte, Germany
+		329002	Pavlodar, Kazakhstan
+		328428	C=rdoba, Spain
+		328351	Chandrapur, India
+		328291	Canoas, Brazil
+		327700	Canberra, Australian Capital Territory, Australia
+		327608	Sochi, Russia
+		327000	Chªongjin, North Korea
+		326957	Yanji, China
+		326431	Bhilwara, India
+		326261	TTtouan, Morocco
+		325837	Akita-shi, Japan
+		325746	Mogi das Cruzes, Brazil
+		325532	Toyama-shi, Japan
+		325466	Piura, Peru
+		325110	Trichur, India
+		325078	Aurora, Colorado, United States
+		324726	Brahmapur, India
+		324528	Santa Ana, California, United States
+		324457	Spo Vicente, Brazil
+		324200	Ordl, Russia
+		323945	Suizhou, China
+		323302	Al ¦Amarah, Iraq
+		323293	Volzhskiy, Russia
+		321717	Villavicencio, Colombia
+		321589	Jundiaf, Brazil
+		321501	San Miguelito, Panama
+		320991	Smolensk, Russia
+		320674	Pelotas, Brazil
+		320477	Kherson, Ukraine
+		320434	Shahjahanpur, India
+		320069	Akita, Japan
+		319941	Maroua, Cameroon
+		319934	Mor=n, Argentina
+		319587	An»polis, Brazil
+		319581	Pachuca de Soto, Hidalgo, Mexico
+		319550	Shimoga, India
+		319366	Samarqand, Uzbekistan
+		319294	Saint Louis, Missouri, United States
+		319263	Murmansk, Russia
+		319143	Islington, United Kingdom
+		319102	Holgufn, Cuba
+		319067	Ustª-Kamenogorsk, Kazakhstan
+		318801	Ad Diwaniyah, Iraq
+		318769	Shangrao, China
+		318674	Mataram, Indonesia
+		318419	Andijon, Uzbekistan
+		318012	Iasi, Romania
+		317864	Valladolid, Spain
+		317847	Poltava, Ukraine
+		317797	New Delhi, India
+		317437	Koshigaya, Japan
+		317370	Vladikavkaz, Russia
+		317365	Hrodna, Belarus
+		317316	Katowice, Poland
+		317245	Rohtak, India
+		317190	Berlin Wilmersdorf, Germany
+		316970	Baicheng, China
+		316966	Chimbote, Peru
+		316748	Cluj-Napoca, Romania
+		316612	Calamba, Philippines
+		316532	Bari, Italy
+		316149	Bauchi, Nigeria
+		315328	Armenia, Colombia
+		315162	Al Kut, Iraq
+		315053	Timisoara, Romania
+		314684	Sisli, Turkey
+		313945	Soacha, Colombia
+		313439	Ebute Ikorodu, Nigeria
+		313405	Coacalco, MTxico, Mexico
+		313247	Lianshan, China
+		313238	Denizli, Turkey
+		313125	Bonn, Germany
+		313110	Catania, Italy
+		313088	Ostrava, Czech Republic
+		312770	Varna, Bulgaria
+		312656	Vit=ria, Brazil
+		312588	Wusong, China
+		312323	Iligan City, Philippines
+		312140	Cusco, Peru
+		312060	Posadas, Argentina
+		311850	Cherepovets, Russia
+		311724	Maring», Brazil
+		311203	Miyazaki-shi, Japan
+		311063	Percut, Indonesia
+		310750	Pucallpa, Peru
+		310565	Jingdezhen, China
+		310424	Guaruj», Brazil
+		310024	Vladimir, Russia
+		309832	Antofagasta, Chile
+		309714	Botshabelo, South Africa
+		309712	Bengkulu, Indonesia
+		309003	Tampico, Tamaulipas, Mexico
+		308500	Chita, Russia
+		308313	Coventry, United Kingdom
+		308237	Valledupar, Colombia
+		308206	General Escobedo, Nuevo Le=n, Mexico
+		307960	Mannheim, Germany
+		307684	Chernihiv, Ukraine
+		307480	Irbid, Jordan
+		307359	Tumkur, India
+		307242	Chinju, South Korea
+		306462	Tawau, Malaysia
+		306450	Dongying, China
+		306409	Firozabad, India
+		306393	Al Fayyum, Egypt
+		306180	Porto Velho, Brazil
+		305901	Celaya, Guanajuato, Mexico
+		305891	San Salvador de Jujuy, Argentina
+		305704	Pittsburgh, Pennsylvania, United States
+		305692	Brakpan, South Africa
+		305576	Mandaluyong City, Philippines
+		305438	Nizamabad, India
+		305405	Kulti, India
+		305215	Corpus Christi, Texas, United States
+		305041	Franca, Brazil
+		304804	Rajahmundry, India
+		304142	Craiova, Romania
+		303871	Riverside, California, United States
+		303399	Constanta, Romania
+		303394	Saransk, Russia
+		303282	Mazar-e Sharif, Afghanistan
+		303268	Ganja, Azerbaijan
+		302296	Hull, United Kingdom
+		302139	Cardiff, United Kingdom
+		302074	Batman, Turkey
+		301725	Barddhaman, India
+		301506	Gujrat, Pakistan
+		300795	Naha-shi, Japan
+		300715	Brest, Belarus
+		300424	Mardan, Pakistan
+		300367	Surgut, Russia
+		300000	Yangshuo, China
+		300000	Qyzylorda, Kazakhstan
+		300000	George Town, Malaysia
+		300000	Juba, South Sudan
+		300000	Batikent, Turkey
+		300000	MTrida, Venezuela
+		299391	Angeles City, Philippines
+		299310	Bradford, United Kingdom
+		298976	Santol, Philippines
+		298589	Kasugai, Japan
+		298585	Jember, Indonesia
+		298394	Aomori-shi, Japan
+		298164	Otsu-shi, Japan
+		298127	Barasat, India
+		298004	Elazig, Turkey
+		297568	Cherkasy, Ukraine
+		297332	Vigo, Spain
+		297279	Akashi, Japan
+		296973	Bali, India
+		296943	Cincinnati, Ohio, United States
+		296436	Hisar, India
+		296418	Rampur, India
+		295841	Yokkaichi, Japan
+		295803	Lexington, Kentucky, United States
+		295172	Morioka-shi, Japan
+		294889	Vologda, Russia
+		294551	Viªa del Mar, Chile
+		294456	Sumy, Ukraine
+		294237	Fukushima-shi, Japan
+		294087	Galati, Romania
+		293949	Blumenau, Brazil
+		293908	Noida, India
+		293523	Foz do Iguatu, Brazil
+		293179	Al Hufuf, Saudi Arabia
+		292923	Kakinada, India
+		292808	Panipat, India
+		292780	Semey, Kazakhstan
+		292645	Makurdi, Nigeria
+		292177	Ponta Grossa, Brazil
+		291905	Minna, Nigeria
+		291855	Bialystok, Poland
+		291826	Anchorage, Alaska, United States
+		291707	Stockton, California, United States
+		291649	Mbeya, Tanzania
+		291555	Mueang Nonthaburi, Thailand
+		291006	Kumi, South Korea
+		290933	Tambov, Russia
+		290802	Al Mubarraz, Saudi Arabia
+		290768	Bafoussam, Cameroon
+		290643	Kasur, Pakistan
+		290529	Utrecht, Netherlands
+		290506	Berlin Steglitz Zehlendorf, Germany
+		289971	Paulista, Brazil
+		289709	Al ?illah, Iraq
+		289665	Limeira, Brazil
+		289629	Parbhani, India
+		289625	Victoria, British Columbia, Canada
+		289568	Beihai, China
+		289201	Huizhou, China
+		288892	Mandaue City, Philippines
+		288743	Zeytinburnu, Turkey
+		288728	Tsuen Wan, Hong Kong
+		288163	Safi, Morocco
+		288112	Sinuiju, North Korea
+		287217	Hu?, Vietnam
+		287208	Toledo, Ohio, United States
+		287150	Darbhanga, India
+		287101	Marienthal, Germany
+		286787	Adapazari, Turkey
+		286622	Sultanbeyli, Turkey
+		285564	Rangpur, Bangladesh
+		285269	Viampo, Brazil
+		285097	Az Zaqaziq, Egypt
+		285068	Saint Paul, Minnesota, United States
+		285065	Kuala Terengganu, Malaysia
+		284813	Ismailia, Egypt
+		284289	Alto Barinas, Venezuela
+		283799	Karlsruhe, Germany
+		283733	Port Moresby, Papua New Guinea
+		283531	Ichihara, Japan
+		283501	Iksan, South Korea
+		283441	Nha Trang, Vietnam
+		283314	Suzano, Brazil
+		283228	Alwar, India
+		283172	Cainta, Philippines
+		283052	PTtionville, Haiti
+		282711	Maebashi-shi, Japan
+		282705	Bilaspur, India
+		282448	Valparafso, Chile
+		282431	Palu, Indonesia
+		282396	Kupang, Indonesia
+		282192	Zhytomyr, Ukraine
+		281853	Itagnf, Colombia
+		281436	Gebze, Turkey
+		281080	Narsingdi, Bangladesh
+		280798	Batna, Algeria
+		280592	Tepic, Nayarit, Mexico
+		280582	Chuzhou, China
+		280331	Ichinomiya, Japan
+		280098	Tacna, Peru
+		279319	Effon Alaiye, Nigeria
+		279316	Kota Bharu, Malaysia
+		279100	Yoshkar-Ola, Russia
+		279056	Taganrog, Russia
+		278890	Santa Teresa, Venezuela
+		278550	Horlivka, Ukraine
+		278013	Windsor, Ontario, Canada
+		277904	Ilesa, Nigeria
+		277656	Kostroma, Russia
+		277554	Gij=n, Spain
+		277334	Khomeyni Shahr, Iran
+		277278	Sfax, Tunisia
+		277269	Nantes, France
+		277140	Newark, New Jersey, United States
+		276964	Cuenca, Ecuador
+		276574	Owo, Nigeria
+		276546	Bahfa Blanca, Argentina
+		276414	Sukabumi, Indonesia
+		276088	Brasov, Romania
+		275908	Komsomolªsk-na-Amure, Russia
+		275730	Hakodate, Japan
+		275630	Bab Ezzouar, Algeria
+		275239	Mokolo, Cameroon
+		275019	Caucaia, Brazil
+		274845	Strasbourg, France
+		274770	Belfast, United Kingdom
+		274717	Kashi, China
+		274539	Ar Ramadi, Iraq
+		274383	Ichalkaranji, India
+		273992	Ibaraki, Japan
+		273213	Yao, Japan
+		272806	Herat, Afghanistan
+		272801	Guant»namo, Cuba
+		272800	Nalªchik, Russia
+		272714	Baguio, Philippines
+		272691	Petr=polis, Brazil
+		272465	Ar Rayyan, Qatar
+		272432	Wiesbaden, Germany
+		272420	Monterfa, Colombia
+		272359	Kashan, Iran
+		271634	Kakogawa, Japan
+		271143	Tasikmalaya, Indonesia
+		271064	Bijapur, India
+		270816	Venice, Italy
+		270669	Linyi, China
+		270216	San Pedro, Philippines
+		270184	Mnnster, Germany
+		270028	Gelsenkirchen, Germany
+		269923	Ciudad Victoria, Tamaulipas, Mexico
+		269666	Greensboro, North Carolina, United States
+		268402	Moppo, South Korea
+		268237	Russeifa, Jordan
+		268132	Windhoek, Namibia
+		267462	Tshikapa, Democratic Republic of the Congo
+		267370	Kafr ad Dawwar, Egypt
+		267345	Tokushima-shi, Japan
+		267300	Haifa, Israel
+		267231	Sterlitamak, Russia
+		267005	Hayil, Saudi Arabia
+		265886	Yingcheng, China
+		265846	Wuzhou, China
+		265344	Hulan Ergi, China
+		265331	Aizawl, India
+		265208	Aachen, Germany
+		265150	Sumqayit, Azerbaijan
+		265032	Mantampay, Philippines
+		265025	Petrozavodsk, Russia
+		264662	Umuahia, Nigeria
+		264136	Mianyang, China
+		264022	Sivas, Turkey
+		262566	Oaxaca de Ju»rez, Oaxaca, Mexico
+		262491	Witbank, South Africa
+		262485	Eixample, Spain
+		262457	Aqtÿbe, Kazakhstan
+		262295	Paran», Argentina
+		262034	Jalna, India
+		261987	Lal Bahadur Nagar, India
+		261742	Mÿnchengladbach, Germany
+		261548	Malmÿ, Sweden
+		261310	Buffalo, New York, United States
+		261218	Dewas, India
+		261187	Sincelejo, Colombia
+		261110	Tongliao, China
+		260914	Wollongong, New South Wales, Australia
+		260843	Uberaba, Brazil
+		260419	Stoke-on-Trent, United Kingdom
+		260072	Baranagar, India
+		260000	Aral, China
+		259903	Nakuru, Kenya
+		259841	Plano, Texas, United States
+		259598	C?n Tho, Vietnam
+		259196	Augsburg, Germany
+		259052	Hiratsuka, Japan
+		258944	Gajuwaka, India
+		258807	Jiujiang, China
+		258653	Popay»n, Colombia
+		258573	Najran, Saudi Arabia
+		258379	Lincoln, Nebraska, United States
+		258162	Ciudad Obreg=n, Sonora, Mexico
+		258132	Al Mukalla, Yemen
+		257945	Pekalongan, Indonesia
+		257783	Cuman», Venezuela
+		257778	Satna, India
+		257729	Henderson, Nevada, United States
+		257642	Rio Branco, Brazil
+		257448	Etawah, India
+		257172	Cascavel, Brazil
+		257038	L'Hospitalet de Llobregat, Spain
+		257005	Ondo, Nigeria
+		256936	Chimoio, Mozambique
+		256600	Bratsk, Russia
+		256565	Ensenada, Baja California, Mexico
+		256537	Dzerzhinsk, Russia
+		256482	Tarsus, Turkey
+		255895	Damaturu, Nigeria
+		255396	Shari-i-Tajan, Iran
+		255283	Durg, India
+		255115	Ljubljana, Slovenia
+		255106	Rivne, Ukraine
+		254900	Turpan, China
+		254806	Ikot-Ekpene, Nigeria
+		254602	Heze, China
+		254538	Yamagata-shi, Japan
+		254472	Santa Catarina, Nuevo Le=n, Mexico
+		254298	Cirebon, Indonesia
+		253861	Logan City, Queensland, Australia
+		253841	Novo Hamburgo, Brazil
+		253788	Coxªs Bazar, Bangladesh
+		253730	Gdynia, Poland
+		253691	Fort Wayne, Indiana, United States
+		253221	Naihati, India
+		253208	Verona, Italy
+		253137	Vit=ria da Conquista, Brazil
+		253112	Laohekou, China
+		252968	Talcahuano, Chile
+		252968	Richards Bay, South Africa
+		252791	Wolverhampton, United Kingdom
+		252609	El Fasher, Sudan
+		252320	ThiFs Nones, Senegal
+		252279	Dire Dawa, Ethiopia
+		252267	Floridablanca, Colombia
+		252245	Suihua, China
+		252026	Messina, Italy
+		251994	Barueri, Brazil
+		251958	Borujerd, Iran
+		251907	Eimsbnttel, Germany
+		251834	Qarchak, Iran
+		251641	TaubatT, Brazil
+		251532	Nanyang, China
+		251248	San Fernando, Philippines
+		251168	Los Reyes, MTxico, Mexico
+		250902	Morogoro, Tanzania
+		250878	Governador Valadares, Brazil
+		250821	Tirupati, India
+		250757	Banda Aceh, Indonesia
+		250591	Wafangdian, China
+		250521	Sonipat, India
+		250512	Santa Clara, Cuba
+		250443	Iwo, Nigeria
+		250353	Libertad, Philippines
+		250258	Gombe, Nigeria
+		250192	Altona, Germany
+		250044	Avadi, India
+		250027	Praia Grande, Brazil
+		250000	Tel Aviv, Israel
+		250000	Ni_, Serbia
+		250000	Colonia del Valle, Distrito Federal, Mexico
+		249858	San Bernardo, Chile
+		249752	V»rzea Grande, Brazil
+		249633	Porto, Portugal
+		249580	Volta Redonda, Brazil
+		249454	Kirovohrad, Ukraine
+		249219	Santa Maria, Brazil
+		248707	Fukui-shi, Japan
+		248575	Dniprodzerzhynsªk, Ukraine
+		248252	Montpellier, France
+		248148	Jimeta, Nigeria
+		248125	Czestochowa, Poland
+		247989	Oshawa, Ontario, Canada
+		247986	Palmira, Colombia
+		247644	Buxoro, Uzbekistan
+		247597	Jersey City, New Jersey, United States
+		247333	Sagar, India
+		247297	Plymouth, United Kingdom
+		247231	Udon Thani, Thailand
+		247220	Chemnitz, Germany
+		246844	Ica, Peru
+		246836	Orsk, Russia
+		246754	Vanderbijlpark, South Africa
+		246654	Nottingham, United Kingdom
+		246583	San Crist=bal, Venezuela
+		246538	Mito-shi, Japan
+		246387	Rizhao, China
+		246201	Southampton, United Kingdom
+		246056	A Coruªa, Spain
+		246050	Mau, India
+		245786	Shimonoseki, Japan
+		245675	Juliaca, Peru
+		245383	Nicol»s Romero, MTxico, Mexico
+		245000	Jiªan, China
+		244937	Gorgan, Iran
+		244937	Nizhnevartovsk, Russia
+		244769	Saint Petersburg, Florida, United States
+		244715	Braunschweig, Germany
+		244662	Hebi, China
+		244376	Bago, Myanmar
+		244230	Bihar Sharif, India
+		244216	Baruta, Venezuela
+		244083	Trabzon, Turkey
+		244070	Reading, United Kingdom
+		243987	Jessore, Bangladesh
+		243971	Manisa, Turkey
+		243916	Chula Vista, California, United States
+		243639	Louisville, Kentucky, United States
+		243503	Santa Luzia, Brazil
+		243406	Kunsan, South Korea
+		243387	Wonju, South Korea
+		243158	Angarsk, Russia
+		242920	Hapur, India
+		242803	Norfolk, Virginia, United States
+		242800	Bhatinda, India
+		242565	Dayr az Zawr, Syria
+		242344	Berbera, Somalia
+		242124	Gatineau, Quebec, Canada
+		242111	Yibin, China
+		242092	NeuquTn, Argentina
+		241856	Novorossiysk, Russia
+		241756	Berlin Reinickendorf, Germany
+		241429	Tehuac»n, Puebla, Mexico
+		241374	Lapu-Lapu City, Philippines
+		241261	Aswan, Egypt
+		241152	Farrukhabad, India
+		241000	Sancaktepe, Turkey
+		240857	Takasaki, Japan
+		240442	Anantapur, India
+		240387	Buenaventura, Colombia
+		240081	Fuchu, Japan
+		240014	Fuji, Japan
+		240000	Halle Neustadt, Germany
+		239406	Xiantao, China
+		239046	Hachinohe, Japan
+		238866	Vaughan, Ontario, Canada
+		238778	Gravataf, Brazil
+		238549	Neyagawa, Japan
+		238300	Orlando, Florida, United States
+		238197	Kurume, Japan
+		238151	Balikesir, Turkey
+		238129	Temuco, Chile
+		237984	Krefeld, Germany
+		237816	As Sib, Oman
+		237551	+rhus, Denmark
+		237444	Sasebo, Japan
+		237370	Batangas, Philippines
+		237308	Uruapan del Progreso, Michoac»n, Mexico
+		237274	Al Jubayl, Saudi Arabia
+		237089	Pathein, Myanmar
+		237084	Tegal, Indonesia
+		237000	Sylhet, Bangladesh
+		236843	Ratlam, India
+		236563	Ko_ice, Slovakia
+		236250	Chernivtsi, Ukraine
+		236123	Chandler, Arizona, United States
+		236093	Dera Ghazi Khan, Pakistan
+		236091	Laredo, Texas, United States
+		235929	Yuci, China
+		235695	Montgomery, Pakistan
+		235676	Ternopilª, Ukraine
+		235661	Vitoria-Gasteiz, Spain
+		235600	Yakutsk, Russia
+		235371	Caruaru, Brazil
+		235362	Qina, Egypt
+		235150	Boa Vista, Brazil
+		235143	Kediri, Indonesia
+		235029	Derby, United Kingdom
+		235017	Georgetown, Guyana
+		234852	Kismaayo, Somalia
+		234837	Ibb, Yemen
+		234817	Tnrkmenabat, Turkmenistan
+		234325	Granada, Spain
+		234297	Nizhnekamsk, Russia
+		234234	Disney, Brazil
+		234168	Porto-Novo, Benin
+		234107	Halle, Germany
+		233386	Centurion, South Africa
+		233209	Madison, Wisconsin, United States
+		232919	Takoradi, Ghana
+		232758	Kiel, Germany
+		232566	Linfen, China
+		231844	Bordeaux, France
+		231838	Ganganagar, India
+		231657	Chigasaki, Japan
+		231493	Gent, Belgium
+		231460	Taytay, Philippines
+		231445	Soka, Japan
+		231357	NgaoundTrT, Cameroon
+		230796	Sunchun, South Korea
+		230717	Coatzacoalcos, Veracruz, Mexico
+		230139	Syktyvkar, Russia
+		230112	Elche, Spain
+		230006	Nukus, Uzbekistan
+		230000	?alwan, Egypt
+		229826	Magdeburg, Germany
+		229617	Winston-Salem, North Carolina, United States
+		229573	Lubbock, Texas, United States
+		229527	Espoo, Finland
+		229504	Nawabshah, Pakistan
+		229493	Baton Rouge, Louisiana, United States
+		229398	Tripoli, Lebanon
+		229384	Bharatpur, India
+		229330	Longueuil, Quebec, Canada
+		229199	Atsugi, Japan
+		229127	Croix des Bouquets, Haiti
+		228927	Magdalena Contreras, Distrito Federal, Mexico
+		228912	Uitenhage, South Africa
+		228851	Ploiesti, Romania
+		228843	Sungai Petani, Malaysia
+		228763	Binjai, Indonesia
+		228758	Lucena, Philippines
+		228746	Ipatinga, Brazil
+		228745	Karimnagar, India
+		228577	G=mez Palacio, Durango, Mexico
+		228356	R?ch Gi», Vietnam
+		228330	Durham, North Carolina, United States
+		228328	Lille, France
+		228212	Miri, Malaysia
+		227977	SumarT, Brazil
+		227943	Damanhur, Egypt
+		227940	Nassau, The Bahamas
+		227876	San Lorenzo, Paraguay
+		227499	Iquique, Chile
+		227494	Kremenchuk, Ukraine
+		227411	Pondicherry, India
+		227331	Mingaora, Pakistan
+		227295	Sosnowiec, Poland
+		227150	Al Minya, Egypt
+		226977	Staryy Oskol, Russia
+		226930	Liaocheng, China
+		226876	Garland, Texas, United States
+		226857	Gusau, Nigeria
+		226851	Neue Neustadt, Germany
+		226794	Radom, Poland
+		226721	Glendale, Arizona, United States
+		226317	Shrirampur, India
+		226298	Ranghulu, China
+		226183	Sabzevar, Iran
+		226172	`Ajman, United Arab Emirates
+		226145	Huambo, Angola
+		226100	Groznyy, Russia
+		225962	Raichur, India
+		225956	Huanggang, China
+		225816	Quthbullapur, India
+		225705	Mubi, Nigeria
+		225389	Bukavu, Democratic Republic of the Congo
+		225230	Juazeiro do Norte, Brazil
+		225221	Reno, Nevada, United States
+		225126	Mymensingh, Bangladesh
+		225049	Karnal, India
+		225000	Roodepoort, South Africa
+		224876	Tanga, Tanzania
+		224871	Jingling, China
+		224838	Sucre, Bolivia
+		224795	Cidade de Nacala, Mozambique
+		224669	Hialeah, Florida, United States
+		224656	Ashdod, Israel
+		224015	Minami-rinkan, Japan
+		224005	Oviedo, Spain
+		223862	Berlin Spandau, Germany
+		223757	Paramaribo, Suriname
+		223744	Adiyaman, Turkey
+		223676	Ara, India
+		223648	Okara, Pakistan
+		223622	Narayanganj, Bangladesh
+		223603	Tongchuan, China
+		223523	Imphal, India
+		223450	Najafabad, Iran
+		223167	Paradise, Nevada, United States
+		222898	Qarshi, Uzbekistan
+		222459	Xintai, China
+		222417	Santa Cruz de Tenerife, Spain
+		222396	Haeju, North Korea
+		222326	Graz, Austria
+		222209	Chesapeake, Virginia, United States
+		222160	Ikire, Nigeria
+		221733	Embu, Brazil
+		221383	Formosa, Argentina
+		221312	Shakhty, Russia
+		221296	Blagoveshchensk, Russia
+		221106	Banja Luka, Bosnia and Herzegovina
+		221029	Sant Martf, Spain
+		220929	Neyshabur, Iran
+		220661	Wuxue, China
+		220517	Babruysk, Belarus
+		220492	Rishon Le?iyyon, Israel
+		220250	Cabanatuan, Philippines
+		220029	Mirzapur, India
+		220021	Olongapo, Philippines
+		219789	Takarazuka, Japan
+		219665	Kharagpur, India
+		219636	Dhanbad, India
+		219571	Thanjavur, India
+		219547	Badalona, Spain
+		219401	Ageo, Japan
+		219204	Binangonan, Philippines
+		219176	Oberhausen, Germany
+		219164	Chon Buri, Thailand
+		219000	Prokopªyevsk, Russia
+		218446	Eldoret, Kenya
+		218427	Wuhai, China
+		218111	Bertoua, Cameroon
+		218106	Imperatriz, Brazil
+		217899	San Pedro de Macorfs, Dominican Republic
+		217780	Amarnath, India
+		217647	Taiping, Malaysia
+		217385	Scottsdale, Arizona, United States
+		217368	Alor Setar, Malaysia
+		217222	Purwokerto, Indonesia
+		217000	Colombo, Brazil
+		216961	North Las Vegas, Nevada, United States
+		216724	Rybinsk, Russia
+		216650	Santa Rosa, Philippines
+		216479	Kisumu, Kenya
+		216290	Irving, Texas, United States
+		216099	Imus, Philippines
+		215966	Freiburg, Germany
+		215941	Galkissa, Sri Lanka
+		215803	Purwakarta, Indonesia
+		215727	Zelenograd, Russia
+		215657	Mirpur Khas, Pakistan
+		215652	Daloa, Cote d'Ivoire
+		215546	Mekªele, Ethiopia
+		215430	Biysk, Russia
+		215413	Concepci=n, Chile
+		215400	Novi Sad, Serbia
+		215259	Mucumpiz, Venezuela
+		215062	Velikiy Novgorod, Russia
+		215038	Owerri, Nigeria
+		214601	Los Mochis, Sinaloa, Mexico
+		214558	Shagamu, Nigeria
+		214523	Tabopo da Serra, Brazil
+		214089	Fremont, California, United States
+		213995	Nazret, Ethiopia
+		213858	Nagercoil, India
+		213661	Lutsªk, Ukraine
+		213585	Bergen, Norway
+		213569	Braila, Romania
+		213388	Naz+arabad, Iran
+		213365	Guangyuan, China
+		213331	Bukan, Iran
+		213110	Jacaref, Brazil
+		212977	Chofu, Japan
+		212816	Loa Janan, Indonesia
+		212695	Rancagua, Chile
+		212329	Bukit Mertajam, Malaysia
+		212287	Lipa, Philippines
+		212237	Birmingham, Alabama, United States
+		212218	Marflia, Brazil
+		212207	Lnbeck, Germany
+		211996	Cartagena, Spain
+		211330	Esenyurt, Turkey
+		211184	Trieste, Italy
+		211138	Kirikkale, Turkey
+		211066	Hailar, China
+		210941	Terrassa, Spain
+		210886	Abha, Saudi Arabia
+		210697	Tarhuna, Libya
+		210667	Matsumoto, Japan
+		210565	Rochester, New York, United States
+		210411	Daliang, China
+		210338	Quy Nhon, Vietnam
+		210103	Pali, India
+		210000	Bogra, Bangladesh
+		210000	Qostanay, Kazakhstan
+		209924	San Bernardino, California, United States
+		209746	Syunsen, South Korea
+		209683	Vung Tau, Vietnam
+		209620	Eindhoven, Netherlands
+		209614	Pematangsiantar, Indonesia
+		209530	Kanggye-si, North Korea
+		209502	Presidente Prudente, Brazil
+		209444	Sanming, China
+		209419	Suhaj, Egypt
+		209375	Rennes, France
+		209229	Spo Leopoldo, Brazil
+		209175	Ijebu-Ode, Nigeria
+		208931	Yamunanagar, India
+		208916	Spokane, Washington, United States
+		208781	Nakhon Ratchasima, Thailand
+		208717	Torun, Poland
+		208684	Oruro, Bolivia
+		208598	Kielce, Poland
+		208461	Rewa, India
+		208453	Gilbert, Arizona, United States
+		208437	La Romana, Dominican Republic
+		208411	Gaborone, Botswana
+		208369	Hangu, China
+		207932	Lobito, Angola
+		207865	North Shore, New Zealand
+		207858	Ciputat, Indonesia
+		207645	Sirjan, Iran
+		207627	Arlington, Virginia, United States
+		207577	San Pablo, Philippines
+		207532	Jerez de la Frontera, Spain
+		207241	North Shore, New South Wales, Australia
+		207212	Ciampea, Indonesia
+		206915	Kasukabe, Japan
+		206746	Sumedang Utara, Indonesia
+		206614	Oradea, Romania
+		206570	Annaba, Algeria
+		206493	Sabadell, Spain
+		206478	M=stoles, Spain
+		206373	Toamasina, Madagascar
+		206234	Dinajpur, Bangladesh
+		206180	Al Bay?aª, Libya
+		205764	Montgomery, Alabama, United States
+		205660	Itabuna, Brazil
+		205561	Kishiwada, Japan
+		205212	Campeche, Campeche, Mexico
+		205035	Spo Carlos, Brazil
+		204870	Padova, Italy
+		204574	Alcal» de Henares, Spain
+		204500	Waitakere, New Zealand
+		204368	Gaoping, China
+		204318	Numazu, Japan
+		204214	Richmond, Virginia, United States
+		204200	Ivano-Frankivsªk, Ukraine
+		204137	Joetsu, Japan
+		204124	Debrecen, Hungary
+		204071	Bidar, India
+		203684	Las Tunas, Cuba
+		203533	HortolGndia, Brazil
+		203499	Bayam=n, Puerto Rico
+		203488	Daqing, China
+		203433	Des Moines, Iowa, United States
+		203264	Agartala, India
+		203254	Erfurt, Germany
+		203201	North Glendale, California, United States
+		203163	Munger, India
+		203149	EdTa, Cameroon
+		203035	Odawara, Japan
+		202932	Achiaman, Ghana
+		202837	Osmaniye, Turkey
+		202810	Djougou, Benin
+		202799	Burnaby, British Columbia, Canada
+		202796	Babol, Iran
+		202695	Burhanpur, India
+		202687	Tampere, Finland
+		202608	Yiyang, China
+		202578	¬orlu, Turkey
+		202571	Harburg, Germany
+		202402	Linxia, China
+		202242	Barisal, Bangladesh
+		202190	Cileungsi, Indonesia
+		202067	Nadiad, India
+		202033	Taranto, Italy
+		202005	Mossor=, Brazil
+		201990	Pskov, Russia
+		201950	Yuncheng, China
+		201943	Al Khums, Libya
+		201781	Chiniot, Pakistan
+		201748	Itapevi, Brazil
+		201463	Rengasdengklok, Indonesia
+		201334	Sete Lagoas, Brazil
+		201178	La Pintana, Chile
+		201165	Modesto, California, United States
+		201000	Nagyv»rad, Hungary
+		200952	Chiang Mai, Thailand
+		200920	Petropavlovsk, Kazakhstan
+		200818	Cabimas, Venezuela
+		200797	Dindigul, India
+		200564	Fayetteville, North Carolina, United States
+		200452	Nicosia, Cyprus
+		200421	Santo Domingo de los Colorados, Ecuador
+		200331	Jalalabad, Afghanistan
+		200276	Ugep, Nigeria
+		200161	Yanbu¦ al Ba?r, Saudi Arabia
+		200132	Charleroi, Belgium
+		200000	Spo JosT, Brazil
+		200000	Taldyqorghan, Kazakhstan
+		200000	Oral, Kazakhstan
+		200000	Osh, Kyrgyzstan
+		200000	Pokhara, Nepal
+		200000	Ladner, British Columbia, Canada
+		199932	Sikar, India
+		199613	Tilburg, Netherlands
+		199572	Balakovo, Russia
+		199548	Armavir, Russia
+		199531	Kamoke, Pakistan
+		199422	Saidpur, Bangladesh
+		199382	Amol, Iran
+		199311	Shreveport, Louisiana, United States
+		199163	Bila Tserkva, Ukraine
+		199110	Akron, Ohio, United States
+		199059	Dudley, United Kingdom
+		198972	Hagen, Germany
+		198958	Saskatoon, Saskatchewan, Canada
+		198835	Gliwice, Poland
+		198776	Changji, China
+		198748	Malolos, Philippines
+		198612	Bulandshahr, India
+		198553	Capiat», Paraguay
+		198491	Pamplona, Spain
+		198453	Purnia, India
+		198423	Kaiyuan, China
+		198397	Tacoma, Washington, United States
+		198293	Rostock, Germany
+		198239	Sibu, Malaysia
+		198123	Machala, Ecuador
+		197961	Tapachula, Chiapas, Mexico
+		197899	Oxnard, California, United States
+		197899	Aurora, Illinois, United States
+		197846	Hospet, India
+		197836	Fuenlabrada, Spain
+		197772	Mentougou, China
+		197479	Talca, Chile
+		197340	Gurgaon, India
+		197322	Northampton, United Kingdom
+		197000	-a L?t, Vietnam
+		196982	Birjand, Iran
+		196751	San-PTdro, Cote d'Ivoire
+		196731	Vientiane, Laos
+		196624	Kure, Japan
+		196571	Izmit, Turkey
+		196565	Reims, France
+		196272	Palmas, Brazil
+		196230	Ich'on, South Korea
+		196109	Sambhal, India
+		196069	Fontana, California, United States
+		196022	Americana, Brazil
+		196011	Engel's, Russia
+		195985	Gandhinagar, India
+		195976	Yonkers, New York, United States
+		195966	Burgas, Bulgaria
+		195856	Murwara, India
+		195764	Monclova, Coahuila, Mexico
+		195318	Nagaoka, Japan
+		195236	Kuri, South Korea
+		195227	Coro, Venezuela
+		195164	Nishi-Tokyo-shi, Japan
+		195129	Xinhui, China
+		195111	Mobile, Alabama, United States
+		195006	Kendari, Indonesia
+		194650	Petrolina, Brazil
+		194530	Yamoussoukro, Cote d'Ivoire
+		194501	Kassel, Germany
+		194363	Nangloi Jat, India
+		194292	Severodvinsk, Russia
+		194150	Portsmouth, United Kingdom
+		194006	Soledad Dfez GutiTrrez, San Luis Potosf, Mexico
+		193987	Nnewi, Nigeria
+		193898	Parung, Indonesia
+		193832	Divin=polis, Brazil
+		193750	Basaksehir, Turkey
+		193669	Luton, United Kingdom
+		193652	Ezhou, China
+		193529	Maracana+, Brazil
+		193524	Itami, Japan
+		193524	Little Rock, Arkansas, United States
+		193499	Nam -?nh, Vietnam
+		193365	Moreno Valley, California, United States
+		192925	Uji, Japan
+		192827	Machilipatnam, India
+		192736	Ciudad Madero, Tamaulipas, Mexico
+		192632	Bayamo, Cuba
+		192555	Katihar, India
+		192464	Par Naogaon, Bangladesh
+		192382	Newcastle upon Tyne, United Kingdom
+		192307	Klaipeda, Lithuania
+		192177	Zabrze, Poland
+		192041	Bojnurd, Iran
+		191903	Guatire, Venezuela
+		191891	Humen, China
+		191769	Sidi Bel AbbFs, Algeria
+		191719	Glendale, California, United States
+		191696	Hat Yai, Thailand
+		191651	Haicheng, China
+		191477	Suzuka, Japan
+		191424	Zinder, Niger
+		191406	Curug, Indonesia
+		191403	Barrancabermeja, Colombia
+		191366	Zlatoust, Russia
+		190855	Bhiwani, India
+		190695	Amarillo, Texas, United States
+		190687	Preston, United Kingdom
+		190537	Zoucheng, China
+		190384	Cork, Ireland
+		190159	Al Fallujah, Iraq
+		190063	Ise-Ekiti, Nigeria
+		190058	Vantaa, Finland
+		190000	Kofu-shi, Japan
+		189992	Huntington Beach, California, United States
+		189885	Columbus, Georgia, United States
+		189876	Sadiqabad, Pakistan
+		189624	Bani Suwayf, Egypt
+		189372	Sunrise Manor, Nevada, United States
+		189338	Syzranª, Russia
+		189186	Bytom, Poland
+		189177	Mwene-Ditu, Democratic Republic of the Congo
+		189090	Panalanoy, Philippines
+		189085	Izumi, Japan
+		189047	SantarTm, Brazil
+		188980	Wanxian, China
+		188979	Kabwe, Zambia
+		188964	Quelimane, Mozambique
+		188900	Petah Tikva, Israel
+		188812	San Fernando del Valle de Catamarca, Argentina
+		188810	Almerfa, Spain
+		188758	Camatari, Brazil
+		188724	Labuhanbajo, Indonesia
+		188663	Cibinong, Indonesia
+		188602	Donghai, China
+		188533	Baiyin, China
+		188084	LaGyoune / El Aai+n, Western Sahara
+		188050	Mabalacat, Philippines
+		188040	Grand Rapids, Michigan, United States
+		188000	Santa B»rbara d'Oeste, Brazil
+		187865	Noorder-Paarl, South Africa
+		187838	Rio Grande, Brazil
+		187708	Mohammedia, Morocco
+		187600	Sutton, United Kingdom
+		187567	Brescia, Italy
+		187477	Qo¦qon, Uzbekistan
+		187368	Kodaira, Japan
+		187282	Petropavlovsk-Kamchatskiy, Russia
+		187235	Oxnard Shores, California, United States
+		187134	Puerto Vallarta, Jalisco, Mexico
+		187019	Cachoeiro de Itapemirim, Brazil
+		186991	Kikwit, Democratic Republic of the Congo
+		186990	Pinar del Rfo, Cuba
+		186644	Cienfuegos, Cuba
+		186600	Beersheba, Israel
+		186440	Salt Lake City, Utah, United States
+		186433	Rae Bareli, India
+		186394	Springs, South Africa
+		186307	Hitachi, Japan
+		186123	Zawiya, Libya
+		186099	Madiun, Indonesia
+		186079	Haridwar, India
+		186066	LeganTs, Spain
+		186051	Ed Damazin, Sudan
+		185999	Arica, Chile
+		185972	Le Havre, France
+		185882	Heroica Nogales, Sonora, Mexico
+		185580	Singrauli, India
+		185400	D+n Laoghaire, Ireland
+		185357	San Sebasti»n, Spain
+		185327	Hamm, Germany
+		185270	Jamaame, Somalia
+		185031	Moratuwa, Sri Lanka
+		185008	Kntahya, Turkey
+		184997	Mainz, Germany
+		184839	Meycauayan, Philippines
+		184509	Zaoyang, China
+		184506	Milton Keynes, United Kingdom
+		184447	Junagadh, India
+		184205	Mutare, Zimbabwe
+		184185	Mbandaka, Democratic Republic of the Congo
+		184149	Pemalang, Indonesia
+		184143	Quanzhou, China
+		183982	San Luis, Argentina
+		183981	GenFve, Switzerland
+		183930	Tarlac, Philippines
+		183915	Burewala, Pakistan
+		183880	Baishan, China
+		183790	Aberdeen, United Kingdom
+		183665	Zaozhuang, China
+		183612	Kushiro, Japan
+		183418	¬orum, Turkey
+		183387	Eluru, India
+		183310	Patan, Nepal
+		183166	Manta, Ecuador
+		183130	Lembang, Indonesia
+		183001	Bhusawal, India
+		182926	Pak Kret, Thailand
+		182901	Mitaka-shi, Japan
+		182841	Khandwa, India
+		182700	Santander, Spain
+		182597	LiFge, Belgium
+		182558	C+a, Venezuela
+		182549	Sakura, Japan
+		182500	Kamensk-Uralªskiy, Russia
+		182498	Itaboraf, Brazil
+		182324	Biratnagar, Nepal
+		182304	Carletonville, South Africa
+		182218	Bahraich, India
+		182041	Barrie, Ontario, Canada
+		182011	Monywa, Myanmar
+		182000	Richmond, British Columbia, Canada
+		181656	Probolinggo, Indonesia
+		181639	Sirsa, India
+		181612	Guarenas, Venezuela
+		181376	Tallahassee, Florida, United States
+		181271	Anda, China
+		181227	Saarbrncken, Germany
+		181218	Shangqiu, China
+		181212	Wadi as Sir, Jordan
+		181194	Groningen, Netherlands
+		181162	Linz, Austria
+		181045	Worcester, Massachusetts, United States
+		180719	Newport News, Virginia, United States
+		180671	Melaka, Malaysia
+		180623	Chandannagar, India
+		180611	Kang-neung, South Korea
+		180547	Baharampur, India
+		180541	Dodoma, Tanzania
+		180353	Reggio di Calabria, Italy
+		180147	Rio Claro, Brazil
+		180144	Tangail, Bangladesh
+		180109	Matadi, Democratic Republic of the Congo
+		180105	Huntsville, Alabama, United States
+		180005	Castell= de la Plana, Spain
+		180000	Atyrau, Kazakhstan
+		179923	Yangju, South Korea
+		179911	Indaiatuba, Brazil
+		179628	Surendranagar, India
+		179603	Varamin, Iran
+		179583	Dos Quebradas, Colombia
+		179529	Passo Fundo, Brazil
+		179494	Xianning, China
+		179481	Legaspi, Philippines
+		179465	Korla, China
+		179433	Cotabato, Philippines
+		179400	Podolªsk, Russia
+		179358	Vizianagaram, India
+		179192	Ila Orangun, Nigeria
+		179079	Yuanlin, China
+		179038	Chenzhou, China
+		178966	Burgos, Spain
+		178921	Klerksdorp, South Africa
+		178916	Si Racha, Thailand
+		178874	Knoxville, Tennessee, United States
+		178858	Amadora, Portugal
+		178739	Kami-renjaku, Japan
+		178677	Saki, Nigeria
+		178402	Anjo, Japan
+		178395	Spring Valley, Nevada, United States
+		178338	K'ut'aisi, Georgia
+		178042	Providence, Rhode Island, United States
+		177965	Sunderland, United Kingdom
+		177878	Jingzhou, China
+		177797	Proddatur, India
+		177743	Akyab, Myanmar
+		177636	Ar Raqqah, Syria
+		177636	Norwich, United Kingdom
+		177442	Meiktila, Myanmar
+		177429	Loum, Cameroon
+		177081	Vellore, India
+		177005	Hugli, India
+		176783	Alleppey, India
+		176661	Santa Ana, El Salvador
+		176573	Malayer, Iran
+		176515	Bielsko-Biala, Poland
+		176484	Yuzhno-Sakhalinsk, Russia
+		176432	Almere Stad, Netherlands
+		176320	Santa Clarita, California, United States
+		176314	Split, Croatia
+		176280	Saint-+tienne, France
+		176253	Amroha, India
+		176183	Regina, Saskatchewan, Canada
+		176006	Yizheng, China
+		176000	Mestre, Italy
+		176000	Saint-Louis, Senegal
+		175945	Turku, Finland
+		175761	Xindi, China
+		175589	Tsukuba, Japan
+		175533	Saveh, Iran
+		175502	Modena, Italy
+		175396	Grand Prairie, Texas, United States
+		175370	Khvoy, Iran
+		175341	Siverek, Turkey
+		175115	Jiutai, China
+		175023	Brownsville, Texas, United States
+		174972	Hirosaki, Japan
+		174828	Cotia, Brazil
+		174806	Tomakomai, Japan
+		174582	George, South Africa
+		174557	Pamulang, Indonesia
+		174526	Poza Rica de Hidalgo, Veracruz, Mexico
+		174354	Bo, Sierra Leone
+		174306	Pathankot, India
+		174281	Hadano, Japan
+		174140	Bozhou, China
+		174041	Cikupa, Indonesia
+		174035	Bhind, India
+		174000	Puerto Cabello, Venezuela
+		173890	Obihiro, Japan
+		173733	Ube, Japan
+		173700	Kramatorsªk, Ukraine
+		173695	Tachikawa, Japan
+		173625	Cuajimalpa, Distrito Federal, Mexico
+		173557	San Pablo de las Salinas, MTxico, Mexico
+		173514	Jackson, Mississippi, United States
+		173503	Shimla, India
+		173372	Overland Park, Kansas, United States
+		173298	Myeik, Myanmar
+		173183	Khan Yunis, Palestinian Territory
+		173046	Bata, Equatorial Guinea
+		173009	Midrand, South Africa
+		172982	Metepec, MTxico, Mexico
+		172872	Ongole, India
+		172775	Licheng, China
+		172645	Salatiga, Indonesia
+		172637	Miskolc, Hungary
+		172499	Prato, Italy
+		172429	Piraeus, Greece
+		172334	Isparta, Turkey
+		172321	Weinan, China
+		172141	Walsall, United Kingdom
+		172108	Herne, Germany
+		171803	Olsztyn, Poland
+		171790	Francisco Morato, Brazil
+		171777	Hino, Japan
+		171676	Netanya, Israel
+		171674	Nanping, China
+		171656	Bida, Nigeria
+		171485	La Paz, Baja California Sur, Mexico
+		171464	Prizren, Kosovo
+		171454	Dongling, China
+		171396	Bacau, Romania
+		171333	Phra Pradaeng, Thailand
+		171000	Mnlheim an der Ruhr, Germany
+		170889	Kulim, Malaysia
+		170883	Swansea, United Kingdom
+		170883	Garden Grove, California, United States
+		170841	Puri, India
+		170695	Haldia, India
+		170600	Temirtau, Kazakhstan
+		170588	Jacobabad, Pakistan
+		170503	Khammam, India
+		170404	Carolina, Puerto Rico
+		170391	Uvira, Democratic Republic of the Congo
+		170326	Portoviejo, Ecuador
+		170252	Raiganj, India
+		170077	Takaoka, Japan
+		170039	Ingraj Bazar, India
+		170024	Aratatuba, Brazil
+		170023	Fuyang, China
+		169828	Kluang, Malaysia
+		169716	Albacete, Spain
+		169594	Laiyang, China
+		169572	Jaunpur, India
+		169102	Jaffna, Sri Lanka
+		169065	Arad, Romania
+		168899	Bahir Dar, Ethiopia
+		168772	Baranavichy, Belarus
+		168701	Toulon, France
+		168568	Jabalya, Palestinian Territory
+		168468	Araraquara, Brazil
+		168279	Angers, France
+		167967	Alcorc=n, Spain
+		167955	Ech Chettia, Algeria
+		167900	Jamalpur, Bangladesh
+		167900	Ferraz de Vasconcelos, Brazil
+		167842	Chirchiq, Uzbekistan
+		167815	Santa Rosa, California, United States
+		167784	Dur»n, Ecuador
+		167750	Jingmen, China
+		167748	Berezniki, Russia
+		167738	Awka, Nigeria
+		167731	Volgodonsk, Russia
+		167674	Chattanooga, Tennessee, United States
+		167673	Khouribga, Morocco
+		167673	Breda, Netherlands
+		167669	Pitesti, Romania
+		167664	Hollywood, California, United States
+		167632	Ijero-Ekiti, Nigeria
+		167500	Miass, Russia
+		167359	Korhogo, Cote d'Ivoire
+		167289	Abakan, Russia
+		167227	Fianarantsoa, Madagascar
+		167164	Getafe, Spain
+		167105	Plumbon, Indonesia
+		167086	Oceanside, California, United States
+		167029	Banha, Egypt
+		166974	Novocherkassk, Russia
+		166562	Arapiraca, Brazil
+		166507	Fuling, China
+		166500	Dasoguz, Turkmenistan
+		166480	Fatehpur, India
+		166462	Osnabrnck, Germany
+		166399	Beni Mellal, Morocco
+		166331	Jiutepec, Morelos, Mexico
+		166102	Idfu, Egypt
+		166072	Ocumare del Tuy, Venezuela
+		166069	Gaozhou, China
+		166016	Kamakura, Japan
+		165846	Ulanhot, China
+		165799	Al Khubar, Saudi Arabia
+		165787	H_olon, Israel
+		165699	Shanwei, China
+		165613	Oakville, Ontario, Canada
+		165521	Fort Lauderdale, Florida, United States
+		165501	Tulu», Colombia
+		165377	Bandar Bushehr, Iran
+		165337	Nandyal, India
+		165269	Rancho Cucamonga, California, United States
+		165250	Chilpancingo de los Bravos, Guerrero, Mexico
+		165236	Saga-shi, Japan
+		165192	Muzaffargarh, Pakistan
+		165026	Jiaozhou, China
+		164981	Nou Barris, Spain
+		164952	Banjaran, Indonesia
+		164883	Szeged, Hungary
+		164844	Hengshan, China
+		164810	Loni, India
+		164767	Serang, Indonesia
+		164676	Lages, Brazil
+		164603	Port Saint Lucie, Florida, United States
+		164488	Basel, Switzerland
+		164435	Sitapur, India
+		164423	Zenica, Bosnia and Herzegovina
+		164415	Burlington, Ontario, Canada
+		164359	Solingen, Germany
+		164322	Farg`ona, Uzbekistan
+		164268	Kigoma, Tanzania
+		164249	Cagliari, Italy
+		164246	Muridke, Pakistan
+		164215	Shivpuri, India
+		164180	Plzen, Czech Republic
+		164161	Inisa, Nigeria
+		164131	Nazranª, Russia
+		164123	Sousse, Tunisia
+		164103	Bejana, Algeria
+		164080	Jhelum, Pakistan
+		164052	Barra Mansa, Brazil
+		163996	Chalco de Dfaz Covarrubias, MTxico, Mexico
+		163993	Nossa Senhora do Socorro, Brazil
+		163924	Ontario, California, United States
+		163903	Bhadravati, India
+		163759	Vinh, Vietnam
+		163753	Parakou, Benin
+		163631	Adoni, India
+		163600	Bournemouth, United Kingdom
+		163554	Sidon, Lebanon
+		163487	Maradi, Niger
+		163461	Tsu-shi, Japan
+		163457	Parma, Italy
+		163377	Southend-on-Sea, United Kingdom
+		163360	P»trai, Greece
+		163326	Tongzhou, China
+		163326	Veraval, India
+		163196	Ludwigshafen am Rhein, Germany
+		163140	Salalah, Oman
+		163140	Bnynktekmece, Turkey
+		163022	Aydin, Turkey
+		163007	Envigado, Colombia
+		162981	El Geneina, Sudan
+		162964	Anbu, China
+		162887	Sambalpur, India
+		162738	Leverkusen, Germany
+		162702	Skikda, Algeria
+		162620	La Rioja, Argentina
+		162569	Gadag, India
+		162434	Mahabad, Iran
+		162202	Dourados, Brazil
+		161954	Crici+ma, Brazil
+		161902	Kunduz, Afghanistan
+		161880	San Miquel, El Salvador
+		161791	Vancouver, Washington, United States
+		161719	Tempe, Arizona, United States
+		161686	Sapele, Nigeria
+		161671	Unnao, India
+		161555	Budaun, India
+		161317	Coquimbo, Chile
+		161260	Jind, India
+		161126	Madhyamgram, India
+		161065	Rubtsovsk, Russia
+		160991	Geelong, Victoria, Australia
+		160843	Sayama, Japan
+		160789	Sullana, Peru
+		160765	Malakal, South Sudan
+		160652	Phan Thi?t, Vietnam
+		160542	Mytishchi, Russia
+		160520	Kawanishi, Japan
+		160470	Hebron, Palestinian Territory
+		160437	Xiaogan, China
+		160317	Mejicanos, El Salvador
+		160242	Jamuria, India
+		160157	Chapec=, Brazil
+		160115	Taunggyi, Myanmar
+		160054	Puerto Montt, Chile
+		159965	Iskenderun, Turkey
+		159936	Oyama, Japan
+		159893	Salavat, Russia
+		159778	Ziguinchor, Senegal
+		159733	Sekudai, Malaysia
+		159671	Ashikaga, Japan
+		159498	Springfield, Missouri, United States
+		159487	Bawshar, Oman
+		159383	Zhicheng, China
+		159380	Lawang, Indonesia
+		159269	Tarija, Bolivia
+		159218	Oldenburg, Germany
+		158978	Osan, South Korea
+		158732	Nijmegen, Netherlands
+		158664	Jaigaon, India
+		158600	Pasuruan, Indonesia
+		158569	Cuddalore, India
+		158552	Grenoble, France
+		158508	Samarraª, Iraq
+		158451	Maykop, Russia
+		158382	Rzesz=w, Poland
+		158333	El Achir, Algeria
+		158320	Huzhou, China
+		158292	Barreiras, Brazil
+		158265	Orai, India
+		158153	Long XuyOn, Vietnam
+		158142	Hoshiarpur, India
+		158000	Melitopolª, Ukraine
+		157996	Sobral, Brazil
+		157914	Sunggal, Indonesia
+		157857	Greater Sudbury, Ontario, Canada
+		157737	?alkha, Egypt
+		157174	Perbaungan, Indonesia
+		157145	Pallavaram, India
+		157144	Puerto Princesa, Philippines
+		157068	Ussuriysk, Russia
+		157044	Nanpiao, China
+		157000	Tiraspol, Moldova
+		156959	Moshi, Tanzania
+		156916	Toledo, Philippines
+		156901	Shikarpur, Pakistan
+		156831	Westonaria, South Africa
+		156811	Hitachi-Naka, Japan
+		156811	Matsue-shi, Japan
+		156691	Sihanoukville, Cambodia
+		156649	PTcs, Hungary
+		156274	Livorno, Italy
+		156238	Ruse, Bulgaria
+		156236	Batu Pahat, Malaysia
+		156185	Eugene, Oregon, United States
+		156139	Lampang, Thailand
+		156082	Narashino, Japan
+		156000	Nagareyama, Japan
+		155968	Katsuta, Japan
+		155963	Malabo, Equatorial Guinea
+		155813	Kumagaya, Japan
+		155782	Tema, Ghana
+		155762	Yichun, China
+		155716	Itajaf, Brazil
+		155687	Hanumangarh, India
+		155619	Salamanca, Spain
+		155591	Zemun, Serbia
+		155510	Kishi, Nigeria
+		155499	IlhTus, Brazil
+		155432	Swindon, United Kingdom
+		155391	Guyong, Philippines
+		155237	Kyonju, South Korea
+		155226	Port Louis, Mauritius
+		155203	Foggia, Italy
+		155029	Kanchipuram, India
+		155000	Lianghu, China
+		154999	Beipiao, China
+		154942	Sariwon, North Korea
+		154803	Antioch, Turkey
+		154771	Guangshui, China
+		154750	Pembroke Pines, Florida, United States
+		154706	Middelburg, South Africa
+		154657	Mahajanga, Madagascar
+		154650	Lyubertsy, Russia
+		154637	Salem, Oregon, United States
+		154621	Butembo, Democratic Republic of the Congo
+		154566	Oxford, United Kingdom
+		154521	La Serena, Chile
+		154477	Leshan, China
+		154425	Gandajika, Democratic Republic of the Congo
+		154406	Zhaodong, China
+		154369	Ambato, Ecuador
+		154305	Cape Coral, Florida, United States
+		154234	Pasarkemis, Indonesia
+		154225	Cairns, Queensland, Australia
+		154224	Kovrov, Russia
+		154163	Viransehir, Turkey
+		154098	Tottori, Japan
+		154065	Peoria, Arizona, United States
+		154040	San Crist=bal, Dominican Republic
+		154024	East Chattanooga, Tennessee, United States
+		154003	Xinzhou, China
+		154000	Limassol, Cyprus
+		153914	Gonder, Ethiopia
+		153888	Sioux Falls, South Dakota, United States
+		153775	Alandur, India
+		153757	Rfo Cuarto, Argentina
+		153714	Sanshui, China
+		153689	Guna, India
+		153656	Hafizabad, Pakistan
+		153655	Enschede, Netherlands
+		153635	Angra dos Reis, Brazil
+		153613	Bahadurgarh, India
+		153596	Boshan, China
+		153547	Yangchun, China
+		153528	Bharuch, India
+		153361	Nova Friburgo, Brazil
+		153349	Medinipur, India
+		153076	Chincha Alta, Peru
+		153060	Springfield, Massachusetts, United States
+		153047	Faizabad, India
+		153015	Elk Grove, California, United States
+		152940	Danapur, India
+		152937	Linhai, China
+		152934	Dingzhou, China
+		152912	Rondon=polis, Brazil
+		152890	As Samawah, Iraq
+		152871	Rockford, Illinois, United States
+		152862	Usak, Turkey
+		152750	Palmdale, California, United States
+		152642	Jizzax, Uzbekistan
+		152641	Hamilton, New Zealand
+		152634	Ponce, Puerto Rico
+		152595	Weihai, China
+		152550	Ba¦qubah, Iraq
+		152457	Neu+, Germany
+		152453	Chenghua, China
+		152425	Songnim, North Korea
+		152393	Silchar, India
+		152374	Corona, California, United States
+		152218	Banda, India
+		152201	Aksaray, Turkey
+		152200	C?n Du?c, Vietnam
+		152195	Kerch, Ukraine
+		152194	Deyang, China
+		152107	Logroªo, Spain
+		152104	Ota, Japan
+		152074	Longfeng, China
+		152004	Morena, India
+		151894	Sibiu, Romania
+		151752	Guacara, Venezuela
+		151683	Abbotsford, British Columbia, Canada
+		151667	Cholula, Puebla, Mexico
+		151617	Bintulu, Malaysia
+		151605	Itapecerica da Serra, Brazil
+		151592	Dundee, United Kingdom
+		151427	Kohat, Pakistan
+		151331	Tonk, India
+		151287	Qingyuan, China
+		151237	Saqqez, Iran
+		151226	Benguela, Angola
+		151025	Komaki, Japan
+		150999	El Tigre, Venezuela
+		150932	Soreang, Indonesia
+		150895	Minatitl»n, Veracruz, Mexico
+		150850	Guarapuava, Brazil
+		150793	Gaomi, China
+		150755	Raj Nandgaon, India
+		150684	Loudi, China
+		150661	La Laguna, Spain
+		150570	Ogaki, Japan
+		150556	Higashimurayama-shi, Japan
+		150525	Serilingampalle, India
+		150448	Huangyan, China
+		150444	BatdGmbGng, Cambodia
+		150441	Salinas, California, United States
+		150437	Geelong West, Victoria, Australia
+		150396	Chill»n, Chile
+		150357	Virar, India
+		150343	Parnamirim, Brazil
+		150269	Salzburg, Austria
+		150250	Bago City, Philippines
+		150206	Purwodadi, Indonesia
+		150174	Kiziltepe, Turkey
+		150110	Urganch, Uzbekistan
+		150103	Balashikha, Russia
+		150092	Poole, United Kingdom
+		150012	Vryheid, South Africa
+		150000	Dili, East Timor
+		150000	Malkajgiri, India
+		150000	Gimcheon, South Korea
+		149983	Shantipur, India
+		149782	Dijon, France
+		149526	Metro, Indonesia
+		149323	Ome, Japan
+		149125	Perugia, Italy
+		149058	Pomona, California, United States
+		149043	Pasadena, Texas, United States
+		149017	Huddersfield, United Kingdom
+		148844	Dunhua, China
+		148806	Huelva, Spain
+		148564	Chingola, Zambia
+		148540	¦Ar¦ar, Saudi Arabia
+		148485	Yulin, China
+		148381	Gyumri, Armenia
+		148375	Chizhou, China
+		148350	Moriguchi, Japan
+		148334	Badajoz, Spain
+		148247	El Lim=n, Venezuela
+		148243	Lubuklinggau, Indonesia
+		148236	Nemes, France
+		148174	Barakpur, India
+		148139	Palangkaraya, Indonesia
+		148113	Sujiatun, China
+		148086	City of Parramatta, New South Wales, Australia
+		148066	H? Long, Vietnam
+		148047	Astanajapura, Indonesia
+		147993	East Hampton, Virginia, United States
+		147977	Honggang, China
+		147959	Hu»nuco, Peru
+		147707	MTdTa, Algeria
+		147690	Kolomna, Russia
+		147680	Rafsanjan, Iran
+		147649	As Salimiyah, Kuwait
+		147590	Haarlem, Netherlands
+		147579	Khon Kaen, Thailand
+		147549	El Jadida, Morocco
+		147473	Kragujevac, Serbia
+		147443	Aktau, Kazakhstan
+		147433	Joliet, Illinois, United States
+		147281	Nil=polis, Brazil
+		147270	Erode, India
+		147139	Trondheim, Norway
+		147097	Naga, Philippines
+		147074	Manama, Bahrain
+		146975	Bu(n Ma Thu?t, Vietnam
+		146974	Kalemie, Democratic Republic of the Congo
+		146920	Nakhodka, Russia
+		146863	TGrgu-Mures, Romania
+		146858	Gulu, Uganda
+		146821	Aix-en-Provence, France
+		146787	Ambala, India
+		146771	Cam Ranh, Vietnam
+		146733	Matanzas, Cuba
+		146588	Potos de Caldas, Brazil
+		146199	Paterson, New Jersey, United States
+		146189	Ruda Slaska, Poland
+		146178	Cuautla Morelos, Morelos, Mexico
+		146136	Afyonkarahisar, Turkey
+		146073	Gweru, Zimbabwe
+		146015	Qujing, China
+		146000	Puerto Plata, Dominican Republic
+		145987	Boise, Idaho, United States
+		145986	Hanzhong, China
+		145931	Odense, Denmark
+		145926	Krishnanagar, India
+		145911	Xinji, China
+		145860	Marab», Brazil
+		145801	Orkney, South Africa
+		145786	Kansas City, Kansas, United States
+		145764	Saharsa, India
+		145639	Kampung Pasir Gudang Baru, Malaysia
+		145620	Cikampek, Indonesia
+		145515	Yamaguchi-shi, Japan
+		145468	Batala, India
+		145440	Taicheng, China
+		145438	Torrance, California, United States
+		145292	Potsdam, Germany
+		145292	Tabora, Tanzania
+		145210	Concordia, Argentina
+		145170	Syracuse, New York, United States
+		145018	Spanish Town, Jamaica
+		144899	Brest, France
+		144865	Khujand, Tajikistan
+		144786	Sikasso, Mali
+		144753	Sanya, China
+		144669	Ciudad Acuªa, Coahuila, Mexico
+		144665	Acheng, China
+		144663	Bene Beraq, Israel
+		144625	Kÿln-Mnlheim, Germany
+		144538	Le=n, Nicaragua
+		144515	Le Mans, France
+		144413	Kumba, Cameroon
+		144387	Elektrostalª, Russia
+		144363	Jinchang, China
+		144229	Bridgeport, Connecticut, United States
+		144212	Meizhou, China
+		144202	York, United Kingdom
+		144195	Gorontalo, Indonesia
+		144186	Hayward, California, United States
+		144124	Goma, Democratic Republic of the Congo
+		144013	Teshi, Ghana
+		143986	Fort Collins, Colorado, United States
+		143970	Kafr ash Shaykh, Egypt
+		143911	Escondido, California, United States
+		143792	Otaru, Japan
+		143767	Ipswich, United Kingdom
+		143760	Dumai, Indonesia
+		143758	Urayasu, Japan
+		143704	Acarigua, Venezuela
+		143692	Saguenay, Quebec, Canada
+		143627	Marawi City, Philippines
+		143601	LuziGnia, Brazil
+		143568	Marawi, Philippines
+		143431	Stara Zagora, Bulgaria
+		143382	BTchar, Algeria
+		143345	Heidelberg, Germany
+		143137	Kenema, Sierra Leone
+		143105	Cabo, Brazil
+		143101	Blackpool, United Kingdom
+		143086	Amiens, France
+		143084	Calama, Chile
+		143029	MacaT, Brazil
+		143015	Cape Coast, Ghana
+		142980	Lakewood, Colorado, United States
+		142967	Bhimavaram, India
+		142865	Pyatigorsk, Russia
+		142707	Middlesbrough, United Kingdom
+		142618	Khimki, Russia
+		142510	Rybnik, Poland
+		142506	Tanjungbalai, Indonesia
+		142504	Mallawi, Egypt
+		142489	Metairie, Louisiana, United States
+		142486	Tuzla, Bosnia and Herzegovina
+		142426	Khanpur, Pakistan
+		142361	Nawabganj, Bangladesh
+		142206	Jinhua, China
+		142161	Paderborn, Germany
+		142089	Kimberley, South Africa
+		142027	Ciego de -vila, Cuba
+		141993	Jieshou, China
+		141890	Taza, Morocco
+		141877	Reggio nell'Emilia, Italy
+		141853	Naperville, Illinois, United States
+		141741	eMbalenhle, South Africa
+		141713	Myingyan, Myanmar
+		141674	Arnhem, Netherlands
+		141621	Tours, France
+		141527	Dayton, Ohio, United States
+		141455	Petapa, Guatemala
+		141404	Balurghat, India
+		141374	IbiritT, Brazil
+		141368	Yonago, Japan
+		141331	Bolton, United Kingdom
+		141308	Ciudad del Carmen, Campeche, Mexico
+		141280	Lauro de Freitas, Brazil
+		141251	Potosf, Bolivia
+		141176	Limoges, France
+		141172	Rijeka, Croatia
+		141013	Paranagu», Brazil
+		141000	Ghazni, Afghanistan
+		140940	Ilam, Iran
+		140909	Gongzhuling, China
+		140850	Comodoro Rivadavia, Argentina
+		140849	Kampung Sungai Ara, Malaysia
+		140800	Norilªsk, Russia
+		140768	Hollywood, Florida, United States
+		140644	Nigel, South Africa
+		140604	Kaithal, India
+		140437	Alªmetªyevsk, Russia
+		140385	Darmstadt, Germany
+		140385	Tirmiz, Uzbekistan
+		140323	Tarragona, Spain
+		140223	Lakhimpur, India
+		140141	Peterborough, United Kingdom
+		140121	Mpumalanga, South Africa
+		140085	Zaanstad, Netherlands
+		140081	Sunnyvale, California, United States
+		140063	Hazaribag, India
+		140045	Vidisha, India
+		140033	Ayacucho, Peru
+		139966	Alexandria, Virginia, United States
+		139914	Amersfoort, Netherlands
+		139824	Mesquite, Texas, United States
+		139798	Koroldv, Russia
+		139784	Dadu, Pakistan
+		139726	Gojra, Pakistan
+		139619	Piedras Negras, Coahuila, Mexico
+		139497	Haldwani, India
+		139485	Gbongan, Nigeria
+		139458	SiemrTab, Cambodia
+		139341	Altay, China
+		139341	Man, Cote d'Ivoire
+		139297	Habra, India
+		139264	Kumbakonam, India
+		139254	San Luis Rfo Colorado, Sonora, Mexico
+		139189	Sidoarjo, Indonesia
+		139163	Saba? as Salim, Kuwait
+		139159	Kariya, Japan
+		139100	Choloma, Honduras
+		139052	Stockport, United Kingdom
+		139049	Budapest XI. kernlet, Hungary
+		139047	Huadian, China
+		139004	Weru, Indonesia
+		139001	Brighton, United Kingdom
+		138954	Townsville, Queensland, Australia
+		138872	Sekondi, Ghana
+		138872	Porbandar, India
+		138704	Fuyu, China
+		138681	Clermont-Ferrand, France
+		138622	Sa P», Vietnam
+		138614	Salamanca, Guanajuato, Mexico
+		138587	Chitradurga, India
+		138463	Chaohu, China
+		138357	Ejigbo, Nigeria
+		138279	Thanesar, India
+		138243	Tiruvannamalai, India
+		138241	Telford, United Kingdom
+		138188	Salerno, Italy
+		138009	Anand, India
+		138008	Parnafba, Brazil
+		137976	Baia Mare, Romania
+		137966	Jacmel, Haiti
+		137888	Pabna, Bangladesh
+		137856	Obuasi, Ghana
+		137659	PeristTrion, Greece
+		137586	Itu, Brazil
+		137542	Dikirnis, Egypt
+		137479	Musashino, Japan
+		137444	Jieshi, China
+		137436	Hampton, Virginia, United States
+		137406	Castanhal, Brazil
+		137364	Bitung, Indonesia
+		137287	Bhisho, South Africa
+		137223	Negombo, Sri Lanka
+		137195	Saint-Denis, Reunion
+		137154	Ir»kleion, Greece
+		137122	Pasadena, California, United States
+		137112	Jiashan, China
+		137072	Hami, China
+		137041	Odintsovo, Russia
+		136954	Kanchrapara, India
+		136886	San Juan SacatepTquez, Guatemala
+		136811	Funtua, Nigeria
+		136783	Dawei, Myanmar
+		136764	Igboho, Nigeria
+		136670	Apeldoorn, Netherlands
+		136570	Shizuishan, China
+		136483	Kabankalan, Philippines
+		136473	Podgorica, Montenegro
+		136453	Spo Caetano do Sul, Brazil
+		136416	Orange, California, United States
+		136286	Savannah, Georgia, United States
+		136135	Xicheng, China
+		136135	Mahbubnagar, India
+		136076	Kolpino, Russia
+		136056	Dese, Ethiopia
+		135919	Lleida, Spain
+		135860	Dimapur, India
+		135786	Tasek Glugor, Malaysia
+		135773	Osorno, Chile
+		135760	Jagdaqi, China
+		135741	Queimados, Brazil
+		135724	Kushtia, Bangladesh
+		135698	Kindu, Democratic Republic of the Congo
+		135679	Baliuag, Philippines
+		135618	West Bromwich, United Kingdom
+		135477	C?m Ph? Mines, Vietnam
+		135404	Buguma, Nigeria
+		135308	Shiqiao, China
+		135308	Prome, Myanmar
+		135281	Rabaq, Sudan
+		135234	Cary, North Carolina, United States
+		135218	Robertsonpet, India
+		135204	Tyre, Lebanon
+		135167	Moundou, Chad
+		135161	Fullerton, California, United States
+		135000	Cajamarca, Peru
+		134947	Hinthada, Myanmar
+		134902	Hanam, South Korea
+		134895	Jayapura, Indonesia
+		134889	Chinhae, South Korea
+		134847	Chhindwara, India
+		134845	Mandya, India
+		134827	Cartago, Colombia
+		134815	Cap-Hantien, Haiti
+		134759	Baturaja, Indonesia
+		134671	Zama, Japan
+		134631	Ravenna, Italy
+		134623	Marbella, Spain
+		134520	's-Hertogenbosch, Netherlands
+		134432	Rodriguez, Philippines
+		134412	Chetumal, Quintana Roo, Mexico
+		134403	C=rdoba, Veracruz, Mexico
+		134394	Tuxpan de Rodrfguez Cano, Veracruz, Mexico
+		134358	Ajdabiya, Libya
+		134345	Nevinnomyssk, Russia
+		134327	San Mateo, Philippines
+		134305	Le=n, Spain
+		134246	Seto, Japan
+		134240	Ikirun, Nigeria
+		134190	LTogGne, Haiti
+		134188	Adiwerna, Indonesia
+		134102	Abakaliki, Nigeria
+		134072	Slough, United Kingdom
+		134056	Warren, Michigan, United States
+		134040	Dali, China
+		133966	Bankura, India
+		133959	Inegeul, Turkey
+		133953	Ebetsu, Japan
+		133877	Th»i NguyOn, Vietnam
+		133784	Singaraja, Indonesia
+		133731	Wnrzburg, Germany
+		133654	Randfontein, South Africa
+		133606	Hajipur, India
+		133600	Pervouralªsk, Russia
+		133583	Gonda, India
+		133490	Marg¦ilon, Uzbekistan
+		133459	Bhuj, India
+		133419	Valdivia, Chile
+		133298	Hindupur, India
+		133271	Okrika, Nigeria
+		133238	Birganj, Nepal
+		133148	Talisay, Philippines
+		133097	Awasa, Ethiopia
+		132929	Clarksville, Tennessee, United States
+		132891	Puqi, China
+		132873	Tondabayashi, Japan
+		132859	Fujieda, Japan
+		132858	Sanda, Japan
+		132842	Shillong, India
+		132819	Miandowab, Iran
+		132771	Kislovodsk, Russia
+		132734	Hoofddorp, Netherlands
+		132728	NzTrTkorT, Guinea
+		132728	Palghat, India
+		132654	Ankang, China
+		132416	Blitar, Indonesia
+		132341	Tlemcen, Algeria
+		132241	Kakamigahara, Japan
+		132230	Quetzaltenango, Guatemala
+		132226	Dimitrovgrad, Russia
+		132224	Zalantun, China
+		132218	Pindamonhangaba, Brazil
+		132094	Muricay, Philippines
+		131989	St. Catharines, Ontario, Canada
+		131974	Omuta, Japan
+		131913	Godhra, India
+		131889	Shahrud, Iran
+		131880	Dawukou, China
+		131818	Bulaon, Philippines
+		131784	Punto Fijo, Venezuela
+		131771	Abiko, Japan
+		131749	Kishangarh, India
+		131727	Kadoma, Japan
+		131696	Majie, China
+		131449	Martapura, Indonesia
+		131445	Villeurbanne, France
+		131416	Gonbad-e Qabus, Iran
+		131261	Raniganj, India
+		131238	Hepo, China
+		131232	Iranshahr, Iran
+		131117	McKinney, Texas, United States
+		131016	Lashio, Myanmar
+		131008	Pilibhit, India
+		130994	Miyakonojo, Japan
+		130992	Ferrara, Italy
+		130982	Novomoskovsk, Russia
+		130954	Buzau, Romania
+		130937	Sapucaia, Brazil
+		130855	Matsubara, Japan
+		130777	Pinsk, Belarus
+		130777	Beawar, India
+		130749	Dazhou, China
+		130745	Al Bab, Syria
+		130710	Shuangcheng, China
+		130692	Isesaki, Japan
+		130646	Garza Garcfa, Nuevo Le=n, Mexico
+		130603	Abohar, India
+		130601	Dabrowa G=rnicza, Poland
+		130587	Fiauliai, Lithuania
+		130549	Moga, India
+		130500	Nikopolª, Ukraine
+		130387	Dongyang, China
+		130348	Maicao, Colombia
+		130337	Florencia, Colombia
+		130326	Nablus, Palestinian Territory
+		130298	Jiazi, China
+		130289	Girardot, Colombia
+		130263	QuilpuT, Chile
+		130218	Songjiang, China
+		130218	La Ceiba, Honduras
+		130130	Jaragu» do Sul, Brazil
+		130122	Sannar, Sudan
+		130113	Masaya, Nicaragua
+		130000	Mostaganem, Algeria
+		130000	Sabha, Libya
+		130000	Tychy, Poland
+		130000	Syeverodonetsªk, Ukraine
+		129938	Dehri, India
+		129922	Wuda, China
+		129911	Kisaran, Indonesia
+		129903	Keizan, South Korea
+		129877	McAllen, Texas, United States
+		129839	Baydhabo, Somalia
+		129779	New Haven, Connecticut, United States
+		129733	Mandi Bahauddin, Pakistan
+		129725	Navoiy, Uzbekistan
+		129702	Tokat, Turkey
+		129699	Sterling Heights, Michigan, United States
+		129655	Bimbo, Central African Republic
+		129521	Daito, Japan
+		129480	West Valley City, Utah, United States
+		129447	Sherbrooke, Quebec, Canada
+		129402	Ouargla, Algeria
+		129319	Andong, South Korea
+		129316	Tete, Mozambique
+		129280	Copiap=, Chile
+		129272	Columbia, South Carolina, United States
+		129260	Nador, Morocco
+		129211	Bilbays, Egypt
+		129182	Charallave, Venezuela
+		129153	Shahr-e Kord, Iran
+		129151	Regensburg, Germany
+		129127	Mino, Japan
+		129116	Leiyang, China
+		129113	Udipi, India
+		129053	Cadiz Viejo, Philippines
+		128996	San Crist=bal de Las Casas, Chiapas, Mexico
+		128979	Bat Yam, Israel
+		128918	Satkhira, Bangladesh
+		128875	Palo Negro, Venezuela
+		128865	Mogi Guatu, Brazil
+		128855	Al ¦Arish, Egypt
+		128840	Idlib, Syria
+		128776	Sinah, Iraq
+		128758	L»risa, Greece
+		128721	Gloucester, United Kingdom
+		128656	Rimini, Italy
+		128626	Kamyshin, Russia
+		128618	Oulu, Finland
+		128531	Hassan, India
+		128488	Cambridge, United Kingdom
+		128468	Novocheboksarsk, Russia
+		128426	Besanton, France
+		128351	El Eulma, Algeria
+		128346	Khardah, India
+		128332	Sakaka, Saudi Arabia
+		128306	Jima, Ethiopia
+		128297	Al Manaqil, Sudan
+		128275	Teluknaga, Indonesia
+		128265	Gyor, Hungary
+		128250	Jirja, Egypt
+		128188	Manzanillo, Cuba
+		128175	Yavatmal, India
+		128172	Halisahar, India
+		128158	Serpukhov, Russia
+		128123	Surt, Libya
+		128095	Ramat Gan, Israel
+		128058	Asaka, Japan
+		128046	Panvel, India
+		127921	Killeen, Texas, United States
+		127897	Muar, Malaysia
+		127867	Divo, Cote d'Ivoire
+		127812	Ungaran, Indonesia
+		127758	Xuanzhou, China
+		127751	Titagarh, India
+		127742	San Nicol»s de los Arroyos, Argentina
+		127734	Uppsala, Sweden
+		127680	Kusatsu, Japan
+		127676	Opole, Poland
+		127597	Worcester, South Africa
+		127558	Elblag, Poland
+		127497	Sanda, Algeria
+		127481	Sirajganj, Bangladesh
+		127475	JequiT, Brazil
+		127474	Plock, Poland
+		127473	Topeka, Kansas, United States
+		127431	Walbrzych, Poland
+		127384	Wau, South Sudan
+		127366	Xai-Xai, Mozambique
+		127322	Huaihua, China
+		127300	Amaigbo, Nigeria
+		127236	Lafia, Nigeria
+		127235	Colima, Colima, Mexico
+		127225	Jiangyou, China
+		127202	Tando Allahyar, Pakistan
+		127201	Surat Thani, Thailand
+		127153	Tipitapa, Nicaragua
+		127076	Isiro, Democratic Republic of the Congo
+		127069	Sancti Spfritus, Cuba
+		127010	Cuddapah, India
+		127008	Bettiah, India
+		126957	Angren, Uzbekistan
+		126938	Pakokku, Myanmar
+		126931	Murom, Russia
+		126924	Daska, Pakistan
+		126910	Rangkasbitung, Indonesia
+		126882	Hathras, India
+		126831	Klaten, Indonesia
+		126829	Khasavyurt, Russia
+		126805	Neftekamsk, Russia
+		126787	Xichang, China
+		126766	Cadiz, Spain
+		126706	Pakpattan, Pakistan
+		126701	Danshui, China
+		126700	Bahawalnagar, Pakistan
+		126683	Thousand Oaks, California, United States
+		126606	Ueda, Japan
+		126551	Sogamoso, Colombia
+		126496	East Los Angeles, California, United States
+		126475	Lalitpur, India
+		126470	Edirne, Turkey
+		126465	Jombang, Indonesia
+		126449	Songea, Tanzania
+		126441	Kolar, India
+		126396	LTvis, Quebec, Canada
+		126387	Chinandega, Nicaragua
+		126386	Al Jadid, Libya
+		126377	LambarT, Paraguay
+		126366	Macheng, China
+		126326	Cedar Rapids, Iowa, United States
+		126305	Rafa?, Palestinian Territory
+		126243	Itapetininga, Brazil
+		126234	Patos de Minas, Brazil
+		126181	Paseh, Indonesia
+		125933	Pangkalpinang, Indonesia
+		125919	Huicheng, China
+		125872	Olathe, Kansas, United States
+		125817	Gashua, Nigeria
+		125799	Les Cayes, Haiti
+		125707	Watford, United Kingdom
+		125667	Xiazhen, China
+		125633	Torbat-e ?eydariyeh, Iran
+		125598	Tando Adam, Pakistan
+		125557	¦Ajlun, Jordan
+		125535	Sorong, Indonesia
+		125502	Koronadal, Philippines
+		125483	Okinawa, Japan
+		125472	Tanjungpinang, Indonesia
+		125430	Los -ngeles, Chile
+		125427	Haimen, China
+		125347	Orsha, Belarus
+		125132	Shahecheng, China
+		125109	Kelowna, British Columbia, Canada
+		125096	Braganta Paulista, Brazil
+		125092	Bohicon, Benin
+		125065	Beppu, Japan
+		125000	Willemstad, Curav+ao
+		125000	Balti, Moldova
+		124988	Mandsaur, India
+		124969	Elizabeth, New Jersey, United States
+		124946	Padalarang, Indonesia
+		124924	Suining, China
+		124916	Zamora de Hidalgo, Michoac»n, Mexico
+		124897	Gondia, India
+		124846	Huixquilucan, MTxico, Mexico
+		124826	Semnan, Iran
+		124805	Waco, Texas, United States
+		124800	Sloviansk, Ukraine
+		124775	Hartford, Connecticut, United States
+		124763	San Francisco de Macorfs, Dominican Republic
+		124736	Yushu, China
+		124694	Nueva San Salvador, El Salvador
+		124613	Matsuzaka, Japan
+		124602	Khairpur, Pakistan
+		124521	Kashihara-shi, Japan
+		124478	Riobamba, Ecuador
+		124444	Kokshetau, Kazakhstan
+		124442	Visalia, California, United States
+		124430	Gorz=w Wielkopolski, Poland
+		124427	Timon, Brazil
+		124354	Gainesville, Florida, United States
+		124268	Lecheng, China
+		124237	Simi Valley, California, United States
+		124224	Spo JosT dos Pinhais, Brazil
+		124191	Marand, Iran
+		124168	Rajapalaiyam, India
+		124149	OrlTans, France
+		124108	Laiwu, China
+		124064	Rustenburg, South Africa
+		124000	Rudnyy, Kazakhstan
+		123979	Teres=polis, Brazil
+		123914	Metz, France
+		123843	Jiupu, China
+		123797	Darjiling, India
+		123791	Baoshan, China
+		123787	Salvale=n de Higney, Dominican Republic
+		123749	Polokwane, South Africa
+		123727	Thaton, Myanmar
+		123723	Budapest III. kernlet, Hungary
+		123669	Potchefstroom, South Africa
+		123657	Siracusa, Italy
+		123637	Ciamis, Indonesia
+		123626	Lumajang, Indonesia
+		123590	Guelma, Algeria
+		123531	Hagunoy, Philippines
+		123484	Mohali, India
+		123480	Uruguaiana, Brazil
+		123382	Ban Rangsit, Thailand
+		123294	Palanpur, India
+		123263	Indramayu, Indonesia
+		123250	Epworth, Zimbabwe
+		123246	Bordj el Kiffan, Algeria
+		123184	Gagnoa, Cote d'Ivoire
+		123173	Porto Seguro, Brazil
+		123064	Wolfsburg, Germany
+		123059	Niihama, Japan
+		123018	Jiaohe, China
+		122943	Dos Hermanas, Spain
+		122785	Pati, Indonesia
+		122719	Dam Dam, India
+		122688	Alagoinhas, Brazil
+		122676	Az Zubayr, Iraq
+		122643	Stamford, Connecticut, United States
+		122635	Hardoi, India
+		122563	Huangzhou, China
+		122533	Puruliya, India
+		122533	Ubon Ratchathani, Thailand
+		122524	Kisarazu, Japan
+		122502	Virginia, South Africa
+		122497	Brits, South Africa
+		122452	Beylikdnzn, Turkey
+		122438	Recklinghausen, Germany
+		122423	Palhota, Brazil
+		122411	Xiulin, China
+		122402	Zhoucun, China
+		122396	Jiayuguan, China
+		122378	Maastricht, Netherlands
+		122363	Bellevue, Washington, United States
+		122310	M? Tho, Vietnam
+		122287	Tekirdag, Turkey
+		122219	Aalborg, Denmark
+		122211	Barbacena, Brazil
+		122199	Chishtian Mandi, Pakistan
+		122194	Villa Canales, Guatemala
+		122155	Dibrugarh, India
+		122149	Gÿttingen, Germany
+		122067	Concord, California, United States
+		122041	Miramar, Florida, United States
+		122034	Durrds, Albania
+		121989	Zabol, Iran
+		121965	Palwal, India
+		121949	Nobeoka, Japan
+		121826	Nalgonda, India
+		121806	Batªumi, Georgia
+		121722	Matar=, Spain
+		121662	Bhadreswar, India
+		121631	Bern, Switzerland
+		121610	Vejalpur, India
+		121610	Stavanger, Norway
+		121572	Payakumbuh, Indonesia
+		121515	Fujinomiya, Japan
+		121484	Chikmagalur, India
+		121470	Ekibastuz, Kazakhstan
+		121411	Noda, Japan
+		121394	Braga, Portugal
+		121367	Nancha, China
+		121348	Orizaba, Veracruz, Mexico
+		121278	Raigarh, India
+		121230	North Stamford, Connecticut, United States
+		121207	Olmaliq, Uzbekistan
+		121119	Musoma, Tanzania
+		121096	Coral Springs, Florida, United States
+		121084	Cachoeirinha, Brazil
+		121057	Yaizu, Japan
+		121052	Tobruk, Libya
+		120965	Xilin Hot, China
+		120964	Guntakal, India
+		120836	Nakhon Si Thammarat, Thailand
+		120733	Heilbronn, Germany
+		120729	Sassari, Italy
+		120658	Ingolstadt, Germany
+		120623	Lafayette, Louisiana, United States
+		120537	Toyokawa, Japan
+		120514	Fengcheng, China
+		120500	Mufulira, Zambia
+		120451	Ulm, Germany
+		120447	Rawang, Malaysia
+		120399	Karaman, Turkey
+		120372	Cambridge, Ontario, Canada
+		120339	Wloclawek, Poland
+		120204	Monza, Italy
+		120167	Fernando de la Mora, Paraguay
+		120148	Budapest XIV. kernlet, Hungary
+		120115	Gangapur, India
+		120083	Charleston, South Carolina, United States
+		120000	NabateyT et Tahta, Lebanon
+		120000	Abbottabad, Pakistan
+		120000	Orekhovo-Zuyevo, Russia
+		120000	Kista, Sweden
+		120000	Midoun, Tunisia
+		119909	Bottrop, Germany
+		119893	Santa Rita, Brazil
+		119868	Maxixe, Mozambique
+		119794	Kairouan, Tunisia
+		119785	Jaranwala, Pakistan
+		119717	Santa Coloma de Gramenet, Spain
+		119713	Leiden, Netherlands
+		119693	Trois-RiviFres, Quebec, Canada
+		119665	Bergedorf, Germany
+		119529	Modakeke, Nigeria
+		119475	Silang, Philippines
+		119436	Quevedo, Ecuador
+		119370	Nazilli, Turkey
+		119323	Lira, Uganda
+		119313	Pforzheim, Germany
+		119260	Dordrecht, Netherlands
+		119206	Ja+, Brazil
+		119192	Offenbach, Germany
+		119181	Siwan, India
+		119097	Carrollton, Texas, United States
+		119082	Settat, Morocco
+		119033	Cagua, Venezuela
+		118807	San Jose, Philippines
+		118788	Roseville, California, United States
+		118776	Damoh, India
+		118772	Thornton, Colorado, United States
+		118731	Toda, Japan
+		118721	Lhasa, China
+		118687	Ann Oussera, Algeria
+		118682	Kokubunji, Japan
+		118675	Pleven, Bulgaria
+		118562	Zacatecas, Zacatecas, Mexico
+		118551	Khlong Luang, Thailand
+		118526	Adilabad, India
+		118439	Sepatan, Indonesia
+		118433	Zielona G=ra, Poland
+		118410	Cubatpo, Brazil
+		118355	Maseru, Lesotho
+		118299	Srikakulam, India
+		118296	Beaumont, Texas, United States
+		118284	Berdyansªk, Ukraine
+		118259	Uppal Kalan, India
+		118211	Bandundu, Democratic Republic of the Congo
+		118179	Pita Kotte, Sri Lanka
+		118173	San Juan del Rfo, QuerTtaro, Mexico
+		118162	Torrej=n de Ardoz, Spain
+		118121	Bama, Nigeria
+		118089	Ilobu, Nigeria
+		118068	Jetpur, India
+		118032	Allentown, Pennsylvania, United States
+		118023	Puning, China
+		118022	Morbi, India
+		118004	Buga, Colombia
+		117927	Nakhon Pathom, Thailand
+		117878	Uzhhorod, Ukraine
+		117863	Patan, India
+		117811	SokodT, Togo
+		117799	Tarn=w, Poland
+		117796	Loja, Ecuador
+		117757	Jalingo, Nigeria
+		117639	Gemena, Democratic Republic of the Congo
+		117634	Achinsk, Russia
+		117623	Shunyi, China
+		117618	Rotherham, United Kingdom
+		117601	Ikoma, Japan
+		117596	Anaco, Venezuela
+		117530	Tebingtinggi, Indonesia
+		117517	Surprise, Arizona, United States
+		117504	Petit GoGve, Haiti
+		117479	Tunja, Colombia
+		117446	Bremerhaven, Germany
+		117430	Punta Arenas, Chile
+		117429	Evansville, Indiana, United States
+		117395	PanevePys, Lithuania
+		117326	Newport, United Kingdom
+		117303	Maymyo, Myanmar
+		117249	Kedungwuni, Indonesia
+		117233	Ishinomaki, Japan
+		117185	Longjing, China
+		117137	Khanna, India
+		117132	Calabozo, Venezuela
+		117118	Remscheid, Germany
+		117110	Set+bal, Portugal
+		117072	Cacak, Serbia
+		117063	Nkongsamba, Cameroon
+		117063	Abilene, Texas, United States
+		117062	Kindia, Guinea
+		117056	Qingzhou, China
+		117053	Botad, India
+		117014	Rishra, India
+		117000	Pinhais, Brazil
+		116989	Frisco, Texas, United States
+		116925	Hofu, Japan
+		116830	Independence, Missouri, United States
+		116788	Ordu, Turkey
+		116751	Lausanne, Switzerland
+		116714	Athens, Georgia, United States
+		116709	Brugge, Belgium
+		116662	Sim)es Filho, Brazil
+		116644	Azamgarh, India
+		116579	Ahmadpur East, Pakistan
+		116571	Varginha, Brazil
+		116557	JaTn, Spain
+		116552	Puno, Peru
+		116468	Santa Clara, California, United States
+		116447	Yelahanka, India
+		116307	Dasha, China
+		116298	Nyfregyh»za, Hungary
+		116286	Berlin Schÿneberg, Germany
+		116286	Pescara, Italy
+		116284	Yakeshi, China
+		116250	Springfield, Illinois, United States
+		116224	Cherkessk, Russia
+		116209	Algeciras, Spain
+		116161	Gudivada, India
+		116122	Digos, Philippines
+		116119	Handa, Japan
+		116000	Alchevsªk, Ukraine
+		115979	Noginsk, Russia
+		115967	Koganei, Japan
+		115949	Raªs al Khaymah, United Arab Emirates
+		115942	Vallejo, California, United States
+		115932	Cavite, Philippines
+		115932	Pavlohrad, Ukraine
+		115903	Victorville, California, United States
+		115895	Milpa Alta, Distrito Federal, Mexico
+		115893	Binzhou, China
+		115845	Zoetermeer, Netherlands
+		115826	Sri Jayewardenepura Kotte, Sri Lanka
+		115760	Guelph, Ontario, Canada
+		115688	Yelets, Russia
+		115611	Parla, Spain
+		115537	Batang, Indonesia
+		115504	Baidyabati, India
+		115499	Okigwi, Nigeria
+		115399	Lengshuijiang, China
+		115378	Texcoco de Mora, MTxico, Mexico
+		115370	Wendeng, China
+		115319	Toliara, Madagascar
+		115268	Bizerte, Tunisia
+		115201	Pouso Alegre, Brazil
+		115115	Basti, India
+		115105	Tuguegarao City, Philippines
+		115007	Peoria, Illinois, United States
+		114883	Balkh, Afghanistan
+		114858	Mingshui, China
+		114783	Botosani, Romania
+		114680	Mary, Turkmenistan
+		114565	Coquitlam, British Columbia, Canada
+		114453	S=c Trang, Vietnam
+		114347	Dunedin, New Zealand
+		114321	Balasore, India
+		114297	Lansing, Michigan, United States
+		114290	Pamanukan, Indonesia
+		114225	Pleiku, Vietnam
+		114195	Kingston, Ontario, Canada
+		114177	Yuyao, China
+		114069	Sawangan, Indonesia
+		114050	Dharmavaram, India
+		114034	Siirt, Turkey
+		114027	Erzincan, Turkey
+		114009	Kankan, Guinea
+		114000	Hotan, China
+		113934	Ann Arbor, Michigan, United States
+		113906	Reykjavfk, Iceland
+		113872	Laghouat, Algeria
+		113862	Botucatu, Brazil
+		113840	Maler Kotla, India
+		113830	Offa, Nigeria
+		113800	Tobolªsk, Russia
+		113759	Wardha, India
+		113631	Pingshan, China
+		113627	Deoria, India
+		113624	Kuito, Angola
+		113611	Qianguo, China
+		113609	Maba, China
+		113605	Jandira, Brazil
+		113541	Dumaguete, Philippines
+		113531	Budapest XIII. kernlet, Hungary
+		113479	Mishima, Japan
+		113475	El Monte, California, United States
+		113430	Chorz=w, Poland
+		113383	Denton, Texas, United States
+		113365	Luanshya, Zambia
+		113364	Praia, Cape Verde
+		113193	Jhunjhunun, India
+		113143	Bergamo, Italy
+		113137	Kitami, Japan
+		113118	Exeter, United Kingdom
+		113107	Kuwana, Japan
+		113004	North Peoria, Illinois, United States
+		113000	Shchelkovo, Russia
+		112969	Alanya, Turkey
+		112906	Eastbourne, United Kingdom
+		112840	Vihari, Pakistan
+		112819	Taonan, China
+		112793	Satara, India
+		112787	Rouen, France
+		112635	Chandausi, India
+		112632	Nefteyugansk, Russia
+		112627	Reutlingen, Germany
+		112585	Shaowu, China
+		112580	Berkeley, California, United States
+		112557	Mojokerto, Indonesia
+		112490	Satu Mare, Romania
+		112488	Provo, Utah, United States
+		112473	Thanh H=a, Vietnam
+		112467	Innsbruck, Austria
+		112426	Kamalia, Pakistan
+		112286	Guanare, Venezuela
+		112200	Bassetlaw District, United Kingdom
+		112187	Faridpur, Bangladesh
+		112158	Apopa, El Salvador
+		112144	Motihari, India
+		112141	Chas, India
+		112137	Mazyr, Belarus
+		112118	Pudukkottai, India
+		112106	Iguala de la Independencia, Guerrero, Mexico
+		112082	Car+pano, Venezuela
+		112079	Rewari, India
+		112050	Port Blair, India
+		112033	Esuk Oron, Nigeria
+		112025	Fnrth, Germany
+		112019	Beibei, China
+		111894	Ca Mau, Vietnam
+		111888	Ribeirpo Pires, Brazil
+		111864	Douma, Syria
+		111820	Iringa, Tanzania
+		111805	Zwolle, Netherlands
+		111800	Novokuybyshevsk, Russia
+		111772	Downey, California, United States
+		111752	Quchan, Iran
+		111729	Suriapet, India
+		111701	Kandy, Sri Lanka
+		111693	Bangaon, India
+		111600	Lisichansk, Ukraine
+		111596	Conselheiro Lafaiete, Brazil
+		111594	Chhatarpur, India
+		111564	Daugavpils, Latvia
+		111514	Resende, Brazil
+		111510	Masjed Soleyman, Iran
+		111476	Cileunyi, Indonesia
+		111475	Ashoknagar Kalyangarh, India
+		111461	Magelang, Indonesia
+		111430	Mulhouse, France
+		111424	Santa Rosa, Argentina
+		111320	Mbouda, Cameroon
+		111302	Arauc»ria, Brazil
+		111290	Ciutat Vella, Spain
+		111278	Achalpur, India
+		111147	Midland, Texas, United States
+		111123	Navadwip, India
+		111017	Nsukka, Nigeria
+		111014	Nguru, Nigeria
+		110988	Dongtai, China
+		110983	Barsi, India
+		110968	Atibaia, Brazil
+		110941	Taitung City, Taiwan
+		110936	V»rzea Paulista, Brazil
+		110925	Hikone, Japan
+		110925	Norman, Oklahoma, United States
+		110921	Encheng, China
+		110884	Turhal, Turkey
+		110826	Bandar-e Anzali, Iran
+		110753	Hadejia, Nigeria
+		110735	Manzanillo, Colima, Mexico
+		110721	Zhuji, China
+		110706	Perpignan, France
+		110624	Caen, France
+		110553	Yenangyaung, Myanmar
+		110537	Manzini, Swaziland
+		110520	Delicias, Spain
+		110368	Sultanpur, India
+		110366	Waterbury, Connecticut, United States
+		110338	Tauranga, New Zealand
+		110219	Kiryu, Japan
+		110182	Kresek, Indonesia
+		110175	Bender, Moldova
+		110159	Nelspruit, South Africa
+		110155	Citeureup, Indonesia
+		110140	Kÿln-Nippes, Germany
+		110085	Garanhuns, Brazil
+		110075	GabFs, Tunisia
+		110046	Linqing, China
+		110000	Vacoas, Mauritius
+		110000	Noyabr'sk, Russia
+		110000	Mendip, United Kingdom
+		109972	Zlitan, Libya
+		109968	Zhucheng, China
+		109962	Bataysk, Russia
+		109960	Costa Mesa, California, United States
+		109955	Linshui, China
+		109881	Hailun, China
+		109873	Ambur, India
+		109847	KecskemTt, Hungary
+		109844	Seversk, Russia
+		109839	Lichinga, Mozambique
+		109733	Shilong, China
+		109701	Kandi, Benin
+		109673	Inglewood, California, United States
+		109637	Araruama, Brazil
+		109636	Tieli, China
+		109612	Catanduva, Brazil
+		109565	Manchester, New Hampshire, United States
+		109561	Didao, China
+		109504	Ciudad Valles, San Luis Potosf, Mexico
+		109479	Arzamas, Russia
+		109468	Phalaborwa, South Africa
+		109427	Heihe, China
+		109414	Colchester, United Kingdom
+		109400	Zhaotong, China
+		109358	Hoshangabad, India
+		109294	Larache, Morocco
+		109261	Ijebu-Igbo, Nigeria
+		109252	Sergiyev Posad, Russia
+		109223	Tumbes, Peru
+		109203	Livingstone, Zambia
+		109163	San Rafael, Argentina
+		109163	Port-Gentil, Gabon
+		109104	Hulan, China
+		109104	Alcobendas, Spain
+		109089	Matagalpa, Nicaragua
+		109045	Komatsu, Japan
+		109023	Leninsk-Kuznetskiy, Russia
+		108883	Zhongxiang, China
+		108858	Franco da Rocha, Brazil
+		108833	Iwatsuki, Japan
+		108818	Dehui, China
+		108782	Boulogne-Billancourt, France
+		108759	Kalisz, Poland
+		108755	Murfreesboro, Tennessee, United States
+		108753	Ksar el Kebir, Morocco
+		108737	Pemba, Mozambique
+		108666	Ibarra, Ecuador
+		108612	Sawai Madhopur, India
+		108608	Uromi, Nigeria
+		108600	Dharan Bazar, Nepal
+		108593	Madanapalle, India
+		108589	Chatham-Kent, Ontario, Canada
+		108558	Katumba, Tanzania
+		108500	Columbia, Missouri, United States
+		108481	Enterprise, Nevada, United States
+		108474	Bansbaria, India
+		108471	Kumanovo, Macedonia
+		108466	Gir=n, Colombia
+		108456	Mopti, Mali
+		108449	Baghlan, Afghanistan
+		108420	Trincomalee, Sri Lanka
+		108414	Santiago, Philippines
+		108368	Dagenham, United Kingdom
+		108335	Forl8, Italy
+		108274	Al Sohar, Oman
+		108253	Nehe, China
+		108240	Kyzyl, Russia
+		108239	Cabo Frio, Brazil
+		108200	Oktyabrªskiy, Russia
+		108188	Elgin, Illinois, United States
+		108167	Tadepallegudem, India
+		108166	Banyuwangi, Indonesia
+		108164	Birnin Kebbi, Nigeria
+		108156	Pingliang, China
+		108145	Santa Cruz, Philippines
+		108008	An Nuhud, Sudan
+		107986	Yushan, China
+		107930	Madent Atbara, Sudan
+		107918	Chengjiang, China
+		107911	B?c LiOu, Vietnam
+		107898	Latina, Italy
+		107832	Jalpaiguri, India
+		107828	Jalai Nur, China
+		107818	Tajimi, Japan
+		107816	Moers, Germany
+		107767	KallithTa, Greece
+		107742	Ourense, Spain
+		107685	Clearwater, Florida, United States
+		107631	Bandirma, Turkey
+		107620	Umm Qasr, Iraq
+		107591	Butterworth, Malaysia
+		107589	Shaping, China
+		107558	RGmnicu VGlcea, Romania
+		107463	Araras, Brazil
+		107450	Koszalin, Poland
+		107432	Po», Brazil
+		107419	Sherpur, Bangladesh
+		107392	Obninsk, Russia
+		107383	Vit=ria de Santo Antpo, Brazil
+		107362	Shinyanga, Tanzania
+		107319	Koblenz, Germany
+		107242	Siegen, Germany
+		107223	Vicenza, Italy
+		107194	VSsterss, Sweden
+		107167	Miami Gardens, Florida, United States
+		107157	Bharatpur, Nepal
+		107143	As Suwayq, Oman
+		107118	Reus, Spain
+		107111	Iida, Japan
+		107093	Ilebo, Democratic Republic of the Congo
+		107085	Apucarana, Brazil
+		107082	YOn Vinh, Vietnam
+		107061	Crawley, United Kingdom
+		107045	Mitrovicd, Kosovo
+		107030	Sutton Coldfield, United Kingdom
+		106991	Khemisset, Morocco
+		106971	Elista, Russia
+		106945	Taungoo, Myanmar
+		106915	Ejido, Venezuela
+		106841	Al ?awamidiyah, Egypt
+		106822	Catia La Mar, Venezuela
+		106795	Lianran, China
+		106769	Rochester, Minnesota, United States
+		106737	Rayong, Thailand
+		106710	Chittaurgarh, India
+		106595	Fukaya, Japan
+		106595	Pueblo, Colorado, United States
+		106582	Coimbra, Portugal
+		106519	Lowell, Massachusetts, United States
+		106479	Cikarang, Indonesia
+		106476	Wilmington, North Carolina, United States
+		106433	Arvada, Colorado, United States
+		106384	Longjiang, China
+		106358	Kamagaya-shi, Japan
+		106358	Hwado, South Korea
+		106347	Buhe, China
+		106322	Pindiga, Nigeria
+		106284	Namur, Belgium
+		106250	Gangawati, India
+		106186	Novotroitsk, Russia
+		106184	Bergisch Gladbach, Germany
+		106154	Blackburn, United Kingdom
+		106114	Westminster, Colorado, United States
+		106113	Santa Cruz do Sul, Brazil
+		106098	West Covina, California, United States
+		106033	Legnica, Poland
+		105995	Ashqelon, Israel
+		105968	Sydney, Nova Scotia, Canada
+		105965	Derbent, Russia
+		105918	Xinghua, China
+		105909	Khurja, India
+		105908	Mati, Philippines
+		105880	Guaratinguet», Brazil
+		105845	Arjawinangun, Indonesia
+		105796	Suceava, Romania
+		105765	Ann Benda, Algeria
+		105687	Azare, Nigeria
+		105682	Nantou, Taiwan
+		105665	Anqiu, China
+		105622	Lahad Datu, Malaysia
+		105599	Idku, Egypt
+		105594	Gresham, Oregon, United States
+		105549	Norwalk, California, United States
+		105549	Fargo, North Dakota, United States
+		105512	Ponnani, India
+		105510	Tanza, Philippines
+		105488	Fresnillo de Gonz»lez Echeverrfa, Zacatecas, Mexico
+		105486	Mariara, Venezuela
+		105457	Bhairab Bazar, Bangladesh
+		105456	Tengzhou, China
+		105402	Baraki, Algeria
+		105334	Nancy, France
+		105328	Carlsbad, California, United States
+		105321	Fairfield, California, United States
+		105309	Queenstown, South Africa
+		105260	H=a B8nh, Vietnam
+		105223	Yevpatoriya, Ukraine
+		105198	Jizan, Saudi Arabia
+		105162	Cambridge, Massachusetts, United States
+		105112	Focsani, Romania
+		105075	Linhares, Brazil
+		105019	Araguafna, Brazil
+		105018	Terni, Italy
+		105016	Barnala, India
+		105000	Universal City, California, United States
+		104946	Trento, Italy
+		104904	Daxing, China
+		104799	Baneh, Iran
+		104782	Oldham, United Kingdom
+		104723	Douliu, Taiwan
+		104712	Jena, Germany
+		104659	Gera, Germany
+		104636	Badlapur, India
+		104569	Al Faw, Iraq
+		104553	Wichita Falls, Texas, United States
+		104518	Mostar, Bosnia and Herzegovina
+		104371	High Point, North Carolina, United States
+		104357	Zhezqazghan, Kazakhstan
+		104341	Yatsushiro, Japan
+		104325	Tandil, Argentina
+		104316	Lo Prado, Chile
+		104277	Pulandian, China
+		104258	Albury, New South Wales, Australia
+		104217	Kot Addu, Pakistan
+		104215	Debre Zeyit, Ethiopia
+		104207	Kara, Togo
+		104170	Billings, Montana, United States
+		104168	Wuchuan, China
+		104101	Yenakiyeve, Ukraine
+		104057	Green Bay, Wisconsin, United States
+		104024	Matamoros, Coahuila, Mexico
+		104020	Abengourou, Cote d'Ivoire
+		104004	Iwakuni, Japan
+		104000	Soyibug, India
+		104000	Kiseldvsk, Russia
+		103992	Kroonstad, South Africa
+		103988	Jishu, China
+		103941	Ed Damer, Sudan
+		103932	Woking, United Kingdom
+		103894	Roorkee, India
+		103894	Dolisie, Republic of Congo
+		103855	Bagaha, India
+		103829	Yuxi, China
+		103733	Nkpor, Nigeria
+		103724	Hosur, India
+		103712	West Jordan, Utah, United States
+		103701	Richmond, California, United States
+		103693	Male, Maldives
+		103610	Tantoyuca, Veracruz, Mexico
+		103601	Gardez, Afghanistan
+		103596	Bilqas Qism Awwal, Egypt
+		103533	Churu, India
+		103501	Nagda, India
+		103483	Brandon, Florida, United States
+		103470	Perabumulih, Indonesia
+		103466	Murrieta, California, United States
+		103449	Guaymas, Sonora, Mexico
+		103427	Phitsanulok, Thailand
+		103403	Las Margaritas, Chiapas, Mexico
+		103401	Isehara, Japan
+		103399	Queluz, Portugal
+		103340	Burbank, California, United States
+		103337	Nishio, Japan
+		103314	Vinh Long, Vietnam
+		103292	Turgutlu, Turkey
+		103249	Cheltenham, United Kingdom
+		103206	Esmeraldas, Brazil
+		103190	Palm Bay, Florida, United States
+		103165	Escuintla, Guatemala
+		103149	Velikiye Luki, Russia
+		103138	Kashipur, India
+		103095	Ghazipur, India
+		103060	Begusarai, India
+		103054	Ikerre, Nigeria
+		103052	Hildesheim, Germany
+		103019	Everett, Washington, United States
+		103009	Rantauprapat, Indonesia
+		103000	Oleksandriya, Ukraine
+		102969	Ciudad Delicias, Chihuahua, Mexico
+		102903	Al Qurayyat, Saudi Arabia
+		102861	Portmore, Jamaica
+		102826	Palma Soriano, Cuba
+		102816	Pushkino, Russia
+		102793	Khushab, Pakistan
+		102779	Lafiagi, Nigeria
+		102707	Belawan, Indonesia
+		102688	Roxas City, Philippines
+		102688	Piatra Neamt, Romania
+		102675	Erlangen, Germany
+		102671	Chelmsford, United Kingdom
+		102555	Saint Helens, United Kingdom
+		102548	Edison, New Jersey, United States
+		102541	Lubango, Angola
+		102528	Sagh, Chad
+		102462	Dhaulpur, India
+		102444	Wazirabad, Pakistan
+		102438	Curic=, Chile
+		102434	Flint, Michigan, United States
+		102426	Concepci=n de La Vega, Dominican Republic
+		102420	Shahzadpur, Bangladesh
+		102383	Tulancingo, Hidalgo, Mexico
+		102372	Antioch, California, United States
+		102346	Drobeta-Turnu Severin, Romania
+		102345	Marmagao, India
+		102332	Jishou, China
+		102300	Artdm, Russia
+		102277	Birigui, Brazil
+		102187	Ukhta, Russia
+		102130	Firozpur, India
+		102130	Inazawa, Japan
+		102117	Pinocchio di Ancona, Italy
+		102105	Laoag, Philippines
+		102038	Sabratah, Libya
+		102037	Disuq, Egypt
+		101919	Bethal, South Africa
+		101838	Singkawang, Indonesia
+		101801	Gondal, India
+		101792	Torrevieja, Spain
+		101786	Erie, Pennsylvania, United States
+		101768	Hidalgo del Parral, Chihuahua, Mexico
+		101731	Ternate, Indonesia
+		101691	Bontang, Indonesia
+		101668	Delta, British Columbia, Canada
+		101661	Parsabad, Iran
+		101640	¦Ibri, Oman
+		101616	Dera Ismail Khan, Pakistan
+		101614	Salihorsk, Belarus
+		101600	SzTkesfehTrv»r, Hungary
+		101558	Temapache, Veracruz, Mexico
+		101534	Malambo, Colombia
+		101502	Kansk, Russia
+		101475	Argenteuil, France
+		101421	Kÿln Rodenkirchen, Germany
+		101379	Seoni, India
+		101362	Basildon, United Kingdom
+		101343	Dartmouth, Nova Scotia, Canada
+		101300	Maladzyechna, Belarus
+		101300	Jagadhri, India
+		101268	Olomouc, Czech Republic
+		101247	Witten, Germany
+		101234	Mirialguda, India
+		101220	Barretos, Brazil
+		101207	Madina, Ghana
+		101200	Chakwal, Pakistan
+		101194	Lower Hutt, New Zealand
+		101190	Colatina, Brazil
+		101187	Gillingham, United Kingdom
+		101170	Te=filo Otoni, Brazil
+		101168	South Bend, Indiana, United States
+		101148	San Luis de la Paz, Guanajuato, Mexico
+		101133	Tokuyama, Japan
+		101128	Tonghae, South Korea
+		101123	Daly City, California, United States
+		101098	Vanadzor, Armenia
+		101092	Tartu, Estonia
+		101090	Mokopane, South Africa
+		101064	Udgir, India
+		101037	Urdaneta, Philippines
+		101026	Mezhdurechensk, Russia
+		101024	Guafba, Brazil
+		101010	Ciudad Guzm»n, Jalisco, Mexico
+		101002	Jolo, Philippines
+		100996	Qinzhou, China
+		100925	Guarapari, Brazil
+		100916	Coronel Fabriciano, Brazil
+		100910	Novara, Italy
+		100903	Elbasan, Albania
+		100885	Navapolatsk, Belarus
+		100847	Funchal, Portugal
+		100821	Oum el Bouaghi, Algeria
+		100812	Solikamsk, Russia
+		100810	El Progreso, Honduras
+		100790	Shahre?a, Iran
+		100780	Jamalpur, India
+		100774	Zhaoyuan, China
+		100752	Itaguaf, Brazil
+		100703	Nandurbar, India
+		100684	Abu Kabir, Egypt
+		100676	Glazov, Russia
+		100653	Anyama, Cote d'Ivoire
+		100641	Narita, Japan
+		100613	Grogol, Indonesia
+		100574	Itarsi, India
+		100561	Padangsidempuan, Indonesia
+		100507	Ancona, Italy
+		100495	Qalyub, Egypt
+		100485	Vasco Da Gama, India
+		100446	Sakata, Japan
+		100389	Konan, Japan
+		100383	Playa del Carmen, Quintana Roo, Mexico
+		100377	Martfnez de La Torre, Veracruz, Mexico
+		100377	Centennial, Colorado, United States
+		100353	Chikushino-shi, Japan
+		100341	Lianjiang, China
+		100316	Linxi, China
+		100313	MaganguT, Colombia
+		100289	TiTbo, Senegal
+		100271	Ustª-Ilimsk, Russia
+		100229	Zonguldak, Turkey
+		100208	Kuhdasht, Iran
+		100171	Kalmunai, Sri Lanka
+		100146	Phagwara, India
+		100129	Trier, Germany
+		100097	Temecula, California, United States
+		100023	Punta Cana, Dominican Republic
+		100023	Worcester, United Kingdom
+		100015	Telde, Spain
+		100000	Barysaw, Belarus
+		100000	Kangding, China
+		100000	Alamar, Cuba
+		100000	Airoli, India
+		100000	Yafo, Israel
+		100000	Tagiura, Libya
+		100000	Ozdrsk, Russia
+		100000	Zheleznodorozhnyy, Russia
+		100000	Subotica, Serbia
+		100000	Kamieniec Podolski, Ukraine
+		100000	Becontree, United Kingdom
+		100000	Colonia Lindavista, Distrito Federal, Mexico
+		 99940	Odessa, Texas, United States
+		 99919	West Palm Beach, Florida, United States
+		 99887	Round Rock, Texas, United States
+		 99845	Pompano Beach, Florida, United States
+		 99823	Salto, Uruguay
+		 99820	Tsuruoka, Japan
+		 99819	Chanthaburi, Thailand
+		 99809	Dongsheng, China
+		 99753	Clinton, Michigan, United States
+		 99742	Amreli, India
+		 99685	Davenport, Iowa, United States
+		 99678	Shikohabad, India
+		 99615	Columbia, Maryland, United States
+		 99600	Zeldnodolªsk, Russia
+		 99553	Santa Maria, California, United States
+		 99540	Dhahran, Saudi Arabia
+		 99496	Itabira, Brazil
+		 99486	Grudziadz, Poland
+		 99485	Messaad, Algeria
+		 99478	Novoshakhtinsk, Russia
+		 99478	El Cajon, California, United States
+		 99476	Ikeda, Japan
+		 99462	Kasganj, India
+		 99446	Akhmim, Egypt
+		 99419	Meihekou, China
+		 99390	Votorantim, Brazil
+		 99357	Al Matariyah, Egypt
+		 99353	Koutiala, Mali
+		 99334	Thunder Bay, Ontario, Canada
+		 99322	Thika, Kenya
+		 99307	Saint-Paul, Reunion
+		 99284	Sehore, India
+		 99270	Burco, Somalia
+		 99268	Bam, Iran
+		 99223	Richardson, Texas, United States
+		 99218	Kenosha, Wisconsin, United States
+		 99211	Sertpozinho, Brazil
+		 99182	St. John's, Newfoundland, Canada
+		 99171	Rialto, California, United States
+		 99149	Kwekwe, Zimbabwe
+		 99110	Worthing, United Kingdom
+		 99105	Ranibennur, India
+		 99079	Bhola, Bangladesh
+		 99074	Talara, Peru
+		 99049	Portsmouth Heights, Virginia, United States
+		 99035	Jagtial, India
+		 98989	Santana de Parnafba, Brazil
+		 98968	Xingcheng, China
+		 98946	Lishui, China
+		 98940	BagT, Brazil
+		 98864	Giresun, Turkey
+		 98850	Broken Arrow, Oklahoma, United States
+		 98846	Barika, Algeria
+		 98830	Sarapul, Russia
+		 98826	Lahti, Finland
+		 98796	Zwickau, Germany
+		 98754	Kontagora, Nigeria
+		 98752	Passos, Brazil
+		 98746	Bukittinggi, Indonesia
+		 98732	Kaiserslautern, Germany
+		 98676	Thimphu, Bhutan
+		 98649	Bocaue, Philippines
+		 98648	Bhadrakh, India
+		 98633	Votkinsk, Russia
+		 98621	Spring Hill, Florida, United States
+		 98608	Slupsk, Poland
+		 98573	+rebro, Sweden
+		 98569	Renqiu, China
+		 98569	Bundi, India
+		 98515	C»rdenas, Cuba
+		 98511	Bridgetown, Barbados
+		 98460	Barakaldo, Spain
+		 98438	Serov, Russia
+		 98433	Habbovch, Lebanon
+		 98422	Xinshi, China
+		 98422	Apatzing»n de la Constituci=n, Michoac»n, Mexico
+		 98387	Salto, Brazil
+		 98374	Budapest IV. kernlet, Hungary
+		 98342	Akbarabad, Iran
+		 98259	Xinyi, China
+		 98259	Al Qatif, Saudi Arabia
+		 98238	Udagamandalam, India
+		 98229	Guelmim, Morocco
+		 98194	Iga, Japan
+		 98188	Chengzihe, China
+		 98185	Thayetmyo, Myanmar
+		 98162	Liling, China
+		 98153	Dearborn, Michigan, United States
+		 98107	Balashov, Russia
+		 98074	Dukuhturi, Indonesia
+		 98061	Fasa, Iran
+		 98043	Mughal Sarai, India
+		 98036	Lida, Belarus
+		 97999	Giugliano in Campania, Italy
+		 97966	Shamli, India
+		 97910	Iserlohn, Germany
+		 97900	Zheleznogorsk, Russia
+		 97856	Albany, New York, United States
+		 97845	Toledo, Brazil
+		 97828	Ub», Brazil
+		 97799	Ourinhos, Brazil
+		 97794	Hyesan-dong, North Korea
+		 97770	Liberec, Czech Republic
+		 97749	Asan, South Korea
+		 97618	Las Cruces, New Mexico, United States
+		 97575	Hechuan, China
+		 97568	Hinganghat, India
+		 97550	Rochdale, United Kingdom
+		 97521	Trindade, Brazil
+		 97512	Arapongas, Brazil
+		 97503	JTrTmie, Haiti
+		 97500	Mbarara, Uganda
+		 97481	Karabnk, Turkey
+		 97480	Xinyu, China
+		 97478	Tarakan, Indonesia
+		 97475	Waterloo, Ontario, Canada
+		 97471	North Charleston, South Carolina, United States
+		 97464	Kayes Ndi, Mali
+		 97458	Al Mu?arraq, Bahrain
+		 97422	Lakeland, Florida, United States
+		 97417	Mabopane, South Africa
+		 97409	Pyinmana, Myanmar
+		 97385	Boulder, Colorado, United States
+		 97380	Villupuram, India
+		 97371	Isahaya, Japan
+		 97369	Amalner, India
+		 97363	Swabi, Pakistan
+		 97360	Turkestan, Kazakhstan
+		 97331	Deventer, Netherlands
+		 97320	Villa Alemana, Chile
+		 97315	Mobara, Japan
+		 97314	Ise, Japan
+		 97296	Phatthaya, Thailand
+		 97269	Bagalkot, India
+		 97249	Lodhran, Pakistan
+		 97207	San Mateo, California, United States
+		 97201	Tellicherry, India
+		 97200	Zhukovskiy, Russia
+		 97194	Narasaraopet, India
+		 97181	Kameoka, Japan
+		 97179	TGrgu Jiu, Romania
+		 97172	Chinautla, Guatemala
+		 97169	Born, Netherlands
+		 97032	Roanoke, Virginia, United States
+		 97026	Fangshan, China
+		 96954	Magway, Myanmar
+		 96942	Livonia, Michigan, United States
+		 96900	Tyler, Texas, United States
+		 96867	Lawton, Oklahoma, United States
+		 96847	Nagaur, India
+		 96781	Villa Mercedes, Argentina
+		 96775	Wabu, South Korea
+		 96769	Ventura, California, United States
+		 96766	Nowshera Cantonment, Pakistan
+		 96764	Bunia, Democratic Republic of the Congo
+		 96732	Linkÿping, Sweden
+		 96730	Nawada, India
+		 96713	Highlands Ranch, Colorado, United States
+		 96678	Lugo, Spain
+		 96656	Sakado, Japan
+		 96641	Schwerin, Germany
+		 96629	Bolu, Turkey
+		 96602	Mtwara, Tanzania
+		 96565	Araguari, Brazil
+		 96541	Jaworzno, Poland
+		 96540	YOn B»i, Vietnam
+		 96520	Corumb», Brazil
+		 96455	Compton, California, United States
+		 96422	Estelf, Nicaragua
+		 96387	Jahanabad, India
+		 96381	Chalisgaon, India
+		 96368	Sliven, Bulgaria
+		 96366	San Fernando, Spain
+		 96348	Basingstoke, United Kingdom
+		 96315	Djounie, Lebanon
+		 96303	Ceyhan, Turkey
+		 96267	Solihull, United Kingdom
+		 96266	Koforidua, Ghana
+		 96228	Zhangye, China
+		 96197	Muroran, Japan
+		 96188	Girona, Spain
+		 96180	Gntersloh, Germany
+		 96151	Kashmar, Iran
+		 96143	Limpio, Paraguay
+		 96128	Saint-Denis, France
+		 96123	Khost, Afghanistan
+		 96120	Buxar, India
+		 96112	Dschang, Cameroon
+		 96087	Erechim, Brazil
+		 96053	CeskT Budejovice, Czech Republic
+		 96052	Manavgat, Turkey
+		 96022	General Trias, Philippines
+		 96006	Yola, Nigeria
+		 95974	KpalimT, Togo
+		 95913	Sungaipenuh, Indonesia
+		 95890	Sahibganj, India
+		 95832	As Safirah, Syria
+		 95820	Lubu, China
+		 95813	Jastrzebie Zdr=j, Poland
+		 95750	Los Baªos, Philippines
+		 95721	Roubaix, France
+		 95665	Pandharpur, India
+		 95653	Andria, Italy
+		 95647	Jinsha, China
+		 95631	Clovis, California, United States
+		 95630	Propicia, Ecuador
+		 95622	Al Ghardaqah, Egypt
+		 95594	Piacenza, Italy
+		 95593	Hindaun, India
+		 95535	Portsmouth, Virginia, United States
+		 95530	Yicheng, China
+		 95525	Ducheng, China
+		 95520	Bumba, Democratic Republic of the Congo
+		 95453	Mingelchaur, Azerbaijan
+		 95433	Shenjiamen Jiedao, China
+		 95394	San Carlos de Bariloche, Argentina
+		 95319	Charsadda, Pakistan
+		 95290	Lewisville, Texas, United States
+		 95282	Magadan, Russia
+		 95260	Boli, China
+		 95251	Catanzaro, Italy
+		 95234	Xiaoshan, China
+		 95227	Enshi, China
+		 95195	Hradec Kr»lovT, Czech Republic
+		 95101	Japeri, Brazil
+		 95092	Santiago de Compostela, Spain
+		 95072	New Bedford, Massachusetts, United States
+		 95060	Delft, Netherlands
+		 95052	Zakhu, Iraq
+		 95052	Ushirombo, Tanzania
+		 95048	Aqaba, Jordan
+		 95048	Villa de Alvarez, Colima, Mexico
+		 95030	Udine, Italy
+		 95029	Frederiksberg, Denmark
+		 95008	Kutloanong, South Africa
+		 95005	Biu, Nigeria
+		 95002	Olupona, Nigeria
+		 95000	Qeshm, Iran
+		 94989	Bolzano - Bozen, Italy
+		 94985	Khargon, India
+		 94957	Onojo, Japan
+		 94903	Kanuma, Japan
+		 94887	Salamiyah, Syria
+		 94863	Parli Vaijnath, India
+		 94853	Alkmaar, Netherlands
+		 94846	Iriga, Philippines
+		 94831	Dobrich, Bulgaria
+		 94807	Kishanganj, India
+		 94786	Wuchang, China
+		 94781	Nowra, New South Wales, Australia
+		 94758	Leskovac, Serbia
+		 94749	Vespasiano, Brazil
+		 94718	Pre_ov, Slovakia
+		 94703	Terrebonne, Quebec, Canada
+		 94668	Campo Largo, Brazil
+		 94641	Nemby, Paraguay
+		 94638	Do Gonbadan, Iran
+		 94619	Mainpuri, India
+		 94611	Facatativ», Colombia
+		 94608	Nfkaia, Greece
+		 94604	Khamgaon, India
+		 94511	Kazerun, Iran
+		 94486	Yonezawa, Japan
+		 94465	Yongchuan, China
+		 94396	South Gate, California, United States
+		 94365	Harlow, United Kingdom
+		 94348	Ahar, Iran
+		 94336	Kirsehir, Turkey
+		 94326	Ximei, China
+		 94263	Stellenbosch, South Africa
+		 94238	Nagappattinam, India
+		 94212	Novyy Urengoy, Russia
+		 94188	Yilan, Taiwan
+		 94115	Yishui, China
+		 94105	+stf nad Labem, Czech Republic
+		 94089	Guadalupe, Zacatecas, Mexico
+		 94066	S(ng C?u, Vietnam
+		 94011	Chilakalurupet, India
+		 93982	CacTm, Portugal
+		 93973	Gudiyattam, India
+		 93954	Berrechid, Morocco
+		 93904	Makrana, India
+		 93883	Jalalpur, Pakistan
+		 93857	College Station, Texas, United States
+		 93854	Kitakami, Japan
+		 93853	Sandy Springs, Georgia, United States
+		 93849	Novouralªsk, Russia
+		 93847	The Woodlands, Texas, United States
+		 93834	Vista, California, United States
+		 93810	Brockton, Massachusetts, United States
+		 93794	West Albany, New York, United States
+		 93788	Carora, Venezuela
+		 93767	Janakpur, Nepal
+		 93756	Valera, Venezuela
+		 93726	Langley, British Columbia, Canada
+		 93718	Heyuan, China
+		 93697	Baijiantan, China
+		 93666	Zhengjiatun, China
+		 93648	Banswara, India
+		 93605	Kombolcha, Ethiopia
+		 93580	Tatuf, Brazil
+		 93558	Yala, Thailand
+		 93549	Dipolog, Philippines
+		 93544	Baraut, India
+		 93528	Ramanagaram, India
+		 93500	Behshahr, Iran
+		 93499	Michurinsk, Russia
+		 93475	Vi?t Tr8, Vietnam
+		 93442	Trelew, Argentina
+		 93440	Dnren, Germany
+		 93420	Sumber, Indonesia
+		 93305	Mission Viejo, California, United States
+		 93297	Dalai, China
+		 93290	Lere, Nigeria
+		 93262	Polatli, Turkey
+		 93238	Bath, United Kingdom
+		 93225	Budapest XVIII. kernlet, Hungary
+		 93200	San Angelo, Texas, United States
+		 93184	Kalyani, India
+		 93174	Changping, China
+		 93131	C»ceres, Spain
+		 93118	Galle, Sri Lanka
+		 93110	Stilfontein, South Africa
+		 93084	Heerlen, Netherlands
+		 93082	Ozamis, Philippines
+		 93080	Darwin, Northern Territory, Australia
+		 93064	Yuma, Arizona, United States
+		 93061	Jinja, Uganda
+		 93060	NoumTa, New Caledonia
+		 93044	Tadpatri, India
+		 93044	Southport, United Kingdom
+		 92990	Wonosobo, Indonesia
+		 92983	Kineshma, Russia
+		 92944	Bafra, Turkey
+		 92942	Chitose, Japan
+		 92940	Coronel, Chile
+		 92933	Wukari, Nigeria
+		 92932	Krasnogorsk, Russia
+		 92892	Leuven, Belgium
+		 92889	Greeley, Colorado, United States
+		 92852	Moa, Cuba
+		 92827	Lianzhou, China
+		 92800	Toowoomba, Queensland, Australia
+		 92772	Rize, Turkey
+		 92749	Beni Mered, Algeria
+		 92719	Igbo Ora, Nigeria
+		 92673	Foumban, Cameroon
+		 92667	Zift», Egypt
+		 92667	Kapurthala, India
+		 92632	Kaizuka, Japan
+		 92600	Palimanan, Indonesia
+		 92575	Patos, Brazil
+		 92552	STgou, Mali
+		 92475	Tulcea, Romania
+		 92465	Maizuru, Japan
+		 92453	Villa Marfa, Argentina
+		 92448	Ratchaburi, Thailand
+		 92447	Pamekasan, Indonesia
+		 92431	Rfohacha, Colombia
+		 92428	Vacaville, California, United States
+		 92411	Kent, Washington, United States
+		 92403	Venlo, Netherlands
+		 92395	Al Harithah, Iraq
+		 92390	Esslingen, Germany
+		 92345	Ormoc, Philippines
+		 92316	Pandeglang, Indonesia
+		 92294	Dhangarhi, Nepal
+		 92282	Dongcun, China
+		 92271	Quincy, Massachusetts, United States
+		 92224	Disa, India
+		 92186	Arden-Arcade, California, United States
+		 92183	Pariaman, Indonesia
+		 92156	Kudus, Indonesia
+		 92146	Ballalpur, India
+		 92126	Kimitsu, Japan
+		 92121	San Juan Bautista Tuxtepec, Oaxaca, Mexico
+		 92117	Eregli, Turkey
+		 92113	Kohima, India
+		 92094	Barletta, Italy
+		 92046	Delmas, South Africa
+		 92040	Duitama, Colombia
+		 92022	Agri, Turkey
+		 92008	Danjiangkou, China
+		 91992	Davie, Florida, United States
+		 91953	Betul, India
+		 91915	Ercis, Turkey
+		 91908	Karaikkudi, India
+		 91908	Winterthur, Switzerland
+		 91906	Lorca, Spain
+		 91900	Bugulªma, Russia
+		 91889	Kilosa, Tanzania
+		 91845	Caringin, Indonesia
+		 91815	Calumpit, Philippines
+		 91802	Nakhon Sawan, Thailand
+		 91800	Ginowan, Japan
+		 91798	Konotop, Ukraine
+		 91750	Zhongshu, China
+		 91733	Butwal, Nepal
+		 91722	Tim=teo, Brazil
+		 91714	Carson, California, United States
+		 91701	Huazhou, China
+		 91617	Kalamari», Greece
+		 91611	Hillsboro, Oregon, United States
+		 91606	Ratingen, Germany
+		 91589	Arezzo, Italy
+		 91574	Tourcoing, France
+		 91548	Grahamstown, South Africa
+		 91534	Longquan, China
+		 91520	Phan Rang-Th»p Cham, Vietnam
+		 91517	Yatou, China
+		 91424	Leeuwarden, Netherlands
+		 91418	Lingyuan, China
+		 91398	Marl, Germany
+		 91391	La Spezia, Italy
+		 91364	Lees Summit, Missouri, United States
+		 91351	Macon, Georgia, United States
+		 91277	Mons, Belgium
+		 91259	Kostyantynivka, Ukraine
+		 91252	Pearland, Texas, United States
+		 91241	Balangir, India
+		 91235	Zipaquir», Colombia
+		 91173	MuriaT, Brazil
+		 91136	Duyun, China
+		 91086	Pesaro, Italy
+		 91080	CambT, Brazil
+		 91077	Pingdu, China
+		 91067	Yakima, Washington, United States
+		 91059	Temixco, Morelos, Mexico
+		 91056	Bayeux, Brazil
+		 91056	Kasama, Zambia
+		 91041	Aligudarz, Iran
+		 91039	Nigde, Turkey
+		 91025	Helsingborg, Sweden
+		 91009	Lnnen, Germany
+		 91009	Th? D?u M?t, Vietnam
+		 90948	Cesena, Italy
+		 90936	Onomichi, Japan
+		 90927	Renton, Washington, United States
+		 90911	Gaoyou, China
+		 90899	Luleburgaz, Turkey
+		 90894	Myitkyina, Myanmar
+		 90894	Maidstone, United Kingdom
+		 90870	Chauk, Myanmar
+		 90852	Bento Gontalves, Brazil
+		 90843	Caraguatatuba, Brazil
+		 90843	Mogok, Myanmar
+		 90835	CuauhtTmoc, Chihuahua, Mexico
+		 90798	Yanggok, South Korea
+		 90722	Drammen, Norway
+		 90690	Kishorganj, Bangladesh
+		 90652	Montreuil, France
+		 90645	Emure-Ekiti, Nigeria
+		 90637	Hanting, China
+		 90628	Datia, India
+		 90610	Klagenfurt am Wÿrthersee, Austria
+		 90607	Torre del Greco, Italy
+		 90593	Tongren, China
+		 90591	Tahta, Egypt
+		 90580	Kÿrfez, Turkey
+		 90480	Kuznetsk, Russia
+		 90468	Tuscaloosa, Alabama, United States
+		 90465	Samalut, Egypt
+		 90422	Xihe, China
+		 90385	ItanhaTm, Brazil
+		 90353	Valparai, India
+		 90329	Lynn, Massachusetts, United States
+		 90296	Kovilpatti, India
+		 90288	Vaniyambadi, India
+		 90280	Coslada, Spain
+		 90264	Sparks, Nevada, United States
+		 90257	Duobao, China
+		 90252	Kirovo-Chepetsk, Russia
+		 90250	Berdsk, Russia
+		 90218	Harer, Ethiopia
+		 90210	Warmbaths, South Africa
+		 90184	Reconquista, Argentina
+		 90183	Bhandara, India
+		 90182	Huddinge, Sweden
+		 90175	Sishui, China
+		 90173	Hesperia, California, United States
+		 90070	Weichanglu, China
+		 90054	Limerick, Ireland
+		 90005	Krasnyy Luch, Ukraine
+		 90000	Roha, India
+		 90000	Lido di Roma, Italy
+		 90000	Targoviste, Romania
+		 89995	Fort-de-France, Martinique
+		 89990	Isieke, Nigeria
+		 89979	Francistown, Botswana
+		 89978	Huaidian, China
+		 89918	Omura, Japan
+		 89861	Redding, California, United States
+		 89833	Muktsar, India
+		 89810	Point Pedro, Sri Lanka
+		 89803	Beaverton, Oregon, United States
+		 89769	Avignon, France
+		 89761	Gatchina, Russia
+		 89755	Spokane Valley, Washington, United States
+		 89736	Santa Monica, California, United States
+		 89717	Tsuyama, Japan
+		 89701	Westminster, California, United States
+		 89694	Santana do Livramento, Brazil
+		 89694	Pisa, Italy
+		 89687	Umuarama, Brazil
+		 89662	Yaritagua, Venezuela
+		 89648	Beni, Democratic Republic of the Congo
+		 89629	Yiwu, China
+		 89626	Nyaunglebin, Myanmar
+		 89623	Jinjiang, China
+		 89600	Butare, Rwanda
+		 89575	Sandy Hills, Utah, United States
+		 89570	Mianwali, Pakistan
+		 89546	Vlord, Albania
+		 89500	Luckeesarai, India
+		 89499	Almirante TamandarT, Brazil
+		 89487	Barmer, India
+		 89482	Muradnagar, India
+		 89457	Tartouss, Syria
+		 89442	Fujin, China
+		 89409	Granada, Nicaragua
+		 89373	Tinsukia, India
+		 89327	Sa?am, Oman
+		 89306	Federal Way, Washington, United States
+		 89294	Huaicheng, China
+		 89289	Shahdol, India
+		 89286	Izumo, Japan
+		 89281	Kwangyang, South Korea
+		 89228	Lincoln, United Kingdom
+		 89202	MiragoGne, Haiti
+		 89201	Manjeri, India
+		 89198	Port Dickson, Malaysia
+		 89170	Mahoba, India
+		 89161	Sumbawanga, Tanzania
+		 89123	Mudon, Myanmar
+		 89119	Lucheng, China
+		 89107	Hede, China
+		 89104	Kuopio, Finland
+		 89100	Hastings, United Kingdom
+		 89081	Brindisi, Italy
+		 89080	Valle de La Pascua, Venezuela
+		 89078	Waukegan, Illinois, United States
+		 89072	Phuket, Thailand
+		 89056	Maribor, Slovenia
+		 89047	Sogcho, South Korea
+		 89040	Banjar, Indonesia
+		 88977	Nusaybin, Turkey
+		 88974	Lhokseumawe, Indonesia
+		 88965	Cicurug, Indonesia
+		 88946	Rainbow Beach, Queensland, Australia
+		 88935	Lengshuitan, China
+		 88927	Kartasura, Indonesia
+		 88914	Shwebo, Myanmar
+		 88906	Salihli, Turkey
+		 88857	Fall River, Massachusetts, United States
+		 88856	Talavera de la Reina, Spain
+		 88853	Planaltina, Brazil
+		 88820	Fusagasuga, Colombia
+		 88818	Mangaldan, Philippines
+		 88791	Toms River, New Jersey, United States
+		 88786	Crato, Brazil
+		 88781	Z»rate, Argentina
+		 88760	Habiganj, Bangladesh
+		 88741	Pardubice, Czech Republic
+		 88732	Wangqing, China
+		 88729	Budapest II. kernlet, Hungary
+		 88713	Rafaela, Argentina
+		 88702	Contai, India
+		 88648	Hanau am Main, Germany
+		 88630	Valinhos, Brazil
+		 88616	Montero, Bolivia
+		 88615	Sangrur, India
+		 88606	Chosica, Peru
+		 88573	Ashiya, Japan
+		 88568	Chaman, Pakistan
+		 88561	Alaghsas, Niger
+		 88543	Tocumen, Panama
+		 88509	Iwata, Japan
+		 88506	Brovary, Ukraine
+		 88493	Konosu, Japan
+		 88468	Kandhkot, Pakistan
+		 88435	TGrgoviste, Romania
+		 88419	Al Ba?ah, Saudi Arabia
+		 88416	Spo Lourento da Mata, Brazil
+		 88410	Santa Barbara, California, United States
+		 88399	Nova Lima, Brazil
+		 88381	Mahendranagar, Nepal
+		 88378	Klangenan, Indonesia
+		 88346	Roswell, Georgia, United States
+		 88332	PakxT, Laos
+		 88328	Orem, Utah, United States
+		 88311	CiTnaga, Colombia
+		 88284	Brusque, Brazil
+		 88272	Ifo, Nigeria
+		 88245	Shkoddr, Albania
+		 88214	Pollachi, India
+		 88171	Deoband, India
+		 88140	Osijek, Croatia
+		 88128	Nabari, Japan
+		 88115	Kozan, Turkey
+		 88104	Neyyattinkara, India
+		 88082	Reading, Pennsylvania, United States
+		 88073	Tanda, India
+		 88031	Hasilpur, Pakistan
+		 88000	Sarov, Russia
+		 87987	Arayat, Philippines
+		 87961	Yuzhou, China
+		 87953	Qorveh, Iran
+		 87881	Yozgat, Turkey
+		 87880	Ath Thawrah, Syria
+		 87875	+bolowa, Cameroon
+		 87857	Saint John, New Brunswick, Canada
+		 87838	Pickering, Ontario, Canada
+		 87832	Surigao, Philippines
+		 87822	Balkanabat, Turkmenistan
+		 87814	Yeysk, Russia
+		 87791	¬anakkale, Turkey
+		 87779	Miami Beach, Florida, United States
+		 87759	Brantford, Ontario, Canada
+		 87739	San Juan de los Morros, Venezuela
+		 87737	Hanchuan, China
+		 87732	Majalengka, Indonesia
+		 87714	Buzuluk, Russia
+		 87696	El Puerto de Santa Marfa, Spain
+		 87679	Makeni, Sierra Leone
+		 87669	Velbert, Germany
+		 87668	Barra do Piraf, Brazil
+		 87666	Kadugli, Sudan
+		 87658	Umanª, Ukraine
+		 87657	Qiongshan, China
+		 87652	Pergamino, Argentina
+		 87643	Lawrence, Kansas, United States
+		 87613	Gitarama, Rwanda
+		 87603	Ludwigsburg, Germany
+		 87592	Xiangxiang, China
+		 87576	Deqing, China
+		 87539	Koidu, Sierra Leone
+		 87521	Rio Rancho, New Mexico, United States
+		 87521	Enchanted Hills, New Mexico, United States
+		 87478	Baran, India
+		 87471	Assis, Brazil
+		 87467	Moncton, New Brunswick, Canada
+		 87451	Patnos, Turkey
+		 87400	Yanjiang, China
+		 87360	Arifwala, Pakistan
+		 87347	Koudougou, Burkina Faso
+		 87310	Jelenia G=ra, Poland
+		 87283	Shumen, Bulgaria
+		 87282	Igede-Ekiti, Nigeria
+		 87257	Mishan, China
+		 87236	Alegrete, Brazil
+		 87236	Nenjiang, China
+		 87204	Darlington, United Kingdom
+		 87199	Angono, Philippines
+		 87188	Caieiras, Brazil
+		 87153	Londonderry County Borough, United Kingdom
+		 87151	Dhamtari, India
+		 87123	Tiruchengodu, India
+		 87120	Porlamar, Venezuela
+		 87068	Ad Diwem, Sudan
+		 87046	Malanje, Angola
+		 87045	La Victoria, Venezuela
+		 87024	Harrogate, United Kingdom
+		 87001	Chirala, India
+		 87000	Gao, Mali
+		 87000	Gubkin, Russia
+		 86971	Lokossa, Benin
+		 86945	Effium, Nigeria
+		 86938	Jharia, India
+		 86934	Huaraz, Peru
+		 86917	Akot, India
+		 86900	Bhai Pheru, Pakistan
+		 86899	Ban Mai, Thailand
+		 86854	Louis Trichardt, South Africa
+		 86825	Canton, Michigan, United States
+		 86820	Rajpura, India
+		 86818	Madgaon, India
+		 86804	Caguas, Puerto Rico
+		 86784	Lehigh Acres, Florida, United States
+		 86764	Greenburgh, New York, United States
+		 86749	Shizilu, China
+		 86742	AsniFres-sur-Seine, France
+		 86742	Batticaloa, Sri Lanka
+		 86719	Nanterre, France
+		 86713	Tumaco, Colombia
+		 86713	Hartlepool, United Kingdom
+		 86712	Chaykovskiy, Russia
+		 86701	Yotsukaido, Japan
+		 86685	Ruhengeri, Rwanda
+		 86672	Sardarshahr, India
+		 86660	Mayuram, India
+		 86658	Bedford, United Kingdom
+		 86608	Bush, Egypt
+		 86568	Bojonegoro, Indonesia
+		 86555	Zhaogezhuang, China
+		 86528	Bitola, Macedonia
+		 86525	Al Farwaniyah, Kuwait
+		 86519	Cornella de Llobregat, Spain
+		 86510	Victorias City, Philippines
+		 86502	Hamakita, Japan
+		 86494	Nashua, New Hampshire, United States
+		 86468	Idanre, Nigeria
+		 86457	Igarassu, Brazil
+		 86438	Apartad=, Colombia
+		 86411	Tagbilaran, Philippines
+		 86406	Buli, Taiwan
+		 86395	Germantown, Maryland, United States
+		 86387	Piedecuesta, Colombia
+		 86356	Mbanza-Ngungu, Democratic Republic of the Congo
+		 86343	Gyoda, Japan
+		 86340	Las Rozas de Madrid, Spain
+		 86329	Nitra, Slovakia
+		 86320	Olavarrfa, Argentina
+		 86280	Qamdo, China
+		 86270	Longmont, Colorado, United States
+		 86265	Duluth, Minnesota, United States
+		 86262	Hanno, Japan
+		 86259	Bekobod, Uzbekistan
+		 86250	Berdychiv, Ukraine
+		 86234	Kasihan, Indonesia
+		 86213	Kamthi, India
+		 86209	Fort Smith, Arkansas, United States
+		 86187	Chico, California, United States
+		 86183	Kashiwazaki, Japan
+		 86164	Orihuela, Spain
+		 86129	Nanfeng, China
+		 86083	Zhangjiajie, China
+		 86059	Borazjan, Iran
+		 86002	Potiskum, Nigeria
+		 85996	Novi Pazar, Serbia
+		 85985	-ilina, Slovakia
+		 85963	Chipata, Zambia
+		 85960	Poitiers, France
+		 85911	Keffi, Nigeria
+		 85900	Usolªye-Sibirskoye, Russia
+		 85891	Atlixco, Puebla, Mexico
+		 85871	Shashemene, Ethiopia
+		 85868	Paradip Garh, India
+		 85838	Flensburg, Germany
+		 85761	Ryugasaki, Japan
+		 85756	Helong, China
+		 85700	Rfo Gallegos, Argentina
+		 85695	Paramagudi, India
+		 85651	San Antonio, Chile
+		 85629	Hemel Hempstead, United Kingdom
+		 85603	Norwalk, Connecticut, United States
+		 85578	Hailin, China
+		 85521	Osmanabad, India
+		 85495	Nanding, China
+		 85481	Rfo Bravo, Tamaulipas, Mexico
+		 85479	Attock City, Pakistan
+		 85438	Alessandria, Italy
+		 85432	Shostka, Ukraine
+		 85416	Versailles, France
+		 85415	Guozhen, China
+		 85406	Sandy City, Utah, United States
+		 85371	Tarut, Saudi Arabia
+		 85369	Aruppukkottai, India
+		 85352	?awsh ¦Is», Egypt
+		 85350	Paulo Afonso, Brazil
+		 85350	C»rdenas, Tabasco, Mexico
+		 85345	Ituiutaba, Brazil
+		 85331	Whittier, California, United States
+		 85315	Al Marj, Libya
+		 85279	Penglai, China
+		 85260	Vec-Liepaja, Latvia
+		 85219	Gharyan, Libya
+		 85200	Yegorªyevsk, Russia
+		 85186	Newport Beach, California, United States
+		 85182	Deltona, Florida, United States
+		 85172	BloomingtonMn, Minnesota, United States
+		 85158	Courbevoie, France
+		 85146	Newton, Massachusetts, United States
+		 85144	Qufu, China
+		 85132	Liepaja, Latvia
+		 85109	Ballarat, Victoria, Australia
+		 85107	Iwamizawa, Japan
+		 85026	JyvSskylS, Finland
+		 85007	Junfn, Argentina
+		 85000	Montelfbano, Colombia
+		 84961	Gonanves, Haiti
+		 84955	Plantation, Florida, United States
+		 84950	San Leandro, California, United States
+		 84914	Havfrov, Czech Republic
+		 84913	Trenton, New Jersey, United States
+		 84910	Oued Zem, Morocco
+		 84905	Nanaimo, British Columbia, Canada
+		 84902	Esteio, Brazil
+		 84888	Baruni, India
+		 84833	CrTteil, France
+		 84811	Amsterdam-Zuidoost, Netherlands
+		 84789	Madaripur, Bangladesh
+		 84775	Hitura, Nepal
+		 84769	Laojunmiao, China
+		 84754	Cottbus, Germany
+		 84749	Panabo, Philippines
+		 84737	Cuautitl»n, MTxico, Mexico
+		 84711	Epe, Nigeria
+		 84697	Sarandi, Brazil
+		 84683	Aflou, Algeria
+		 84677	Lagos de Moreno, Jalisco, Mexico
+		 84672	Gambaru, Nigeria
+		 84670	Tlaxcala, Tlaxcala, Mexico
+		 84659	Akhisar, Turkey
+		 84656	Sumenep, Indonesia
+		 84651	Stevenage, United Kingdom
+		 84647	Guider, Cameroon
+		 84643	Katunayaka North, Sri Lanka
+		 84625	Eisen, South Korea
+		 84593	Bijnor, India
+		 84585	Suffolk, Virginia, United States
+		 84567	Mariveles, Philippines
+		 84561	Saint Albans, United Kingdom
+		 84554	Greenville, North Carolina, United States
+		 84549	Daxi, Taiwan
+		 84530	East Norwalk, Connecticut, United States
+		 84440	Chicoloapan de Ju»rez, MTxico, Mexico
+		 84439	Sunrise, Florida, United States
+		 84435	Itaperuna, Brazil
+		 84425	V=los, Greece
+		 84425	Stakhanov, Ukraine
+		 84413	Dundee, South Africa
+		 84393	Wilhelmshaven, Germany
+		 84392	Boca Raton, Florida, United States
+		 84380	Zhoushan Shi, China
+		 84379	Ambarawa, Indonesia
+		 84376	Nowy Sacz, Poland
+		 84373	Ogaminan, Nigeria
+		 84357	Anakapalle, India
+		 84349	Piet Retief, South Africa
+		 84323	Dazhong, China
+		 84293	Hawthorne, California, United States
+		 84274	Pistoia, Italy
+		 84264	Songkhla, Thailand
+		 84259	La Santisima Trinidad, Bolivia
+		 84258	Phuthaditjhaba, South Africa
+		 84246	Allen, Texas, United States
+		 84242	AvilTs, Spain
+		 84231	Jinxiang, China
+		 84227	El Ejido, Spain
+		 84220	Yurga, Russia
+		 84200	Curepipe, Mauritius
+		 84136	Clifton, New Jersey, United States
+		 84094	Westland, Michigan, United States
+		 84072	Fkih Ben Salah, Morocco
+		 84065	Foumbot, Cameroon
+		 84028	Feni, Bangladesh
+		 84009	Wanju, South Korea
+		 84006	Najibabad, India
+		 84004	Kakegawa, Japan
+		 84001	L»zaro C»rdenas, Michoac»n, Mexico
+		 83980	Binonga, Philippines
+		 83966	Dahod, India
+		 83936	Jiangdu, China
+		 83927	Santana, Brazil
+		 83891	Cicero, Illinois, United States
+		 83833	Ramgarh, India
+		 83794	Gotemba, Japan
+		 83781	San Marcos, California, United States
+		 83746	El Khroub, Algeria
+		 83694	Tepatitl»n de Morelos, Jalisco, Mexico
+		 83655	South Shields, United Kingdom
+		 83654	Bethlehem, South Africa
+		 83652	Derry, United Kingdom
+		 83651	Minuf, Egypt
+		 83640	Hilversum, Netherlands
+		 83636	Lingdong, China
+		 83623	Gisenyi, Rwanda
+		 83604	Nanzhang Chengguanzhen, China
+		 83600	Herzliyya, Israel
+		 83591	Valencia, Philippines
+		 83560	League City, Texas, United States
+		 83511	Ocaªa, Colombia
+		 83503	Ouidah, Benin
+		 83416	Tnbingen, Germany
+		 83393	Asheville, North Carolina, United States
+		 83367	Yangp'yong, South Korea
+		 83360	Ungsang, South Korea
+		 83352	Kavali, India
+		 83322	Yachimata, Japan
+		 83303	Lecce, Italy
+		 83301	Citrus Heights, California, United States
+		 83288	Cod=, Brazil
+		 83276	Marilao, Philippines
+		 83267	Xucheng, China
+		 83265	Ihiala, Nigeria
+		 83202	Jÿnkÿping, Sweden
+		 83181	Katori-shi, Japan
+		 83119	Margahayukencana, Indonesia
+		 83089	Alhambra, California, United States
+		 83050	Galesong, Indonesia
+		 83039	Guadalajara, Spain
+		 83009	Hecun, China
+		 83000	Kamigyo-ku, Japan
+		 83000	Chervonograd, Ukraine
+		 82998	Sarnia, Ontario, Canada
+		 82994	Ningyang, China
+		 82937	Antsiran+ana, Madagascar
+		 82922	Tracy, California, United States
+		 82906	Jinshi, China
+		 82903	Norrkÿping, Sweden
+		 82903	Weston-super-Mare, United Kingdom
+		 82896	Amasya, Turkey
+		 82893	Sanjo, Japan
+		 82893	Bloomington, Minnesota, United States
+		 82883	Yuanping, China
+		 82879	Minden, Germany
+		 82867	Montego Bay, Jamaica
+		 82859	David, Panama
+		 82846	Kraljevo, Serbia
+		 82825	Ogden, Utah, United States
+		 82803	Yacuiba, Bolivia
+		 82762	Chichawatni, Pakistan
+		 82732	Ash Shatrah, Iraq
+		 82730	Sorsogon, Philippines
+		 82697	Pau, France
+		 82684	Sioux City, Iowa, United States
+		 82672	Warwick, Rhode Island, United States
+		 82665	Roquetas de Mar, Spain
+		 82651	Palencia, Spain
+		 82641	Pizhou, China
+		 82624	Algorta, Spain
+		 82624	Halifax, United Kingdom
+		 82598	Changqing, China
+		 82595	Arax», Brazil
+		 82560	Sinhyeon, South Korea
+		 82555	Xindian, China
+		 82549	San Martfn, Argentina
+		 82548	Jangipur, India
+		 82545	Chiguayante, Chile
+		 82536	Mus, Turkey
+		 82535	Sano, Japan
+		 82526	Anzhero-Sudzhensk, Russia
+		 82518	Taourirt, Morocco
+		 82509	Yima, China
+		 82509	Shache, China
+		 82507	Ashmun, Egypt
+		 82485	Izmayil, Ukraine
+		 82467	Pernik, Bulgaria
+		 82438	Dhar, India
+		 82428	Sant Boi de Llobregat, Spain
+		 82428	Pozuelo de Alarc=n, Spain
+		 82426	Bagamoyo, Tanzania
+		 82425	Cukai, Malaysia
+		 82419	Shangzhi, China
+		 82416	Pushkin, Russia
+		 82407	Hansi, India
+		 82386	Nangong, China
+		 82376	Acharnes, Greece
+		 82370	Chimaltenango, Guatemala
+		 82345	Lnshun, China
+		 82338	Troitsk, Russia
+		 82336	Bansk» Bystrica, Slovakia
+		 82335	Kanoya, Japan
+		 82335	Madaba, Jordan
+		 82308	Nizip, Turkey
+		 82301	Kilis, Turkey
+		 82300	Colombes, France
+		 82291	Toledo, Spain
+		 82290	Laksham, Bangladesh
+		 82258	Polatsk, Belarus
+		 82222	Budapest VIII. kernlet, Hungary
+		 82216	Quzhou, China
+		 82160	Fatsa, Turkey
+		 82154	Abomey, Benin
+		 82145	Tinaquillo, Venezuela
+		 82133	Tochigi, Japan
+		 82133	Azov, Russia
+		 82113	Ipoti, Nigeria
+		 82112	Tanashi, Japan
+		 82090	Marugame, Japan
+		 82031	Shiwan, China
+		 82000	Niagara Falls, Ontario, Canada
+		 81995	Ishurdi, Bangladesh
+		 81987	Kasserine, Tunisia
+		 81962	Phra Nakhon Si Ayutthaya, Thailand
+		 81959	Abreu e Lima, Brazil
+		 81950	La Dorada, Colombia
+		 81950	Bhakkar, Pakistan
+		 81888	Casoria, Italy
+		 81879	Presidencia Roque S»enz Peªa, Argentina
+		 81870	Itajub», Brazil
+		 81862	Lucca, Italy
+		 81828	Qal¦at Bishah, Saudi Arabia
+		 81805	Birkenhead, United Kingdom
+		 81800	Pejd, Kosovo
+		 81770	Villingen-Schwenningen, Germany
+		 81770	Agboville, Cote d'Ivoire
+		 81752	Kaspiysk, Russia
+		 81749	Luj»n, Argentina
+		 81729	Tangping, China
+		 81728	Ar Rass, Saudi Arabia
+		 81657	Bendigo, Victoria, Australia
+		 81647	NTa Li=sia, Greece
+		 81647	Barkaª, Oman
+		 81633	Mukacheve, Ukraine
+		 81629	Watampone, Indonesia
+		 81619	Hoover, Alabama, United States
+		 81612	Campana, Argentina
+		 81606	Salmas, Iran
+		 81601	Parma, Ohio, United States
+		 81576	Pontevedra, Spain
+		 81557	Nampa, Idaho, United States
+		 81546	Sokhumi, Georgia
+		 81539	Al ?asakah, Syria
+		 81527	Ocotl»n, Jalisco, Mexico
+		 81525	Mungyeong, South Korea
+		 81498	Kadiri, India
+		 81472	Lavras, Brazil
+		 81445	Dhoraji, India
+		 81435	Kharian, Pakistan
+		 81433	Rayachoti, India
+		 81408	Yudong, China
+		 81405	Edmond, Oklahoma, United States
+		 81364	Balqash, Kazakhstan
+		 81360	Guaynabo, Puerto Rico
+		 81345	Yashio-shi, Japan
+		 81328	Khambhat, India
+		 81325	Sarishabari, Bangladesh
+		 81321	San Tan Valley, Arizona, United States
+		 81318	Bistrita, Romania
+		 81285	AvarT, Brazil
+		 81275	Konstanz, Germany
+		 81274	Tatebayashi, Japan
+		 81258	Konin, Poland
+		 81238	Warrington, United Kingdom
+		 81232	Formosa, Brazil
+		 81232	Gafsa, Tunisia
+		 81228	Resita, Romania
+		 81209	Leme, Brazil
+		 81130	Lalupon, Nigeria
+		 81099	Worms, Germany
+		 81055	Champaign, Illinois, United States
+		 81015	Yessentuki, Russia
+		 81001	Vitry-sur-Seine, France
+		 80992	Cizre, Turkey
+		 80987	Naeso, South Korea
+		 80982	Nirmal, India
+		 80980	Troy, Michigan, United States
+		 80968	Irvine, California, United States
+		 80961	Quatre Bornes, Mauritius
+		 80933	Emmiganuru, India
+		 80932	Zomba, Malawi
+		 80929	Feicheng, China
+		 80893	Danbury, Connecticut, United States
+		 80892	Natitingou, Benin
+		 80885	Bellingham, Washington, United States
+		 80843	Shanting, China
+		 80837	Jaypur, India
+		 80830	Hammond, Indiana, United States
+		 80809	Hengelo, Netherlands
+		 80793	Shibata, Japan
+		 80788	Wigan, United Kingdom
+		 80786	Gamagori, Japan
+		 80784	Rouissat, Algeria
+		 80778	Klin, Russia
+		 80773	Kfar Saba, Israel
+		 80772	Izumiotsu, Japan
+		 80770	Getxo, Spain
+		 80741	Kotkapura, India
+		 80721	Berkane, Morocco
+		 80716	Toride, Japan
+		 80690	South Suffolk, Virginia, United States
+		 80688	Bafang, Cameroon
+		 80683	AtakpamT, Togo
+		 80656	Akiruno-shi, Japan
+		 80615	Aulnay-sous-Bois, France
+		 80574	Semenyih, Malaysia
+		 80573	Berrouaghia, Algeria
+		 80568	Bingÿl, Turkey
+		 80530	Buena Park, California, United States
+		 80511	Varese, Italy
+		 80500	Artemivsªk, Ukraine
+		 80478	Necochea, Argentina
+		 80456	Elbistan, Turkey
+		 80455	Longview, Texas, United States
+		 80447	Udhampur, India
+		 80432	Kairana, India
+		 80425	Tahoua, Niger
+		 80405	Bloomington, Indiana, United States
+		 80387	Mihara, Japan
+		 80387	Cranston, Rhode Island, United States
+		 80384	Zhuanghe, China
+		 80360	Balaghat, India
+		 80359	Bonab, Iran
+		 80357	High Wycombe, United Kingdom
+		 80344	Loushanguan, China
+		 80294	Gary, Indiana, United States
+		 80292	Baoying, China
+		 80257	Kedungwaru, Indonesia
+		 80235	Yagoua, Cameroon
+		 80223	Dashiqiao, China
+		 80218	Budapest XV. kernlet, Hungary
+		 80206	Mbalmayo, Cameroon
+		 80200	Panshi, China
+		 80193	Serpong, Indonesia
+		 80189	As Salt, Jordan
+		 80149	Namibe, Angola
+		 80144	Treviso, Italy
+		 80128	Piotrk=w Trybunalski, Poland
+		 80116	Yambol, Bulgaria
+		 80100	Menganga, Cameroon
+		 80039	Vorkuta, Russia
+		 80029	El Cafetal, Venezuela
+		 80020	Ushiku, Japan
+		 80020	Gandia, Spain
+		 80018	Mansa, India
+		 80000	Rikaze, China
+		 79986	Ughelli, Nigeria
+		 79981	Dorsten, Germany
+		 79981	El Mante, Tamaulipas, Mexico
+		 79957	Stockton-on-Tees, United Kingdom
+		 79944	Comit»n de Domfnguez, Chiapas, Mexico
+		 79821	Anantnag, India
+		 79795	La Goulette, Tunisia
+		 79773	Zrenjanin, Serbia
+		 79759	Chichicastenango, Guatemala
+		 79740	Farmington Hills, Michigan, United States
+		 79714	Sibolga, Indonesia
+		 79699	Khaskovo, Bulgaria
+		 79655	Taixing, China
+		 79653	karaikal, India
+		 79652	Genteng, Indonesia
+		 79652	Kidapawan, Philippines
+		 79647	Erdenet, Mongolia
+		 79639	Amstelveen, Netherlands
+		 79618	Bende, Nigeria
+		 79599	Kropotkin, Russia
+		 79582	Itumbiara, Brazil
+		 79579	Tecom»n, Colima, Mexico
+		 79563	Oke Mesi, Nigeria
+		 79551	Maric», Brazil
+		 79550	Ar Rifa¦, Bahrain
+		 79534	Szombathely, Hungary
+		 79522	Kafachan, Nigeria
+		 79509	Yalta, Ukraine
+		 79508	Norzagaray, Philippines
+		 79492	Jharsuguda, India
+		 79489	Tangjiazhuang, China
+		 79479	Shadrinsk, Russia
+		 79437	Sidi Slimane, Morocco
+		 79426	Huehuetenango, Guatemala
+		 79421	Brajarajnagar, India
+		 79406	Drogobych, Ukraine
+		 79386	Lndenscheid, Germany
+		 79383	Ar Rustaq, Oman
+		 79329	O'Fallon, Missouri, United States
+		 79327	Behbahan, Iran
+		 79316	Zarzis, Tunisia
+		 79270	Budapest X. kernlet, Hungary
+		 79253	Sant Cugat del VallFs, Spain
+		 79247	Kottagudem, India
+		 79246	Nawabganj, India
+		 79230	Gedangan, Indonesia
+		 79212	Shouguang, China
+		 79196	Shenxian, China
+		 79191	Carmel, Indiana, United States
+		 79177	Zlfn, Czech Republic
+		 79174	Kadoma, Zimbabwe
+		 79157	Bwizibwera, Uganda
+		 79140	GuTckTdou, Guinea
+		 79106	Qixia, China
+		 79103	Ikom, Nigeria
+		 79080	Arakkonam, India
+		 79070	Wuyang, China
+		 79066	Concord, North Carolina, United States
+		 79064	Gapan, Philippines
+		 79058	Kashihara, Japan
+		 79050	Xiongzhou, China
+		 79026	Ponorogo, Indonesia
+		 79021	Agulu, Nigeria
+		 79016	Netrakona, Bangladesh
+		 79007	Ubatuba, Brazil
+		 79000	Pa(y POt, Cambodia
+		 78988	Slatina, Romania
+		 78978	Wakefield, United Kingdom
+		 78958	Merced, California, United States
+		 78954	Leiah, Pakistan
+		 78950	Heroica Zit»cuaro, Michoac»n, Mexico
+		 78910	Cerro de Pasco, Peru
+		 78895	Marburg an der Lahn, Germany
+		 78860	Racine, Wisconsin, United States
+		 78850	Sesto San Giovanni, Italy
+		 78817	Sugar Land, Texas, United States
+		 78786	Kulob, Tajikistan
+		 78782	Darnah, Libya
+		 78779	San Fernando Apure, Venezuela
+		 78765	Shitanjing, China
+		 78756	Chiang Rai, Thailand
+		 78754	Pozzuoli, Italy
+		 78744	Manfalut, Egypt
+		 78739	Sagaing, Myanmar
+		 78737	Koch Bihar, India
+		 78719	Tumen, China
+		 78712	TrOs Lagoas, Brazil
+		 78680	Como, Italy
+		 78676	Gualeguaych+, Argentina
+		 78676	Dod Ballapur, India
+		 78674	Ceuta, Spain
+		 78663	Umtata, South Africa
+		 78657	Hemet, California, United States
+		 78648	Dondo, Mozambique
+		 78647	Mayagnez, Puerto Rico
+		 78633	Vyborg, Russia
+		 78614	Arona, Spain
+		 78592	Spo Jopo del Rei, Brazil
+		 78568	Bhadohi, India
+		 78543	Torrent, Spain
+		 78442	Town 'n' Country, Florida, United States
+		 78408	Katoya, India
+		 78406	Kayes, Mali
+		 78405	San Pedro, California, United States
+		 78402	Youhao, China
+		 78383	Neumnnster, Germany
+		 78370	Reutov, Russia
+		 78364	Guanajuato, Guanajuato, Mexico
+		 78340	Putatan, Malaysia
+		 78330	Karatsu, Japan
+		 78305	Bang Kruai, Thailand
+		 78277	Daura, Nigeria
+		 78272	Al ?ayy, Iraq
+		 78254	Pingyi, China
+		 78250	Budapest XVII. kernlet, Hungary
+		 78244	Mogi Mirim, Brazil
+		 78206	Iizuka, Japan
+		 78205	Valvedditturai, Sri Lanka
+		 78181	Jamui, India
+		 78180	Linping, China
+		 78145	ZahlT, Lebanon
+		 78142	Daet, Philippines
+		 78113	Alafaya, Florida, United States
+		 78107	Wa, Ghana
+		 78062	Kunitachi, Japan
+		 78050	Abaetetuba, Brazil
+		 78034	Harihar, India
+		 77998	Mancheral, India
+		 77983	Chino, California, United States
+		 77924	Castrop-Rauxel, Germany
+		 77864	Obu, Japan
+		 77784	Marsala, Italy
+		 77772	Kadaiyanallur, India
+		 77758	Ciranjang-hilir, Indonesia
+		 77754	Linkou, China
+		 77729	Ipiales, Colombia
+		 77725	Roosendaal, Netherlands
+		 77704	Daltenganj, India
+		 77700	Brikama, The Gambia
+		 77699	Hakkari, Turkey
+		 77650	Keningau, Malaysia
+		 77649	Gateshead, United Kingdom
+		 77648	Largo, Florida, United States
+		 77645	Bijie, China
+		 77642	Komae, Japan
+		 77633	Huangmei, China
+		 77617	Numan, Nigeria
+		 77597	Spo Bento do Sul, Brazil
+		 77597	Inowroclaw, Poland
+		 77585	Unieh, Turkey
+		 77566	Songling, China
+		 77540	Jishui, China
+		 77534	Aalst, Belgium
+		 77532	Lubin, Poland
+		 77530	Mechelen, Belgium
+		 77519	Menifee, California, United States
+		 77507	Shushtar, Iran
+		 77506	Lisburn, United Kingdom
+		 77486	Kars, Turkey
+		 77481	Kambar, Pakistan
+		 77472	Linqu, China
+		 77450	Faridkot, India
+		 77435	Wako, Japan
+		 77434	Albany, Georgia, United States
+		 77425	Khomeyn, Iran
+		 77420	Shulan, China
+		 77418	Apalit, Philippines
+		 77400	Ita+na, Brazil
+		 77396	Balrampur, India
+		 77391	Saint-Laurent, Quebec, Canada
+		 77366	Suva, Fiji
+		 77344	Camden, New Jersey, United States
+		 77341	Hatsukaichi, Japan
+		 77315	Dessau, Germany
+		 77293	Chiclana de la Frontera, Spain
+		 77276	Yanzhou, China
+		 77276	Baramula, India
+		 77222	Keratsfnion, Greece
+		 77205	Ende, Indonesia
+		 77192	San Carlos, Venezuela
+		 77186	Pulilan, Philippines
+		 77185	Siedlce, Poland
+		 77178	Jiexiu, China
+		 77166	Ksar el Boukhari, Algeria
+		 77160	Santa Cruz de Barahona, Dominican Republic
+		 77138	Ovalle, Chile
+		 77128	Redditch, United Kingdom
+		 77122	Polangui, Philippines
+		 77117	Spo Mateus, Brazil
+		 77103	Coyah, Guinea
+		 77100	Edinburg, Texas, United States
+		 77086	Voskresensk, Russia
+		 77070	Dhulian, India
+		 77062	New Rochelle, New York, United States
+		 77058	Mission, Texas, United States
+		 77040	Chester, United Kingdom
+		 77028	Hunchun, China
+		 77016	Sasolburg, South Africa
+		 77008	Kagoro, Nigeria
+		 77000	Huangshan, China
+		 76973	Mawana, India
+		 76940	Gladbeck, Germany
+		 76919	Sarkand, Kazakhstan
+		 76915	Karur, India
+		 76915	Napa, California, United States
+		 76839	Damietta, Egypt
+		 76838	Puerto Padre, Cuba
+		 76815	Arraij»n, Panama
+		 76815	Redwood City, California, United States
+		 76810	La Rochelle, France
+		 76809	Kundla, India
+		 76794	Fishers, Indiana, United States
+		 76780	Saint Joseph, Missouri, United States
+		 76772	Pori, Finland
+		 76766	San Felipe, Venezuela
+		 76765	Moro, Pakistan
+		 76754	Mmabatho, South Africa
+		 76745	Purmerend, Netherlands
+		 76744	Liangxiang, China
+		 76728	Johns Creek, Georgia, United States
+		 76726	Champigny-sur-Marne, France
+		 76722	Manmad, India
+		 76714	Kannauj, India
+		 76708	Oudtshoorn, South Africa
+		 76684	Luxembourg, Luxembourg
+		 76668	La LouviFre, Belgium
+		 76655	Saint-Pierre, Reunion
+		 76654	Pancevo, Serbia
+		 76653	Fenghua Shi, China
+		 76643	Col=n, Panama
+		 76639	Bend, Oregon, United States
+		 76616	Rueil-Malmaison, France
+		 76616	Malaut, India
+		 76616	Bellflower, California, United States
+		 76614	Villa de Cura, Venezuela
+		 76613	Guiguinto, Philippines
+		 76612	Arnsberg, Germany
+		 76610	Bloomington, Illinois, United States
+		 76593	Nagina, India
+		 76558	Manresa, Spain
+		 76547	Jataf, Brazil
+		 76540	Spo Jopo da Boa Vista, Brazil
+		 76506	Lorena, Brazil
+		 76500	Fylde, United Kingdom
+		 76493	Badagara, India
+		 76493	Mbale, Uganda
+		 76491	Rheine, Germany
+		 76465	Jagdalpur, India
+		 76450	Santa Cruz do Capibaribe, Brazil
+		 76430	Guigang, China
+		 76430	Oss, Netherlands
+		 76427	Yuktae-dong, North Korea
+		 76393	Antibes, France
+		 76387	Yangliuqing, China
+		 76377	Lawrence, Massachusetts, United States
+		 76367	Spo Sebastipo, Brazil
+		 76341	Jumri Tilaiya, India
+		 76339	Budapest XXI. kernlet, Hungary
+		 76337	Tucuruf, Brazil
+		 76312	Furukawa, Japan
+		 76310	Embu Guatu, Brazil
+		 76290	Masvingo, Zimbabwe
+		 76280	Mineralªnyye Vody, Russia
+		 76279	Babahoyo, Ecuador
+		 76268	Midyat, Turkey
+		 76263	Lund, Sweden
+		 76255	Lae, Papua New Guinea
+		 76254	Matara, Sri Lanka
+		 76250	Nahavand, Iran
+		 76242	Tuban, Indonesia
+		 76238	Avondale, Arizona, United States
+		 76237	Sakon Nakhon, Thailand
+		 76237	Repentigny, Quebec, Canada
+		 76226	Mian Channun, Pakistan
+		 76218	Mbabane, Swaziland
+		 76201	Bryan, Texas, United States
+		 76159	Baj Baj, India
+		 76154	Qingquan, China
+		 76153	Viersen, Germany
+		 76146	Birobidzhan, Russia
+		 76122	Decatur, Illinois, United States
+		 76103	Bracknell, United Kingdom
+		 76089	Scranton, Pennsylvania, United States
+		 76082	Konnagar, India
+		 76068	Melbourne, Florida, United States
+		 76051	Sapiranga, Brazil
+		 76036	Indio, California, United States
+		 76000	Par»dsasv»r, Hungary
+		 76000	Fort McMurray, Alberta, Canada
+		 75996	Palmerston North, New Zealand
+		 75986	Ratnagiri, India
+		 75982	Kebomas, Indonesia
+		 75977	Pazardzhik, Bulgaria
+		 75970	SavT, Benin
+		 75922	Mackay, Queensland, Australia
+		 75916	Busto Arsizio, Italy
+		 75912	San Sebasti»n de los Reyes, Spain
+		 75903	San Martfn Texmelucan de Labastida, Puebla, Mexico
+		 75900	Maymana, Afghanistan
+		 75893	Delmenhorst, Germany
+		 75882	Lintong, China
+		 75881	La Libertad, Ecuador
+		 75878	Hingoli, India
+		 75877	Peterborough, Ontario, Canada
+		 75872	Ciudad Choluteca, Honduras
+		 75865	Khemis Miliana, Algeria
+		 75856	Karangsembung, Indonesia
+		 75854	H_adera, Israel
+		 75849	Laixi, China
+		 75814	Kamensk-Shakhtinskiy, Russia
+		 75797	Bayramaly, Turkmenistan
+		 75794	Newcastle under Lyme, United Kingdom
+		 75786	Par» de Minas, Brazil
+		 75781	Shimada, Japan
+		 75781	Brooklyn Park, Minnesota, United States
+		 75764	Belovo, Russia
+		 75754	Somerville, Massachusetts, United States
+		 75753	Takefu, Japan
+		 75739	Tarub, Indonesia
+		 75737	Waterford, Michigan, United States
+		 75721	Igdir, Turkey
+		 75700	Jalal-Abad, Kyrgyzstan
+		 75694	Turbat, Pakistan
+		 75680	Bodinayakkanur, India
+		 75656	Jiaonan, China
+		 75654	Khadki, India
+		 75651	Battersea, United Kingdom
+		 75643	Chekhov, Russia
+		 75641	Bihac, Bosnia and Herzegovina
+		 75634	Chamchamal, Iraq
+		 75633	Battaramulla South, Sri Lanka
+		 75631	Batu, Indonesia
+		 75578	Dhrangadhra, India
+		 75568	Lynchburg, Virginia, United States
+		 75540	Tustin, California, United States
+		 75532	Pila, Poland
+		 75527	Nevsehir, Turkey
+		 75509	Chatham, United Kingdom
+		 75499	Nizhyn, Ukraine
+		 75474	Szolnok, Hungary
+		 75463	Ode, Nigeria
+		 75454	Banting, Malaysia
+		 75438	Schiedam, Netherlands
+		 75421	NTa Smfrni, Greece
+		 75411	Shahdadkot, Pakistan
+		 75402	Saint-Maur-des-FossTs, France
+		 75401	Campo Mourpo, Brazil
+		 75390	Baldwin Park, California, United States
+		 75371	Kendall, Florida, United States
+		 75350	Ulu Tiram, Malaysia
+		 75317	Azzaba, Algeria
+		 75315	Silifke, Turkey
+		 75281	Myslowice, Poland
+		 75256	Kru_evac, Serbia
+		 75251	Hongchªon, South Korea
+		 75244	KGmp=ng Chhnang, Cambodia
+		 75233	Shangmei, China
+		 75224	Paloncha, India
+		 75224	Igbo-Ukwu, Nigeria
+		 75208	Caserta, Italy
+		 75180	Palm Coast, Florida, United States
+		 75178	Cheektowaga, New York, United States
+		 75174	Hove, United Kingdom
+		 75123	Kitale, Kenya
+		 75104	Quibd=, Colombia
+		 75101	Arlington Heights, Illinois, United States
+		 75092	Meridian, Idaho, United States
+		 75078	Cipolletti, Argentina
+		 75062	Okegawa, Japan
+		 75061	Bayreuth, Germany
+		 75025	Guidonia, Italy
+		 75018	Deerfield Beach, Florida, United States
+		 75000	C? Chi, Vietnam
+		 75000	Ad Dakhla, Western Sahara
+		 74988	Spijkenisse, Netherlands
+		 74983	Encarnaci=n, Paraguay
+		 74982	Bethlehem, Pennsylvania, United States
+		 74968	Haninge, Sweden
+		 74948	Sault Ste. Marie, Ontario, Canada
+		 74907	Medford, Oregon, United States
+		 74901	Ar Ramtha, Jordan
+		 74889	Alvand, Iran
+		 74851	Gudur, India
+		 74818	Huilong, China
+		 74800	Keren, Eritrea
+		 74799	Chino Hills, California, United States
+		 74798	Silopi, Turkey
+		 74767	Beidao, China
+		 74755	Sidi Qacem, Morocco
+		 74749	Troisdorf, Germany
+		 74744	Bhalwal, Pakistan
+		 74742	Ankleshwar, India
+		 74740	Helmond, Netherlands
+		 74725	Yanggu, China
+		 74724	Tikamgarh, India
+		 74719	Sungailiat, Indonesia
+		 74701	Miki, Japan
+		 74694	Cachoeira do Sul, Brazil
+		 74668	Changnyeong, South Korea
+		 74650	Gobernador G»lvez, Argentina
+		 74640	Dipalpur, Pakistan
+		 74624	Ant=nio Enes, Mozambique
+		 74583	Asbest, Russia
+		 74565	Aylesbury, United Kingdom
+		 74561	Kawartha Lakes, Ontario, Canada
+		 74493	Bismil, Turkey
+		 74491	Araomoko Ekiti, Nigeria
+		 74486	Evanston, Illinois, United States
+		 74459	Shancheng, China
+		 74433	Calais, France
+		 74411	Gie+en, Germany
+		 74406	Nanma, China
+		 74370	Srivilliputtur, India
+		 74300	Darhan, Mongolia
+		 74287	Boosaaso, Somalia
+		 74282	Sivakasi, India
+		 74273	Ferrol, Spain
+		 74262	Kalamazoo, Michigan, United States
+		 74231	East Kilbride, United Kingdom
+		 74227	Schaumburg, Illinois, United States
+		 74212	Pilkhua, India
+		 74211	Khal»ndrion, Greece
+		 74208	Suisan, South Korea
+		 74190	VTlez-M»laga, Spain
+		 74188	AbTchT, Chad
+		 74188	Petarukan, Indonesia
+		 74172	Suixi, China
+		 74139	Xinmin, China
+		 74129	Tamworth, United Kingdom
+		 74121	Igbara-Odo, Nigeria
+		 74114	Ambajogai, India
+		 74100	MbakT, Senegal
+		 74099	Shelby, Michigan, United States
+		 74081	BTziers, France
+		 74066	Mountain View, California, United States
+		 74059	San Ram=n de la Nueva Or»n, Argentina
+		 74038	Gucheng Chengguanzhen, China
+		 74034	Vrilissia, Greece
+		 74028	Xianshuigu, China
+		 74021	Standerton, South Africa
+		 74014	Riberalta, Bolivia
+		 74014	Ciudad Real, Spain
+		 74005	Umes, Sweden
+		 73995	Inuyama, Japan
+		 73992	Bela, India
+		 73989	Ostrowiec Swietokrzyski, Poland
+		 73957	Santo Ant(nio de Jesus, Brazil
+		 73943	Bocholt, Germany
+		 73938	Bodhan, India
+		 73934	San Miguel de Cozumel, Quintana Roo, Mexico
+		 73922	Yunyang, China
+		 73917	Kennewick, Washington, United States
+		 73906	Khenifra, Morocco
+		 73884	Inhambane, Mozambique
+		 73879	Kortrijk, Belgium
+		 73835	Rabkavi, India
+		 73829	Chimbas, Argentina
+		 73814	Prilep, Macedonia
+		 73812	Ozubulu, Nigeria
+		 73812	Alameda, California, United States
+		 73798	Vlaardingen, Netherlands
+		 73787	Mijas, Spain
+		 73772	Grand-Bassam, Cote d'Ivoire
+		 73742	Aku, Nigeria
+		 73732	Guixi, China
+		 73732	Upland, California, United States
+		 73725	Kafr az Zayyat, Egypt
+		 73717	Karauli, India
+		 73706	Lanxi, China
+		 73680	Detmold, Germany
+		 73670	Al Buraymi, Oman
+		 73653	Victoria, Malaysia
+		 73648	Salina Cruz, Oaxaca, Mexico
+		 73631	Genhe, China
+		 73629	Gresik, Indonesia
+		 73622	Oyan, Nigeria
+		 73606	Shahabad, India
+		 73593	Red Deer, Alberta, Canada
+		 73585	Sewon, Indonesia
+		 73581	Luocheng, China
+		 73580	Fayetteville, Arkansas, United States
+		 73569	Badin, Pakistan
+		 73557	Kamina, Democratic Republic of the Congo
+		 73555	Chandpur, India
+		 73555	Nuneaton, United Kingdom
+		 73528	Naqadeh, Iran
+		 73528	Nurabad, Iran
+		 73495	Jega, Nigeria
+		 73480	Burnley, United Kingdom
+		 73478	Gokak, India
+		 73460	Melilla, Spain
+		 73379	Sikandarabad, India
+		 73374	Asaba, Nigeria
+		 73373	Kuki, Japan
+		 73366	Bolingbrook, Illinois, United States
+		 73360	Aguachica, Colombia
+		 73356	Mandurah, Western Australia, Australia
+		 73355	Ohafia-Ifigh, Nigeria
+		 73338	Mpanda, Tanzania
+		 73317	Juegang, China
+		 73273	Virudunagar, India
+		 73269	Bonao, Dominican Republic
+		 73268	Cuamba, Mozambique
+		 73260	Belek, Turkey
+		 73249	Paysand+, Uruguay
+		 73222	Tatvan, Turkey
+		 73212	General Roca, Argentina
+		 73210	Kawit, Philippines
+		 73206	New Britain, Connecticut, United States
+		 73176	Taman Senai, Malaysia
+		 73132	Sendai, Japan
+		 73128	Tamanrasset, Algeria
+		 73121	Siemianowice Slaskie, Poland
+		 73115	Hanamaki, Japan
+		 73105	KGhta, Turkey
+		 73100	Novomoskovsªk, Ukraine
+		 73089	Zhlobin, Belarus
+		 73074	Paisley, United Kingdom
+		 73068	Joypurhat, Bangladesh
+		 73054	Araure, Venezuela
+		 73034	Dausa, India
+		 73010	Jatibarang, Indonesia
+		 73007	Canton, Ohio, United States
+		 73006	Zugdidi, Georgia
+		 73000	Glogovac, Serbia
+		 72998	Cosenza, Italy
+		 72996	Shixing, China
+		 72996	Koch'ang, South Korea
+		 72989	Qaratuxur, Azerbaijan
+		 72987	Rubf, Spain
+		 72957	Dongdu, China
+		 72954	Balanga, Philippines
+		 72950	San Juan de la Maguana, Dominican Republic
+		 72944	Tetovo, Macedonia
+		 72929	Valsad, India
+		 72898	Ostr=w Wielkopolski, Poland
+		 72897	Saint George, Utah, United States
+		 72881	Pano Aqil, Pakistan
+		 72848	Paranavaf, Brazil
+		 72821	Ambikapur, India
+		 72819	Krathum Baen, Thailand
+		 72789	Dongkan, China
+		 72781	Minusinsk, Russia
+		 72774	Gela, Italy
+		 72762	Jopo Monlevade, Brazil
+		 72760	Fredrikstad, Norway
+		 72750	Salford, United Kingdom
+		 72725	Almelo, Netherlands
+		 72672	Kotri, Pakistan
+		 72663	Huangchuan, China
+		 72659	Tando Muhammad Khan, Pakistan
+		 72653	Lichuan, China
+		 72649	Georgiyevsk, Russia
+		 72643	Yelabuga, Russia
+		 72633	Carlisle, United Kingdom
+		 72632	Naro-Fominsk, Russia
+		 72623	Appleton, Wisconsin, United States
+		 72606	Bali, Cameroon
+		 72534	Nyzhnªohirsªkyy, Ukraine
+		 72514	Scunthorpe, United Kingdom
+		 72485	Miyang, China
+		 72468	Matpo, Brazil
+		 72458	Launceston, Tasmania, Australia
+		 72444	Beichengqu, China
+		 72435	Kongju, South Korea
+		 72432	Haru Zbad, Pakistan
+		 72372	Bacabal, Brazil
+		 72363	Ilagan, Philippines
+		 72340	Venado Tuerto, Argentina
+		 72340	Catapava, Brazil
+		 72337	NouGdhibou, Mauritania
+		 72335	Palghar, India
+		 72320	Aig»leo, Greece
+		 72310	Amaro+sion, Greece
+		 72303	Xinzhi, China
+		 72291	Dharapuram, India
+		 72280	Ann Touta, Algeria
+		 72279	Montepuez, Mozambique
+		 72229	Suva Reka, Kosovo
+		 72205	Esbjerg, Denmark
+		 72203	Folsom, California, United States
+		 72153	Sagay, Philippines
+		 72148	San Ramon, California, United States
+		 72125	Wyoming, Michigan, United States
+		 72124	Kyosai, South Korea
+		 72106	Limbe, Cameroon
+		 72095	Cheria, Algeria
+		 72085	Kuningan, Indonesia
+		 72077	Aruj», Brazil
+		 72076	Nizw», Oman
+		 72070	Zhoucheng, China
+		 72070	Capas, Philippines
+		 72052	Feodosiya, Ukraine
+		 72050	Cinisello Balsamo, Italy
+		 72038	Fuyuan, China
+		 72022	Cruzeiro, Brazil
+		 72008	Colonia Mariano Roque Alonso, Paraguay
+		 72000	Larnaca, Cyprus
+		 71993	Lake Charles, Louisiana, United States
+		 71963	Patrocfnio, Brazil
+		 71952	Gouda, Netherlands
+		 71944	TrOs Rios, Brazil
+		 71936	Yangsan, South Korea
+		 71934	Bothaville, South Africa
+		 71891	Caidian, China
+		 71873	Guildford, United Kingdom
+		 71866	Afikpo, Nigeria
+		 71862	Bebedouro, Brazil
+		 71841	Ordzhonikidzevskaya, Russia
+		 71836	Amatitl»n, Guatemala
+		 71802	Baytown, Texas, United States
+		 71798	Chintamani, India
+		 71783	Faridpur, India
+		 71741	Gastonia, North Carolina, United States
+		 71739	Southfield, Michigan, United States
+		 71729	Ynksekova, Turkey
+		 71722	Birkhadem, Algeria
+		 71708	Zaandam, Netherlands
+		 71700	Shakhtdrsk, Ukraine
+		 71660	Chelghoum el And, Algeria
+		 71656	Yawata, Japan
+		 71656	Apomu, Nigeria
+		 71614	Xiuyan, China
+		 71613	Saint-Jean-sur-Richelieu, Quebec, Canada
+		 71596	Daraya, Syria
+		 71594	Delgado, El Salvador
+		 71588	Pusad, India
+		 71585	Donggongon, Malaysia
+		 71582	Madhubani, India
+		 71582	Chernogorsk, Russia
+		 71578	Ito, Japan
+		 71546	Monastir, Tunisia
+		 71539	Spo Crist=vpo, Brazil
+		 71531	Khanabad, Afghanistan
+		 71530	Gnigne, Venezuela
+		 71522	Sragen, Indonesia
+		 71499	Sirsilla, India
+		 71499	Takestan, Iran
+		 71482	Fuengirola, Spain
+		 71479	Lowestoft, United Kingdom
+		 71475	Solana, Philippines
+		 71461	Fiditi, Nigeria
+		 71452	Silver Spring, Maryland, United States
+		 71447	Barnsley, United Kingdom
+		 71439	Norderstedt, Germany
+		 71436	Yumbo, Colombia
+		 71406	Alfenas, Brazil
+		 71395	Vapi, India
+		 71379	Khanjarah, Turkey
+		 71373	Upington, South Africa
+		 71373	Mardin, Turkey
+		 71354	Zelenogorsk, Russia
+		 71329	West Gulfport, Mississippi, United States
+		 71319	Parys, South Africa
+		 71306	Blagoevgrad, Bulgaria
+		 71291	Kazo, Japan
+		 71289	Yalova, Turkey
+		 71287	Dunkerque, France
+		 71284	Changtu, China
+		 71277	Yukuhashi, Japan
+		 71276	Asti, Italy
+		 71274	Bulacan, Philippines
+		 71263	Grosseto, Italy
+		 71260	Lnneburg, Germany
+		 71258	Zadar, Croatia
+		 71257	Abu Tij, Egypt
+		 71250	Svyetlahorsk, Belarus
+		 71224	Stargard Szczecinski, Poland
+		 71214	Pavia, Italy
+		 71202	Ijuf, Brazil
+		 71198	Anlu, China
+		 71180	Yilan, China
+		 71152	Sur, Oman
+		 71148	Pawtucket, Rhode Island, United States
+		 71135	Centreville, Virginia, United States
+		 71133	Taroudant, Morocco
+		 71096	Thakurgaon, Bangladesh
+		 71076	Muyinga, Burundi
+		 71066	Guiping, China
+		 71063	Gemlik, Turkey
+		 71053	Fuªan, China
+		 71052	Tenri, Japan
+		 71050	Riverview, Florida, United States
+		 71042	Kamareddi, India
+		 71034	Benidorm, Spain
+		 71027	Orita Eruwa, Nigeria
+		 71010	Celle, Germany
+		 70998	Bolpur, India
+		 70995	Rochester Hills, Michigan, United States
+		 70984	Ranaghat, India
+		 70934	Grays, United Kingdom
+		 70923	Hongwon, North Korea
+		 70914	Aubervilliers, France
+		 70888	Altamira, Brazil
+		 70887	Fazilka, India
+		 70887	Cremona, Italy
+		 70867	Kuandian, China
+		 70851	Wilmington, Delaware, United States
+		 70819	Teziutl»n, Puebla, Mexico
+		 70811	Vila Nova de Gaia, Portugal
+		 70793	Gosport, United Kingdom
+		 70790	Minab, Iran
+		 70787	Poyang, China
+		 70783	Yongfeng, China
+		 70781	Plaridel, Philippines
+		 70780	Kopeysk, Russia
+		 70779	Eha Amufu, Nigeria
+		 70761	Gongchangling, China
+		 70753	Paracatu, Brazil
+		 70751	Beypore, India
+		 70747	Alytus, Lithuania
+		 70746	Pervomaysªk, Ukraine
+		 70741	Lelystad, Netherlands
+		 70733	Jimo, China
+		 70718	Waukesha, Wisconsin, United States
+		 70709	Malumfashi, Nigeria
+		 70689	Carpina, Brazil
+		 70686	Galway, Ireland
+		 70679	Chesterfield, United Kingdom
+		 70634	Essaouira, Morocco
+		 70628	Bukoba, Tanzania
+		 70626	Antanifotsy, Madagascar
+		 70617	Lethbridge, Alberta, Canada
+		 70611	Mindelo, Cape Verde
+		 70609	Dadri, India
+		 70593	Byumba, Rwanda
+		 70576	Plymouth, Minnesota, United States
+		 70573	Dinslaken, Germany
+		 70572	Sankt Gallen, Switzerland
+		 70542	Pabianice, Poland
+		 70541	Tatab»nya, Hungary
+		 70516	Mariano, Philippines
+		 70508	Auraiya, India
+		 70501	Lamezia Terme, Italy
+		 70500	Vol'sk, Russia
+		 70483	Nungua, Ghana
+		 70475	Cherry Hill, New Jersey, United States
+		 70472	Baiquan, China
+		 70468	Beloretsk, Russia
+		 70455	Crewe, United Kingdom
+		 70447	Mansfield, United Kingdom
+		 70438	Contramaestre, Cuba
+		 70436	Pattoki, Pakistan
+		 70421	Ishimbay, Russia
+		 70402	Kastamonu, Turkey
+		 70400	Pharr, Texas, United States
+		 70386	Pagaralam, Indonesia
+		 70380	Iguatu, Brazil
+		 70375	Jiangyan, China
+		 70357	Shiguai, China
+		 70339	Maebaru, Japan
+		 70299	Sunyani, Ghana
+		 70290	Delfshaven, Netherlands
+		 70288	Nicastro, Italy
+		 70285	Pleasanton, California, United States
+		 70270	Danao, Philippines
+		 70269	Gniezno, Poland
+		 70251	Alphen aan den Rijn, Netherlands
+		 70248	Kadirli, Turkey
+		 70245	Goya, Argentina
+		 70239	ChGu -?c, Vietnam
+		 70238	La Piedad Cavadas, Guanajuato, Mexico
+		 70220	Zubovka, Azerbaijan
+		 70214	Schweizer-Reneke, South Africa
+		 70200	Adler, Russia
+		 70180	Auburn, Washington, United States
+		 70171	Xiashi, China
+		 70171	Karakol, Kyrgyzstan
+		 70171	Dogubayazit, Turkey
+		 70155	Alcal» de Guadaira, Spain
+		 70147	Chapayevsk, Russia
+		 70145	Jacksonville, North Carolina, United States
+		 70117	Bapatla, India
+		 70094	Taungdwingyi, Myanmar
+		 70087	Lisala, Democratic Republic of the Congo
+		 70085	Muncie, Indiana, United States
+		 70069	Payyannur, India
+		 70047	Bamberg, Germany
+		 70046	Khalis, Iraq
+		 70013	Luxu, China
+		 70013	Ciudad Sandino, Nicaragua
+		 70011	Cannes, France
+		 70010	Tiflet, Morocco
+		 70003	Kladno, Czech Republic
+		 70000	Baykonyr, Kazakhstan
+		 70000	Dainava (Kaunas), Lithuania
+		 70000	Fordon, Poland
+		 70000	Maple Ridge, British Columbia, Canada
+		 69998	Ho, Ghana
+		 69986	Le Tampon, Reunion
+		 69916	Mengcheng Chengguanzhen, China
+		 69915	Wangkui, China
+		 69889	Abhar, Iran
+		 69879	Gnira de Melena, Cuba
+		 69878	Taliparamba, India
+		 69871	Mertoyudan, Indonesia
+		 69863	Votuporanga, Brazil
+		 69857	Consolaci=n del Sur, Cuba
+		 69839	Tindivanam, India
+		 69816	Segamat, Malaysia
+		 69797	Springdale, Arkansas, United States
+		 69791	MTrignac, France
+		 69785	Trnava, Slovakia
+		 69783	Bondowoso, Indonesia
+		 69781	Passaic, New Jersey, United States
+		 69772	Lynwood, California, United States
+		 69743	Kohror Pakka, Pakistan
+		 69740	Sidi Anssa, Algeria
+		 69734	Totonicap»n, Guatemala
+		 69726	Dehdasht, Iran
+		 69725	Kaura Namoda, Nigeria
+		 69720	Techiman, Ghana
+		 69682	Las Piedras, Uruguay
+		 69661	Dabou, Cote d'Ivoire
+		 69646	Warabi, Japan
+		 69638	Chalus, Iran
+		 69622	Arba Minchª, Ethiopia
+		 69613	Paragominas, Brazil
+		 69603	Khash, Iran
+		 69596	Tuy H=a, Vietnam
+		 69575	Brossard, Quebec, Canada
+		 69563	Tanabe, Japan
+		 69540	Shirpur, India
+		 69535	Linares, Chile
+		 69519	Shrewsbury, United Kingdom
+		 69516	Union City, California, United States
+		 69470	Marousi, Greece
+		 69451	Villa Carlos Paz, Argentina
+		 69451	Lins, Brazil
+		 69448	Syriam, Myanmar
+		 69404	Sayyan, Yemen
+		 69394	Jaboticabal, Brazil
+		 69374	Gujar Khan, Pakistan
+		 69359	Kot Malik, Pakistan
+		 69335	Isna, Egypt
+		 69321	Chuhar Kana, Pakistan
+		 69302	Kampong Baharu Balakong, Malaysia
+		 69298	LªArba, Algeria
+		 69278	Basoda, India
+		 69270	Bafia, Cameroon
+		 69264	Arauca, Colombia
+		 69255	Anseong, South Korea
+		 69245	Jiehu, China
+		 69225	Vaslui, Romania
+		 69222	Hasselt, Belgium
+		 69222	Suwalki, Poland
+		 69217	Chilliwack, British Columbia, Canada
+		 69189	Omihachiman, Japan
+		 69149	Linjiang, China
+		 69136	Hunedoara, Romania
+		 69135	Apple Valley, California, United States
+		 69102	Las Cumbres, Panama
+		 69067	Giurgiu, Romania
+		 69064	Toba Tek Singh, Pakistan
+		 69060	Potenza, Italy
+		 69050	Tantou, China
+		 69033	Jorhat, India
+		 69011	Oostende, Belgium
+		 69011	Nganjuk, Indonesia
+		 69010	Sint-Niklaas, Belgium
+		 68994	Xiaoshi, China
+		 68994	Denov, Uzbekistan
+		 68988	Magalang, Philippines
+		 68956	Ragusa, Italy
+		 68938	Bogale, Myanmar
+		 68935	Gnines, Cuba
+		 68888	Manbij, Syria
+		 68885	Saku, Japan
+		 68872	Hekinan, Japan
+		 68852	Hoorn, Netherlands
+		 68846	Libon, Philippines
+		 68836	Wum, Cameroon
+		 68835	Chulucanas, Peru
+		 68831	Mila, Algeria
+		 68829	Tuymazy, Russia
+		 68793	Sindhnur, India
+		 68790	Sukagawa, Japan
+		 68785	Enugu-Ukwu, Nigeria
+		 68767	Ga-Rankuwa, South Africa
+		 68749	Abnub, Egypt
+		 68747	Redlands, California, United States
+		 68736	Ponferrada, Spain
+		 68735	Fukuchiyama, Japan
+		 68714	Kamloops, British Columbia, Canada
+		 68703	Bir el Ater, Algeria
+		 68703	Idah, Nigeria
+		 68680	Vitosa, Brazil
+		 68670	Bargarh, India
+		 68660	Lysªva, Russia
+		 68654	Sougueur, Algeria
+		 68635	GSvle, Sweden
+		 68622	Washim, India
+		 68619	Visnagar, India
+		 68603	Heishan, China
+		 68602	San Mateo Atenco, MTxico, Mexico
+		 68597	Borisoglebsk, Russia
+		 68584	Moriyama, Japan
+		 68584	Obonoma, Nigeria
+		 68563	Sosnovyy Bor, Russia
+		 68561	Palwancha, India
+		 68557	Palatine, Illinois, United States
+		 68551	Aschaffenburg, Germany
+		 68549	Turlock, California, United States
+		 68535	Sabanalarga, Colombia
+		 68530	Glog=w, Poland
+		 68518	Keshod, India
+		 68514	Tanghe, China
+		 68512	Chinchin», Colombia
+		 68503	LªAquila, Italy
+		 68484	Budapest XVI. kernlet, Hungary
+		 68482	Tsuruga, Japan
+		 68456	Tanauan, Philippines
+		 68450	Kannangad, India
+		 68449	Guasave, Sinaloa, Mexico
+		 68446	Agua Prieta, Sonora, Mexico
+		 68442	Pengcheng, China
+		 68433	Ann Fakroun, Algeria
+		 68406	Waterloo, Iowa, United States
+		 68405	Vaciamadrid, Spain
+		 68394	Al Qusiyah, Egypt
+		 68386	Perris, California, United States
+		 68381	Al Jamaliyah, Egypt
+		 68375	Shima, China
+		 68355	Bisalpur, India
+		 68351	Mingguang, China
+		 68346	Trapani, Italy
+		 68330	Ninghai, China
+		 68318	Framingham, Massachusetts, United States
+		 68309	San Isidro, Peru
+		 68304	Malindi, Kenya
+		 68292	Tnrkmenbasy, Turkmenistan
+		 68291	Narowal, Pakistan
+		 68290	Tanuku, India
+		 68290	Al Fa?a?il, Kuwait
+		 68284	Saldanha, South Africa
+		 68263	Krasnoarmiysªk, Ukraine
+		 68259	Dolgoprudnyy, Russia
+		 68246	Tolga, Algeria
+		 68244	Lodja, Democratic Republic of the Congo
+		 68230	Sÿke, Turkey
+		 68217	Boynton Beach, Florida, United States
+		 68159	Matsuto, Japan
+		 68148	Langerud, Iran
+		 68120	Balotra, India
+		 68110	Majadahonda, Spain
+		 68105	Kuqa, China
+		 68084	Es Senia, Algeria
+		 68082	Neubrandenburg, Germany
+		 68081	Catbalogan, Philippines
+		 68073	Artemisa, Cuba
+		 68067	Cannock, United Kingdom
+		 68056	Balsas, Brazil
+		 68051	Pithampur, India
+		 68043	Chelm, Poland
+		 68040	Quartu SantªElena, Italy
+		 68037	Torez, Ukraine
+		 68032	Bir el Djir, Algeria
+		 68000	Munnar, India
+		 68000	Sverdlovsªk, Ukraine
+		 67994	Santa Catarina Pinula, Guatemala
+		 67994	Cadereyta, Nuevo Le=n, Mexico
+		 67992	Chamrajnagar, India
+		 67987	Bourges, France
+		 67982	Pattukkottai, India
+		 67965	Ardesen, Turkey
+		 67963	Chaihe, China
+		 67962	Buddnnovsk, Russia
+		 67956	Rapid City, South Dakota, United States
+		 67947	Santa Fe, New Mexico, United States
+		 67945	Minggang, China
+		 67936	Tangzhai, China
+		 67934	Itatiba, Brazil
+		 67927	Barberton, South Africa
+		 67921	Calbayog, Philippines
+		 67911	Belogorsk, Russia
+		 67905	Most, Czech Republic
+		 67895	Concepci=n del Uruguay, Argentina
+		 67862	Iowa City, Iowa, United States
+		 67861	Garissa, Kenya
+		 67843	Mount Pleasant, South Carolina, United States
+		 67835	NTa Ionfa, Greece
+		 67820	Dongfeng, China
+		 67819	Roman, Romania
+		 67818	Berlad, Romania
+		 67802	Deva, Romania
+		 67800	Khanty-Mansiysk, Russia
+		 67793	Gulfport, Mississippi, United States
+		 67788	Dayrut, Egypt
+		 67786	Tamano, Japan
+		 67779	Quillota, Chile
+		 67768	Ellesmere Port, United Kingdom
+		 67763	Saraburi, Thailand
+		 67762	Ishim, Russia
+		 67760	Zhenlai, China
+		 67758	Velsen-Zuid, Netherlands
+		 67752	Waldorf, Maryland, United States
+		 67746	Kaposv»r, Hungary
+		 67721	Tournai, Belgium
+		 67717	Matehuala, San Luis Potosf, Mexico
+		 67698	Kalush, Ukraine
+		 67694	Damghan, Iran
+		 67689	Miramar, Tamaulipas, Mexico
+		 67672	Songjianghe, China
+		 67670	Ede, Netherlands
+		 67670	Doncaster, United Kingdom
+		 67664	Subic, Philippines
+		 67658	Tsushima, Japan
+		 67652	Palang, Bangladesh
+		 67639	Glen Burnie, Maryland, United States
+		 67638	Yafran, Libya
+		 67637	Juchit»n de Zaragoza, Oaxaca, Mexico
+		 67610	Agbor, Nigeria
+		 67604	Jaisalmer, India
+		 67599	Toukh, Egypt
+		 67593	Luorong, China
+		 67567	Bislig, Philippines
+		 67530	Smila, Ukraine
+		 67516	Guidonia Montecelio, Italy
+		 67491	Soio, Angola
+		 67486	Al Manzilah, Egypt
+		 67474	Araria, India
+		 67446	San Antonio, Philippines
+		 67439	Shorko, Pakistan
+		 67433	Wenling, China
+		 67433	Chaguanas, Trinidad and Tobago
+		 67424	Santa InOs, Brazil
+		 67414	Ezza Ohu, Nigeria
+		 67397	Fuqing, China
+		 67387	Harda, India
+		 67372	Nakatsu, Japan
+		 67370	Caohe, China
+		 67358	Missouri City, Texas, United States
+		 67349	Dimbokro, Cote d'Ivoire
+		 67336	Isabela, Philippines
+		 67311	Layton, Utah, United States
+		 67309	Sangamner, India
+		 67294	Tejen, Turkmenistan
+		 67293	San Luis, Cuba
+		 67292	Mount Vernon, New York, United States
+		 67290	Mukono, Uganda
+		 67273	Pingzhuang, China
+		 67269	Kasese, Uganda
+		 67263	Jonesboro, Arkansas, United States
+		 67249	Shahdadpur, Pakistan
+		 67245	Tubarpo, Brazil
+		 67242	Kstovo, Russia
+		 67219	Lippstadt, Germany
+		 67203	Jaora, India
+		 67197	Tomasz=w Mazowiecki, Poland
+		 67159	Shiojiri, Japan
+		 67153	Hypaepa, Turkey
+		 67140	Lafayette, Indiana, United States
+		 67139	Fengkou, China
+		 67132	Mbanki, Central African Republic
+		 67100	Bet Shemesh, Israel
+		 67096	Manteca, California, United States
+		 67090	Melati, Indonesia
+		 67085	Aalen, Germany
+		 67078	¬erkezkÿy, Turkey
+		 67062	Chiryu, Japan
+		 67054	Saint-Nazaire, France
+		 67013	Przemysl, Poland
+		 66991	Buldana, India
+		 66982	Youngstown, Ohio, United States
+		 66980	Narva, Estonia
+		 66975	Liuhe, China
+		 66970	Bima, Indonesia
+		 66949	San Francisco del Rinc=n, Guanajuato, Mexico
+		 66944	Mettuppalaiyam, India
+		 66929	Castellammare di Stabia, Italy
+		 66909	Solna, Sweden
+		 66888	Anjar, India
+		 66887	Lauderhill, Florida, United States
+		 66885	Aleksin, Russia
+		 66859	Loveland, Colorado, United States
+		 66848	Xihua, China
+		 66832	Oulad Tenma, Morocco
+		 66818	Ambovombe, Madagascar
+		 66805	Neuwied, Germany
+		 66795	Casas Adobes, Arizona, United States
+		 66790	Milpitas, California, United States
+		 66788	Missoula, Montana, United States
+		 66784	Bajos de Haina, Dominican Republic
+		 66769	Massa, Italy
+		 66748	Redondo Beach, California, United States
+		 66734	Unna, Germany
+		 66716	Dambulla, Sri Lanka
+		 66713	Trang, Thailand
+		 66709	Banf, Dominican Republic
+		 66702	Sayhat, Saudi Arabia
+		 66702	Kenner, Louisiana, United States
+		 66686	Bakixanov, Azerbaijan
+		 66670	Dinalupihan, Philippines
+		 66660	Bellampalli, India
+		 66654	Akbou, Algeria
+		 66647	Channapatna, India
+		 66636	Takayama, Japan
+		 66625	Ratangarh, India
+		 66623	Tailai, China
+		 66593	La Mohammedia, Tunisia
+		 66589	Lod, Israel
+		 66588	Chengyang, China
+		 66588	Warner Robins, Georgia, United States
+		 66576	Sanchazi, China
+		 66576	Maharagama, Sri Lanka
+		 66575	Kalulushi, Zambia
+		 66558	Firuzabad, Iran
+		 66553	SavannakhTt, Laos
+		 66541	Shabqadar, Pakistan
+		 66501	Lianyuan, China
+		 66495	Stalowa Wola, Poland
+		 66486	Mansehra, Pakistan
+		 66482	Sokaraja, Indonesia
+		 66455	Union City, New Jersey, United States
+		 66450	White Rock, British Columbia, Canada
+		 66419	Krishnagiri, India
+		 66412	Plauen, Germany
+		 66400	Kovelª, Ukraine
+		 66390	Rishikesh, India
+		 66389	Kungur, Russia
+		 66358	Goyerkata, India
+		 66336	Klintsy, Russia
+		 66332	Togane, Japan
+		 66320	Neryungri, Russia
+		 66315	Huinan, China
+		 66311	San Miguel de Allende, Guanajuato, Mexico
+		 66300	Brixton, United Kingdom
+		 66293	Zamora, Spain
+		 66292	Palai= F»liro, Greece
+		 66291	Sabae, Japan
+		 66287	Besbes, Algeria
+		 66263	Leninogorsk, Russia
+		 66256	Bergen op Zoom, Netherlands
+		 66252	Chaibasa, India
+		 66231	Loures, Portugal
+		 66226	Saint-Marc, Haiti
+		 66224	Najin, North Korea
+		 66217	Veliko Turnovo, Bulgaria
+		 66194	Portland, Maine, United States
+		 66176	Mandamarri, India
+		 66175	Gabrovo, Bulgaria
+		 66170	Bamiantong, China
+		 66158	Burdur, Turkey
+		 66154	Rock Hill, South Carolina, United States
+		 66147	Huanren, China
+		 66145	Yuanjiang, China
+		 66138	I¦zaz, Syria
+		 66135	Schenectady, New York, United States
+		 66110	Gamping Lor, Indonesia
+		 66102	Temple, Texas, United States
+		 66087	Huanan, China
+		 66085	Palni, India
+		 66085	Alba Iulia, Romania
+		 66083	Oshkosh, Wisconsin, United States
+		 66079	Gukovo, Russia
+		 66070	Sagunto, Spain
